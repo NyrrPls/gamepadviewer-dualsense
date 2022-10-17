@@ -2,13 +2,16 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="190.75868"
+   width="92.923126"
    height="94.711967"
-   viewBox="0 0 50.47157 25.059207"
+   viewBox="0 0 24.585911 25.059207"
    version="1.1"
    id="svg5"
    sodipodi:docname="triggers.svg"
    inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   inkscape:export-filename="D:\Projects\Code\Gamepadviewer - Dualsense\ressources\PNG\trigger.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -27,7 +30,7 @@
      inkscape:guide-bbox="true"
      inkscape:zoom="2.8284272"
      inkscape:cx="69.119686"
-     inkscape:cy="131.1683"
+     inkscape:cy="102.88403"
      inkscape:window-width="2560"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
@@ -41,7 +44,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0">
     <sodipodi:guide
-       position="80.779505,77.2232"
+       position="80.779504,77.223199"
        orientation="-1,0"
        id="guide9844"
        inkscape:label=""
@@ -806,7 +809,7 @@
          id="g4058"
          inkscape:label="Left Button 2"
          transform="matrix(0.24619594,-0.04341099,0.04341099,0.24619594,323.64546,282.47422)"
-         style="stroke:#000000;stroke-opacity:1;fill:#f0495a;fill-opacity:1">
+         style="fill:#f0495a;fill-opacity:1;stroke:#000000;stroke-opacity:1">
         <path
            class="cls-12"
            d="m 108.8,90.8 c 0,0 32.7,-3.2 50.6,-3.2 17.9,0 48.3,2.4 48.3,2.4 0,0 0.55925,-27.62808 -4.8,-52 -3.48295,-23.047476 -18.75562,-36.1863085 -39.7,-38 -10.8,0 -25.4,6.4 -34.6,21.4 -9.2,15 -19.8,69.4 -19.8,69.4 z"
@@ -814,20 +817,6 @@
            id="path4046"
            sodipodi:nodetypes="cscccsc"
            style="fill:#f0495a;fill-opacity:1;stroke:#000000;stroke-opacity:1" />
-      </g>
-      <g
-         id="g19553"
-         inkscape:label="Right Button 2"
-         transform="matrix(-0.24619594,-0.04341099,-0.04341099,0.24619594,435.36598,282.47422)"
-         style="stroke:#000000;stroke-opacity:1;fill:#f0495a;fill-opacity:1">
-        <path
-           class="cls-12"
-           d="m 108.8,90.8 c 0,0 32.7,-3.2 50.6,-3.2 17.9,0 48.3,2.4 48.3,2.4 0,0 0.55925,-27.62808 -4.8,-52 -3.48295,-23.047476 -18.75562,-36.1863085 -39.7,-38 -10.8,0 -25.4,6.4 -34.6,21.4 -9.2,15 -19.8,69.4 -19.8,69.4 z"
-           transform="translate(0.1)"
-           id="path19549"
-           sodipodi:nodetypes="cscccsc"
-           style="fill:#f0495a;fill-opacity:1;stroke:#000000;stroke-opacity:1"
-           inkscape:label="Right Button 2" />
       </g>
     </g>
   </g>
