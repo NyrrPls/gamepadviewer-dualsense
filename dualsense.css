@@ -132,16 +132,16 @@
 /* Analog Sticks ------------------------------------------------------- */
 .custom .sticks{
   position: absolute;
-  width: 364px;
+  width: 371px;
   height: 105px;
   top: 328px;
-  left: 210px;
+  left: 239px;
 }
 .custom .stick{
   position: absolute;
   background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/SVG/sticks.svg);
   height:80px;
-  width: 162px;
+  width: 80px;
 }
 .custom .stick.pressed.left{
   background-position-x: -106px;
