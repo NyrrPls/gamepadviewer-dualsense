@@ -25,9 +25,9 @@
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
-     inkscape:zoom="1"
-     inkscape:cx="246.49999"
-     inkscape:cy="88.999998"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="91.570328"
+     inkscape:cy="12.020815"
      inkscape:window-width="2560"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
@@ -843,7 +843,7 @@
   <g
      id="g26626-5"
      inkscape:label="Triangle  (active)"
-     transform="matrix(0.26813374,0,0,0.26813374,0.71300706,-0.39361461)"
+     transform="matrix(0.26813374,0,0,0.26813374,0.71300706,-1.0630978)"
      style="display:inline">
     <path
        class="cls-7"
@@ -861,7 +861,7 @@
   <g
      id="g26616-7"
      inkscape:label="Square  (active)"
-     transform="matrix(0.26813374,0,0,0.26813374,0.38596106,-0.36680161)"
+     transform="matrix(0.26813374,0,0,0.26813374,0.38596106,-1.0362848)"
      style="display:inline">
     <path
        class="cls-7"
@@ -879,7 +879,7 @@
   <g
      id="g26606-8"
      inkscape:label="Circle  (active)"
-     transform="matrix(0.26813374,0,0,0.26813374,0.05891366,-0.36680161)"
+     transform="matrix(0.26813374,0,0,0.26813374,0.05891366,-1.0362847)"
      style="display:inline">
     <path
        class="cls-7"
@@ -896,7 +896,7 @@
   </g>
   <g
      id="g26596-7"
-     transform="matrix(0.26813374,0,0,0.26813374,-0.26813374,-0.42042861)"
+     transform="matrix(0.26813374,0,0,0.26813374,-0.26813374,-1.0899117)"
      inkscape:label="X (active)"
      style="display:inline">
     <path
@@ -907,7 +907,7 @@
        inkscape:label="Button" />
     <polygon
        class="cls-9"
-       points="29.3,85.1 41.7,72.7 39.7,70.7 27.3,83.1 14.9,70.7 12.9,72.7 25.3,85.1 12.9,97.5 14.9,99.5 27.3,87.1 39.7,99.5 41.7,97.5 "
+       points="39.7,99.5 41.7,97.5 29.3,85.1 41.7,72.7 39.7,70.7 27.3,83.1 14.9,70.7 12.9,72.7 25.3,85.1 12.9,97.5 14.9,99.5 27.3,87.1 "
        id="polygon26594-4"
        style="fill:#ffffff;fill-opacity:1"
        inkscape:label="Icon" />
@@ -975,7 +975,7 @@
        inkscape:label="Button" />
     <polygon
        class="cls-9"
-       points="41.7,97.5 29.3,85.1 41.7,72.7 39.7,70.7 27.3,83.1 14.9,70.7 12.9,72.7 25.3,85.1 12.9,97.5 14.9,99.5 27.3,87.1 39.7,99.5 "
+       points="12.9,72.7 25.3,85.1 12.9,97.5 14.9,99.5 27.3,87.1 39.7,99.5 41.7,97.5 29.3,85.1 41.7,72.7 39.7,70.7 27.3,83.1 14.9,70.7 "
        id="polygon26594"
        style="fill:#ffffff;fill-opacity:1"
        inkscape:label="Icon" />
