@@ -27,7 +27,7 @@
      inkscape:guide-bbox="true"
      inkscape:zoom="1"
      inkscape:cx="-144.5"
-     inkscape:cy="216.99999"
+     inkscape:cy="217"
      inkscape:window-width="2560"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
@@ -804,7 +804,7 @@
        inkscape:groupmode="layer" />
     <path
        id="path6397"
-       style="display:inline;fill:#f0495a;fill-opacity:1;stroke:#000000;stroke-width:0.356701px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="display:inline;fill:#f0495a;fill-opacity:1;stroke:none;stroke-width:0.356701px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 157.52395,47.221918 c -4.93699,-0.01146 -25.3927,0.02793 -36.7145,1.385705 -4.39076,0.52657 -5.68795,3.007916 -5.75739,5.577646 l 6.11687,32.303109 c 0.75247,2.808259 5.04849,7.654461 8.94472,7.654461 h 28.49992 28.50061 c 3.89623,0 8.19225,-4.846202 8.94472,-7.654461 l 6.11688,-32.303109 c -0.0694,-2.56973 -1.36664,-5.051076 -5.75739,-5.577646 -12.92788,-1.550401 -37.80065,-1.380829 -37.80065,-1.380829 v 0 z"
        inkscape:label="Touchpad"
        sodipodi:nodetypes="csccscsccsccc" />

@@ -7,7 +7,7 @@
    viewBox="0 0 24.585911 25.059207"
    version="1.1"
    id="svg5"
-   sodipodi:docname="triggers.svg"
+   sodipodi:docname="trigger.svg"
    inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
    inkscape:export-filename="D:\Projects\Code\Gamepadviewer - Dualsense\ressources\PNG\trigger.png"
    inkscape:export-xdpi="96"
@@ -809,14 +809,14 @@
          id="g4058"
          inkscape:label="Left Button 2"
          transform="matrix(0.24619594,-0.04341099,0.04341099,0.24619594,323.64546,282.47422)"
-         style="fill:#f0495a;fill-opacity:1;stroke:#000000;stroke-opacity:1">
+         style="fill:#f0495a;fill-opacity:1;stroke:none;stroke-opacity:1">
         <path
            class="cls-12"
            d="m 108.8,90.8 c 0,0 32.7,-3.2 50.6,-3.2 17.9,0 48.3,2.4 48.3,2.4 0,0 0.55925,-27.62808 -4.8,-52 -3.48295,-23.047476 -18.75562,-36.1863085 -39.7,-38 -10.8,0 -25.4,6.4 -34.6,21.4 -9.2,15 -19.8,69.4 -19.8,69.4 z"
            transform="translate(0.1)"
            id="path4046"
            sodipodi:nodetypes="cscccsc"
-           style="fill:#f0495a;fill-opacity:1;stroke:#000000;stroke-opacity:1" />
+           style="fill:#f0495a;fill-opacity:1;stroke:none;stroke-opacity:1" />
       </g>
     </g>
   </g>
