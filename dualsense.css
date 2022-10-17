@@ -95,10 +95,10 @@
 /* Face Buttons ------------------------------------------------------- */
 .custom .abxy{
   position: absolute;
-  width: 204px;
-  height: 205px;
-  top: 156px;
-  left: 538px;
+  width: 180px;
+  height: 180px;
+  top: 154px;
+  left: 580px;
 }
 /* base class used to simplify the sprite mapping */
 .custom .button{
