@@ -77,7 +77,7 @@
 }
 /* Setting the size and CSS sprite for the start and select buttons */
 .custom .back, .custom .start{
-  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/PNG/menu.png);
+  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/SVG/menu.svg);
   width: 24px;
   height: 37px;
 }
