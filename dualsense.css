@@ -1,3 +1,5 @@
+/* Link to raw css: https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/dualsense.css /*
+
 /*BEGIN PS5 Controller Styling*/
 /*This class defines the base attributes of the skin*/
 
@@ -103,13 +105,13 @@
 /* base class used to simplify the sprite mapping */
 .custom .button{
   position: absolute;
-  width:62px;
-  height:62px;
+  width:53px;
+  height:53px;
   background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/SVG/face.svg);
 }
 .custom .button.pressed{
-  background-position-y: -63px;
-  margin-top: 5px;
+  background-position-y: -55px;
+  margin-top: 0px;
 }
 .custom .a{
   background-position: 62px 0;
