@@ -3,7 +3,7 @@
 
 /* The Base of the Controller ------------------------------------------------------- */
 .controller.custom{
-  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/PNG/base.png); 
+  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/SVG/base.svg); 
   height: 624px;
   width: 824px;
 }
