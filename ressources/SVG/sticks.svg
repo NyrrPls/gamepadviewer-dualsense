@@ -25,15 +25,15 @@
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="-54.800774"
-     inkscape:cy="132.22896"
+     inkscape:zoom="4.0000001"
+     inkscape:cx="8.3749998"
+     inkscape:cy="50.249999"
      inkscape:window-width="2560"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g3084"
+     inkscape:current-layer="layer2"
      units="px"
      height="800px"
      fit-margin-top="0"
@@ -799,10 +799,10 @@
     <g
        id="layer7"
        inkscape:label="Sticks"
-       style="display:inline"
+       style="display:inline;fill:#ffffff;fill-opacity:1"
        transform="matrix(1.3481643,0,0,1.3481643,-55.271089,-14.739694)">
       <ellipse
-         style="display:inline;opacity:1;fill:#f0495a;fill-opacity:1;stroke:none;stroke-width:0.420613;stroke-opacity:0.5"
+         style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.420613;stroke-opacity:0.5"
          id="circle1003"
          cx="86.204247"
          cy="36.579918"
@@ -816,7 +816,7 @@
        style="display:inline"
        transform="matrix(1.3481643,0,0,1.3481643,-33.575242,-14.739694)">
       <circle
-         style="display:inline;opacity:1;fill:#f7a1aa;fill-opacity:1;stroke:none;stroke-width:0.420613;stroke-opacity:0.5"
+         style="display:inline;opacity:1;fill:#f0495a;fill-opacity:1;stroke:none;stroke-width:0.420613;stroke-opacity:0.5"
          id="circle3082"
          cx="86.204247"
          cy="36.579918"
