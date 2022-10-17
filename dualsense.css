@@ -108,7 +108,7 @@
   background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/SVG/face.svg);
 }
 .custom .button.pressed{
-  background-position-y: -64px;
+  background-position-y: -63px;
   margin-top: 5px;
 }
 .custom .a{
@@ -144,10 +144,10 @@
   width: 80px;
 }
 .custom .stick.pressed.left{
-  background-position-x: -106px;
+  background-position-x: -80px;
 }
 .custom .stick.pressed.right{
-  background-position-x: -211px;
+  background-position-x: -80px;
 }
 .custom .stick.left{
   top: 0;
