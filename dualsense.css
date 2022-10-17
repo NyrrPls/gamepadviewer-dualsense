@@ -26,7 +26,7 @@
 .custom .trigger{/* These are the actual triggers themselves */
   width:95px;
   height:95px;
-  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/PNG/triggers.png);
+  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/PNG/trigger.png);
   opacity: 0;
 }
 /* The left and right classes below are used to position the triggers
