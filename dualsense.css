@@ -43,7 +43,7 @@
 .custom .bumpers{
   position: absolute;
   width: 586px;
-  height: 28px;
+  height: 30px;
   left: 99px;
   top: 72px;
 }
@@ -105,7 +105,7 @@
   position: absolute;
   width:62px;
   height:62px;
-  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/PNG/face.png);
+  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/SVG/face.svg);
 }
 .custom .button.pressed{
   background-position-y: -64px;
@@ -139,7 +139,7 @@
 }
 .custom .stick{
   position: absolute;
-  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/PNG/sticks.png);
+  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/SVG/sticks.svg);
   height:80px;
   width: 162px;
 }
@@ -166,7 +166,7 @@
   left: 74px;
 }
 .custom .face{
-  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/PNG/dpad.png);
+  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/SVG/dpad.svg);
   position: absolute;
 }
 .custom .face.up, .custom .face.down{
