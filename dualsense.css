@@ -10,7 +10,7 @@
 
 /* Disconnected Controller ------------------------------------------------------- */
 .custom.disconnected { /* This class shows an image when the controller is disconnected */
-  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/SVG/base.svg);
+  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/SVG/disconnected.svg);
 }
 /* This hides the controller's button when disconnected so only the background image remains */ 
 .custom.disconnected div {
@@ -108,7 +108,7 @@
   background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/SVG/face.svg);
 }
 .custom .button.pressed{
-  background-position-y: -64px;
+  background-position-y: -63px;
   margin-top: 5px;
 }
 .custom .a{
@@ -132,9 +132,9 @@
 /* Analog Sticks ------------------------------------------------------- */
 .custom .sticks{
   position: absolute;
-  width: 371px;
-  height: 105px;
-  top: 328px;
+  width: 346px;
+  height: 80px;
+  top: 318px;
   left: 239px;
 }
 .custom .stick{
@@ -144,10 +144,10 @@
   width: 80px;
 }
 .custom .stick.pressed.left{
-  background-position-x: -106px;
+  background-position-x: -82px;
 }
 .custom .stick.pressed.right{
-  background-position-x: -211px;
+  background-position-x: -82px;
 }
 .custom .stick.left{
   top: 0;
@@ -155,7 +155,7 @@
 }
 .custom .stick.right{
   top: 0;
-  left: calc(100% - 105px);
+  left: calc(100% - 80px);
 }
 /* DPad ------------------------------------------------------- */
 .custom .dpad{
