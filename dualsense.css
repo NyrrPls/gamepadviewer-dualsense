@@ -24,7 +24,7 @@
   left: 99px;
 }
 .custom .trigger{/* These are the actual triggers themselves */
-  width:191px;
+  width:95px;
   height:95px;
   background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/PNG/triggers.png);
   opacity: 0;
