@@ -132,9 +132,9 @@
 /* Analog Sticks ------------------------------------------------------- */
 .custom .sticks{
   position: absolute;
-  width: 371px;
-  height: 105px;
-  top: 328px;
+  width: 346px;
+  height: 80px;
+  top: 318px;
   left: 239px;
 }
 .custom .stick{
@@ -155,7 +155,7 @@
 }
 .custom .stick.right{
   top: 0;
-  left: calc(100% - 105px);
+  left: calc(100% - 80px);
 }
 /* DPad ------------------------------------------------------- */
 .custom .dpad{
