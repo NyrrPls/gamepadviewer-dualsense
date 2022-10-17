@@ -1,15 +1,14 @@
 /*BEGIN PS5 Controller Styling*/
 /*This class defines the base attributes of the skin*/
+
+/* The Base of the Controller ------------------------------------------------------- */
 .controller.custom{
-  /* The background image is basically the base for the controller's skin. The 
-  PS3 controller's skin can be found at http://mrmcpowned.com/gamepad/ps3-assets/base.png
-  and you can observe it as an example. The sticks, buttons, and directional arrows are missing
-  because their appropriate elements will be incorperated when their styling is defined below.
-  The entirity of the skin's visual styling is done via background images and CSS sprites. */ 
   background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/PNG/base.png); 
   height: 624px;
   width: 824px;
 }
+
+/* Disconnected Controller ------------------------------------------------------- */
 .custom.disconnected { /* This class shows an image when the controller is disconnected */
   background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/PNG/base.png);
 }
@@ -17,6 +16,8 @@
 .custom.disconnected div {
   display: none;
 }
+
+/* The Triggers ------------------------------------------------------- */
 .custom .triggers{ /* The triggers are housed inside a div, so this sizes the div properly and positions it */
   width: 613px;
   height: 100px;
@@ -29,10 +30,6 @@
   background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/PNG/trigger.png);
   opacity: 0;
 }
-/* The left and right classes below are used to position the triggers
-within the div they're contained in. Since their positions is realtive
-to the size of the parent element, we simply resize the parent element 
-above to achieve the desired position. */
 .custom .trigger.left{ 
   float: left;
 }
@@ -42,20 +39,19 @@ above to achieve the desired position. */
   float: right;
 }
 
-/* The bumpers follow the same methodology as the triggers in terms of
-placement */
-.custom .bumper{
-  width: 80px;
-  height: 24px;
-  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/PNG/bumper.png);
-  opacity: 0;
-}
+/* The Bumpers ------------------------------------------------------- */
 .custom .bumpers{
   position: absolute;
   width: 586px;
   height: 28px;
   left: 99px;
   top: 72px;
+}
+.custom .bumper{
+  width: 80px;
+  height: 24px;
+  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/PNG/bumper.png);
+  opacity: 0;
 }
 .custom .bumper.pressed{ /* The '.pressed' class is used for most buttons to signify they've been pressed */
   opacity: 1;
@@ -64,17 +60,12 @@ placement */
   float: left;
 }
 .custom .bumper.right{
-  /* Call me lazy or smart, but why should I make 2 bumpers when they're symmetrical
-  and I can just rotate them in the browser? Also, note that you most likely won't need
-  to use a browser speficic prefix unless it's something that is indeed browser specific.
-  NOTE: CLR Browser is basically chrome, so you use '-webkit-' as the browser prefix. */
   -webkit-transform: rotateY(180deg);
   transform: rotateY(180deg);
   float: right;
 }
 
-/* This is to size and position the containing div for the 
-start and select buttons. */
+/* Menu Buttons ------------------------------------------------------- */
 .custom .arrows{
   position: absolute;
   width: 205px;
@@ -101,7 +92,7 @@ start and select buttons. */
   width: 36px;
   background-position: 37px 0;
 }
-/* Positioning and size of the container for the face buttons */
+/* Face Buttons ------------------------------------------------------- */
 .custom .abxy{
   position: absolute;
   width: 204px;
@@ -138,9 +129,7 @@ start and select buttons. */
   background-position: -63px 0;
   left: 71px;
 }
-/* Analog sticks follow the same principles as the triggers in terms of positioning
-Note that the rotation of the sticks in hard coded with javascript, so it applies 
-the CSS inline. */
+/* Analog Sticks ------------------------------------------------------- */
 .custom .sticks{
   position: absolute;
   width: 364px;
@@ -168,7 +157,7 @@ the CSS inline. */
   top: calc(100% - 105px);
   left: calc(100% - 105px);
 }
-/* Dpad possitioning and sizing */
+/* DPad ------------------------------------------------------- */
 .custom .dpad{
   position: absolute;
   width: 140px;
@@ -212,5 +201,3 @@ the CSS inline. */
   margin-top: 5px;
   background-position-y: 52px;
 }
-
-/*END PS3 Controller Styling*/
