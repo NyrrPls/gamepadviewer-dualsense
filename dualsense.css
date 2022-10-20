@@ -77,7 +77,6 @@
   top: 136px;
   left: 208px;
 }
-
 .custom .back{
   background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/SVG/menu_both.svg);
   float: left;
@@ -93,10 +92,10 @@
   width: 24px;
 }
 .custom .back.pressed{
-  background-position-x: -94px;
+  background-position-x: -25px;
 }
 .custom .start.pressed{
-  background-position-x: -94px;
+  background-position-x: -25px;
 }
 /* Face Buttons ------------------------------------------------------- */
 .custom .abxy{
