@@ -76,11 +76,6 @@
   height:54px;
   background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/SVG/face.svg);
 }
-
-.custom .button.pressed{
-  background-position-y: -54px;
-  margin-top: 3px;
-}
 .custom .a{
   background-position: 0px 0px;
   margin-top: 122px;
@@ -89,6 +84,8 @@
 .custom .a.pressed{
   background-position-x: 0px;
   background-position-y: -54px;
+  margin-top: 0px;
+  margin-left: 0px;
 }
 .custom .b{
   background-position: 170px 0px;
@@ -96,8 +93,10 @@
   margin-left: 122px;
 }
 .custom .b.pressed{
-  background-position-x: 0px;
-  background-position-y: -54px;
+  background-position-x: -58px;
+  background-position-y: -55px;
+  margin-top: 63px;
+  margin-left: 122px;
 }
 .custom .x{
   background-position: 112px 0px;
@@ -107,6 +106,8 @@
 .custom .x.pressed{
   background-position-x: 0px;
   background-position-y: -54px;
+  margin-top: 0px;
+  margin-left: 0px;
 }
 .custom .y{
   background-position: 54px 0px;
@@ -116,6 +117,8 @@
 .custom .y.pressed{
   background-position-x: 0px;
   background-position-y: -54px;
+  margin-top: 0px;
+  margin-left: 0px;
 }
 
 /* The Triggers ------------------------------------------------------- */
@@ -156,7 +159,7 @@
   background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/SVG/bumper_both.svg);
 }
 .custom .bumper.pressed{ /* The '.pressed' class is used for most buttons to signify they've been pressed */
-  background-position-x: -94px;
+  background-position-x: -108px;
 }
 .custom .bumper.left{
   float: left;
