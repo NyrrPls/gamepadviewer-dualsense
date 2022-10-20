@@ -70,19 +70,23 @@
 /* Menu Buttons ------------------------------------------------------- */
 .custom .arrows{
   position: absolute;
-  width: 205px;
-  height: 40px;
-  top: 100px;
-  left: 291px;
+  width: 409px;
+  height: 39px;
+  top: 136px;
+  left: 208px;
 }
 .custom .back.pressed{
   background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/SVG/menu.svg);
   float: left;
+  top: 100px;
+  left: 291px;
   height: 37px;
   width: 24px;
 }
 .custom .start.pressed{
   background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/SVG/menu.svg);
+  -webkit-transform: rotateY(180deg);
+  transform: rotateY(180deg);
   float: right;
   height: 37px;
   width: 24px;
