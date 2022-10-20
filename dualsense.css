@@ -133,12 +133,13 @@
 }
 
 /* Touchpad ------------------------------------------------------- */
-.custom .touchpad{
+.custom .touchpad.pressed{
   position: absolute;
   background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/SVG/touchpad.svg);
   height:179px;
   width: 331px;
 }
+
 /* Analog Sticks ------------------------------------------------------- */
 .custom .sticks{
   position: absolute;
