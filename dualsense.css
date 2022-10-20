@@ -95,7 +95,7 @@
   background-position-x: -26px;
 }
 .custom .start.pressed{
-  background-position-x: -24px;
+  background-position-x: -26px;
 }
 /* Face Buttons ------------------------------------------------------- */
 .custom .abxy{
@@ -148,7 +148,7 @@
 }
 
 .custom .touchpad.pressed{
-  background-position-x: -333px;
+  background-position-x: -332px;
 }
 
 /* Analog Sticks ------------------------------------------------------- */
