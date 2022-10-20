@@ -80,22 +80,22 @@
 .custom .back{
   background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/SVG/menu_both.svg);
   float: left;
-  height: 37px;
-  width: 24px;
+  height: 38px;
+  width: 26px;
 }
 .custom .start{
   background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/SVG/menu_both.svg);
   -webkit-transform: rotateY(180deg);
   transform: rotateY(180deg);
   float: right;
-  height: 37px;
-  width: 24px;
+  height: 38px;
+  width: 26px;
 }
 .custom .back.pressed{
-  background-position-x: -25px;
+  background-position-x: -26px;
 }
 .custom .start.pressed{
-  background-position-x: -25px;
+  background-position-x: -24px;
 }
 /* Face Buttons ------------------------------------------------------- */
 .custom .abxy{
@@ -140,19 +140,15 @@
 /* Touchpad ------------------------------------------------------- */
 .custom .touchpad{
   position: absolute;
-  top: 90px;
-  left: 246px;
+  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/SVG/touchpad_both.svg);
+  top: 91px;
+  left: 247px;
   height:179px;
   width: 331px;
 }
 
 .custom .touchpad.pressed{
-  position: absolute;
-  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/SVG/touchpad.svg);
-  top: 90px;
-  left: 246px;
-  height:179px;
-  width: 331px;
+  background-position-x: -333px;
 }
 
 /* Analog Sticks ------------------------------------------------------- */
