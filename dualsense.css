@@ -83,7 +83,7 @@
 }
 .custom .a.pressed{
   background-position-x: 0px;
-  background-position-y: -54px;
+  background-position-y: -55px;
   margin-top: 122px;
   margin-left: 62px;
 }
@@ -104,8 +104,8 @@
   margin-left: 5px;
 }
 .custom .x.pressed{
-  background-position-x: 0px;
-  background-position-y: -54px;
+  background-position-x: -117px;
+  background-position-y: -55px;
   margin-top: 62px;
   margin-left: 5px;
 }
@@ -115,8 +115,8 @@
   margin-left: 62px;
 }
 .custom .y.pressed{
-  background-position-x: 0px;
-  background-position-y: -54px;
+  background-position-x: 54px;
+  background-position-y: -55px;
   margin-top: 4px;
   margin-left: 62px;
 }
