@@ -86,20 +86,36 @@
   margin-top: 122px;
   margin-left: 62px;
 }
+.custom .a.pressed{
+  background-position-x: 0px;
+  background-position-y: -54px;
+}
 .custom .b{
   background-position: 170px 0px;
   margin-top: 63px;
   margin-left: 122px;
+}
+.custom .b.pressed{
+  background-position-x: 0px;
+  background-position-y: -54px;
 }
 .custom .x{
   background-position: 112px 0px;
   margin-top: 63px;
   margin-left: 5px;
 }
+.custom .x.pressed{
+  background-position-x: 0px;
+  background-position-y: -54px;
+}
 .custom .y{
   background-position: 54px 0px;
   margin-top: 4px;
   margin-left: 62px;
+}
+.custom .y.pressed{
+  background-position-x: 0px;
+  background-position-y: -54px;
 }
 
 /* The Triggers ------------------------------------------------------- */
