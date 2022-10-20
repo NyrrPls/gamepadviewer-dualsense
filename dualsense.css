@@ -51,7 +51,7 @@
 /* Touchpad ------------------------------------------------------- */
 .custom .touchpad{
   position: absolute;
-  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/SVG/touchpad_both.svg);
+  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/SVG/touchpad_dark.svg);
   top: 91px;
   left: 247px;
   height:179px;
