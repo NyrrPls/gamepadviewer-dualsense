@@ -75,24 +75,15 @@
   top: 250px;
   left: 291px;
 }
-/* Setting the size and CSS sprite for the start and select buttons */
-.custom .back, .custom .start{
+.custom .back.pressed{
   background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/SVG/menu.svg);
-  width: 24px;
-  height: 37px;
-}
-.custom .back.pressed, .custom .start.pressed{
-  background-position-y: -21px;
-  margin-top: 2px;
-}
-.custom .back{
   float: left;
   width: 38px;
 }
-.custom .start{
+.custom .start.pressed{
+  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/SVG/menu.svg);
   float: right;
   width: 36px;
-  background-position: 37px 0;
 }
 /* Face Buttons ------------------------------------------------------- */
 .custom .abxy{
@@ -131,7 +122,7 @@
 .custom .y{
   background-position: 53px 0px;
   margin-top: 5px;
-  margin-left: 50px;
+  margin-left: 62px;
 }
 
 /* Touchpad ------------------------------------------------------- */
