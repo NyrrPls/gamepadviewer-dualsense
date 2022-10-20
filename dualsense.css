@@ -148,11 +148,11 @@
   width: 625px;
   height: 35px;
   left: 101px;
-  top: 87px;
+  top: 88px;
 }
 .custom .bumper{
   width: 109px;
-  height: 35px;
+  height: 33px;
   background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/SVG/bumper_both.svg);
 }
 .custom .bumper.pressed{ /* The '.pressed' class is used for most buttons to signify they've been pressed */
