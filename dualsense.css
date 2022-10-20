@@ -39,7 +39,10 @@
   transform: rotateY(180deg);
   float: right;
 }
-.custom .trigger.pressed{
+.custom .trigger.right.pressed{
+  background-position-x: -93px;
+}
+.custom .trigger.left.pressed{
   background-position-x: -93px;
 }
 
