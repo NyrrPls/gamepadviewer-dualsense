@@ -27,8 +27,8 @@
   left: 107px;
 }
 .custom .trigger-button{/* These are the actual triggers themselves */
-  width:93px;
-  height:95px;
+  width:92px;
+  height:93px;
   background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/SVG/trigger_both.svg);
 }
 .custom .trigger-button.left{ 
@@ -40,7 +40,7 @@
   float: right;
 }
 .custom .trigger-button.pressed{
-  background-position-x: -93px;
+  background-position-x: -94px;
 }
 
 /* The Bumpers ------------------------------------------------------- */
