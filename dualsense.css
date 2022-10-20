@@ -184,7 +184,7 @@
 }
 .custom .stick{
   position: absolute;
-  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/SVG/sticks.svg);
+  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/SVG/sticks_dark.svg);
   height:80px;
   width: 80px;
 }
