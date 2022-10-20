@@ -71,19 +71,21 @@
 .custom .arrows{
   position: absolute;
   width: 205px;
-  height: 19px;
-  top: 250px;
+  height: 40px;
+  top: 100px;
   left: 291px;
 }
 .custom .back.pressed{
   background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/SVG/menu.svg);
   float: left;
-  width: 38px;
+  height: 37px;
+  width: 24px;
 }
 .custom .start.pressed{
   background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/SVG/menu.svg);
   float: right;
-  width: 36px;
+  height: 37px;
+  width: 24px;
 }
 /* Face Buttons ------------------------------------------------------- */
 .custom .abxy{
