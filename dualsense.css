@@ -127,11 +127,19 @@
 }
 
 /* Touchpad ------------------------------------------------------- */
+.custom .touchpad{
+  position: absolute;
+  top: 90;
+  left: 246;
+  height:179px;
+  width: 331px;
+}
+
 .custom .touchpad.pressed{
   position: absolute;
   background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/SVG/touchpad.svg);
-  top: 154px;
-  left: 580px;
+  top: 90;
+  left: 246;
   height:179px;
   width: 331px;
 }
