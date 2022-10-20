@@ -6,10 +6,8 @@
 /* The Base of the Controller ------------------------------------------------------- */
 .controller.custom{
   background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/SVG/base_no_buttons.svg); 
-  /*height: 624px;
-  /*width: 824px;*/
-  width: 100%;
-  height: auto;
+  height: 624px;
+  width: 824px;
 }
 
 /* Disconnected Controller ------------------------------------------------------- */
