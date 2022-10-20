@@ -228,37 +228,37 @@
 }
 
 .custom .face.down{
-  background-position: 131px 0;
-  left: 50px;
-  top: 79px;
+  background-position: 0px 0px;
+  left: 55px;
+  top: 88px;
   width: 42px;
   height: 63px;
 }
 .custom .face.down.pressed{
-  margin-top: -3px;
+  margin-top: -2px;
   background-position-y: 63px;
 }
 
 .custom .face.left{
-  background-position: 0px 0;
+  background-position: -88px -10px;
   width: 63px;
-  height: 42px;
-  top: 47px;
+  height: 50px;
+  top: 55px;
   left: 0;
 }
 .custom .face.left.pressed{
-  margin-top: -3px;
-  background-position-y: 63px;
+  margin-top: -1px;
+  background-position-y: 52px;
 }
 
 .custom .face.right{
-  background-position: 53px 0;
+  background-position: 63px -10px;
   width: 63px;
-  height: 42px;
-  top: 47px;
-  right: 0px;
+  height: 50px;
+  top: 55px;
+  right: 2px;
 }
 .custom .face.right.pressed{
-  margin-top: -3px;
-  background-position-y: 63px;
+  margin-top: -4px;
+  background-position-y: 55px;
 }
