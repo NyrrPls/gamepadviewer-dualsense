@@ -129,8 +129,8 @@
 /* Touchpad ------------------------------------------------------- */
 .custom .touchpad{
   position: absolute;
-  top: 90;
-  left: 246;
+  top: 90px;
+  left: 246px;
   height:179px;
   width: 331px;
 }
@@ -138,8 +138,8 @@
 .custom .touchpad.pressed{
   position: absolute;
   background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/SVG/touchpad.svg);
-  top: 90;
-  left: 246;
+  top: 90px;
+  left: 246px;
   height:179px;
   width: 331px;
 }
