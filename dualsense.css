@@ -199,50 +199,6 @@
   left: calc(100% - 80px);
 }
 /* DPad ------------------------------------------------------- */
-.custom .a{
-  background-position: 0px 0px;
-  margin-top: 122px;
-  margin-left: 62px;
-}
-.custom .a.pressed{
-  background-position-x: 0px;
-  background-position-y: -55px;
-  margin-top: 122px;
-  margin-left: 62px;
-}
-.custom .b{
-  background-position: 171px 0px;
-  margin-top: 62px;
-  margin-left: 122px;
-}
-.custom .b.pressed{
-  background-position-x: -58px;
-  background-position-y: -55px;
-  margin-top: 62px;
-  margin-left: 122px;
-}
-.custom .x{
-  background-position: 112px 0px;
-  margin-top: 62px;
-  margin-left: 5px;
-}
-.custom .x.pressed{
-  background-position-x: -117px;
-  background-position-y: -55px;
-  margin-top: 62px;
-  margin-left: 5px;
-}
-.custom .y{
-  background-position: 54px 0px;
-  margin-top: 4px;
-  margin-left: 62px;
-}
-.custom .y.pressed{
-  background-position-x: 54px;
-  background-position-y: -55px;
-  margin-top: 4px;
-  margin-left: 62px;
-}
 .custom .dpad{
   position: absolute;
   width: 152px;
@@ -264,8 +220,12 @@
 }
 .custom .face.up{
   left: 55px;
-  top: 0px;
+  top: 3px;
   background-position: -45px 0px;
+}
+.custom .face.up.pressed{
+  margin-top: -3px;
+  background-position-y: 61px;
 }
 .custom .face.down{
   left: 50px;
@@ -281,8 +241,4 @@
   top: 47px;
   right: 0px;
   background-position: 53px 0;
-}
-.custom .face.pressed{
-  margin-top: 5px;
-  background-position-y: 61px;
 }
