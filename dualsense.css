@@ -131,6 +131,14 @@
   background-position: -63px 0;
   left: 71px;
 }
+
+/* Touchpad ------------------------------------------------------- */
+.custom .touchpad{
+  position: absolute;
+  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/SVG/touchpad.svg);
+  height:179px;
+  width: 331px;
+}
 /* Analog Sticks ------------------------------------------------------- */
 .custom .sticks{
   position: absolute;
