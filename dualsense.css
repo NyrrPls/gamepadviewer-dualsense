@@ -115,15 +115,22 @@
 }
 .custom .a{
   background-position: 0px 0px;
+  margin-top: 0px;
+  margin-left: 0px;
 }
 .custom .b{
   background-position: 0px 0px;
+  margin-top: 0px;
+  margin-left: 0px;
 }
 .custom .x{
   background-position: 0px 0px;
+  margin-top: 0px;
+  margin-left: 0px;
 }
 .custom .y{
   background-position: 53px 0px;
+  margin-top: 5px;
   margin-left: 50px;
 }
 
