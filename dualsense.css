@@ -114,22 +114,16 @@
   margin-top: 0px;
 }
 .custom .a{
-  background-position: 219px -20px;
-  top: 142px;
-  left: 71px;
+  background-position: 0px 0px;
 }
 .custom .b{
-  background-position: 125px 0;
-  top: 71px;
-  right: 0px;
+  background-position: 0px 0px;
 }
 .custom .x{
-  background-position: 117 0;
-  top: 63px;
+  background-position: 0px 0px;
 }
 .custom .y{
-  background-position: -63px 0;
-  left: 71px;
+  background-position: 0px 0px;
 }
 
 /* Touchpad ------------------------------------------------------- */
