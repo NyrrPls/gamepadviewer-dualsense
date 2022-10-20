@@ -26,19 +26,21 @@
   position: absolute;
   left: 107px;
 }
-.custom .trigger{/* These are the actual triggers themselves */
+.custom .trigger-button{/* These are the actual triggers themselves */
   width:93px;
   height:95px;
-  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/SVG/trigger.svg);
-  opacity: 0;
+  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/SVG/trigger_both.svg);
 }
-.custom .trigger.left{ 
+.custom .trigger-button.left{ 
   float: left;
 }
-.custom .trigger.right{
+.custom .trigger-button.right{
   -webkit-transform: rotateY(180deg);
   transform: rotateY(180deg);
   float: right;
+}
+.custom .trigger-button.pressed{
+  background-position-x: -93px;
 }
 
 /* The Bumpers ------------------------------------------------------- */
