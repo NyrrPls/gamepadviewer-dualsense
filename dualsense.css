@@ -256,16 +256,16 @@
 }
 .custom .face.up, .custom .face.down{
   width: 42px;
-  height: 61px;
+  height: 63px;
 }
 .custom .face.left, .custom .face.right{
-  width: 61px;
+  width: 63px;
   height: 42px;
 }
 .custom .face.up{
-  left: 50px;
+  left: 55;
   top: 0;
-  background-position: 92px 0px;
+  background-position: -45px 0px;
 }
 .custom .face.down{
   left: 50px;
