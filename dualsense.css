@@ -44,14 +44,14 @@
 /* The Bumpers ------------------------------------------------------- */
 .custom .bumpers{
   position: absolute;
-  width: 586px;
-  height: 30px;
-  left: 99px;
-  top: 72px;
+  width: 625px;
+  height: 35px;
+  left: 101px;
+  top: 87px;
 }
 .custom .bumper{
-  width: 80px;
-  height: 24px;
+  width: 109px;
+  height: 35px;
   background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/SVG/bumper.svg);
   opacity: 0;
 }
