@@ -78,8 +78,8 @@
 }
 
 .custom .button.pressed{
-  background-position-y: -55px;
-  margin-top: 0px;
+  background-position-y: -54px;
+  margin-top: 3px;
 }
 .custom .a{
   background-position: 0px 0px;
@@ -97,8 +97,8 @@
   margin-left: 0px;
 }
 .custom .y{
-  background-position: 53px 0px;
-  margin-top: 5px;
+  background-position: 54px 0px;
+  margin-top: 4px;
   margin-left: 62px;
 }
 
