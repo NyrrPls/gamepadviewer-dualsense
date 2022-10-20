@@ -29,7 +29,7 @@
 .custom .trigger{/* These are the actual triggers themselves */
   width:93px;
   height:95px;
-  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/PNG/trigger.png);
+  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/PNG/trigger.svg);
   opacity: 0;
 }
 .custom .trigger.left{ 
@@ -52,7 +52,7 @@
 .custom .bumper{
   width: 80px;
   height: 24px;
-  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/PNG/bumper.png);
+  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/PNG/bumper.svg);
   opacity: 0;
 }
 .custom .bumper.pressed{ /* The '.pressed' class is used for most buttons to signify they've been pressed */
