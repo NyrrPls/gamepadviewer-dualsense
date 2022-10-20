@@ -84,30 +84,30 @@
 .custom .a.pressed{
   background-position-x: 0px;
   background-position-y: -54px;
-  margin-top: 0px;
-  margin-left: 0px;
+  margin-top: 122px;
+  margin-left: 62px;
 }
 .custom .b{
   background-position: 170px 0px;
-  margin-top: 63px;
+  margin-top: 62px;
   margin-left: 122px;
 }
 .custom .b.pressed{
-  background-position-x: -58px;
+  background-position-x: -59px;
   background-position-y: -55px;
-  margin-top: 63px;
+  margin-top: 62px;
   margin-left: 122px;
 }
 .custom .x{
   background-position: 112px 0px;
-  margin-top: 63px;
+  margin-top: 62px;
   margin-left: 5px;
 }
 .custom .x.pressed{
   background-position-x: 0px;
   background-position-y: -54px;
-  margin-top: 0px;
-  margin-left: 0px;
+  margin-top: 62px;
+  margin-left: 5px;
 }
 .custom .y{
   background-position: 54px 0px;
@@ -117,8 +117,8 @@
 .custom .y.pressed{
   background-position-x: 0px;
   background-position-y: -54px;
-  margin-top: 0px;
-  margin-left: 0px;
+  margin-top: 4px;
+  margin-left: 62px;
 }
 
 /* The Triggers ------------------------------------------------------- */
