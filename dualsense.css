@@ -201,10 +201,10 @@
 /* DPad ------------------------------------------------------- */
 .custom .dpad{
   position: absolute;
-  width: 160px;
-  height: 160px;
-  top: 165px;
-  left: 75px;
+  width: 152px;
+  height: 152px;
+  top: 169px;
+  left: 79px;
 }
 .custom .face{
   background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/SVG/dpad.svg);
