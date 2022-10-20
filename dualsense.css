@@ -5,14 +5,14 @@
 
 /* The Base of the Controller ------------------------------------------------------- */
 .controller.custom{
-  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/SVG/base_big.svg); 
-  height: 1248px;
-  width: 1648px;
+  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/SVG/base.svg); 
+  height: 624;
+  width: 824;
 }
 
 /* Disconnected Controller ------------------------------------------------------- */
 .custom.disconnected { /* This class shows an image when the controller is disconnected */
-  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/SVG/base_big.svg);
+  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/SVG/base.svg);
 }
 /* This hides the controller's button when disconnected so only the background image remains */ 
 .custom.disconnected div {
