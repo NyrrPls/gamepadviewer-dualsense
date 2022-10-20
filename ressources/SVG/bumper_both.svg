@@ -1,0 +1,1867 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="216.81071"
+   height="33.062908"
+   viewBox="0 0 57.364503 8.7478942"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="bumper_both.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="5.6568544"
+     inkscape:cx="77.163025"
+     inkscape:cy="17.677669"
+     inkscape:window-width="2560"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g9051"
+     units="px"
+     height="800px"
+     fit-margin-top="1"
+     fit-margin-left="1"
+     fit-margin-right="1"
+     fit-margin-bottom="1"
+     lock-margins="true">
+    <sodipodi:guide
+       position="150.56705,-22.522757"
+       orientation="-1,0"
+       id="guide9844"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <style
+       id="style26544">
+      .cls-1 {
+        fill: #2c2c2c;
+      }
+
+      .cls-2 {
+        fill: #222;
+      }
+
+      .cls-3 {
+        fill: #7cb2e8;
+      }
+
+      .cls-4 {
+        fill: #f66;
+      }
+
+      .cls-5 {
+        fill: #ff69f8;
+      }
+
+      .cls-6 {
+        fill: #40e2a0;
+      }
+
+      .cls-7 {
+        fill: #d3d3d3;
+      }
+
+      .cls-8 {
+        fill: #ddd;
+      }
+
+      .cls-9 {
+        fill: #834d17;
+      }
+
+      .cls-10 {
+        fill: #099;
+      }
+
+      .cls-11 {
+        fill: #009607;
+      }
+
+      .cls-12 {
+        fill: #bf1d5f;
+      }
+    </style>
+    <style
+       id="style2345">
+      .cls-1 {
+        fill: #c1272d;
+      }
+
+      .cls-2, .cls-4 {
+        isolation: isolate;
+        opacity: 0.25;
+      }
+
+      .cls-3 {
+        fill: #3ed8d2;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+    </style>
+    <style
+       id="style3670">
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #b3b3b3;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-21, .cls-4 {
+        fill: #e6e6e6;
+      }
+
+      .cls-5 {
+        fill: #cfcfcf;
+      }
+
+      .cls-6 {
+        fill: #121212;
+      }
+
+      .cls-7 {
+        fill: #080808;
+      }
+
+      .cls-8 {
+        opacity: 0.12;
+      }
+
+      .cls-9 {
+        fill: url(#SVGID_5_);
+      }
+
+      .cls-10 {
+        fill: #1f1f1f;
+      }
+
+      .cls-11 {
+        fill: #9e1f20;
+      }
+
+      .cls-12 {
+        fill: #c1272d;
+      }
+
+      .cls-13 {
+        fill: #2c2c2c;
+      }
+
+      .cls-14 {
+        fill: #222;
+      }
+
+      .cls-15 {
+        fill: #f66;
+      }
+
+      .cls-16 {
+        fill: #7cb2e8;
+      }
+
+      .cls-17 {
+        fill: #ff69f8;
+      }
+
+      .cls-18 {
+        fill: #40e2a0;
+      }
+
+      .cls-19 {
+        fill: #050505;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-20 {
+        fill: #f2f2f2;
+      }
+
+      .cls-21, .cls-22, .cls-23, .cls-24, .cls-25 {
+        isolation: isolate;
+      }
+
+      .cls-21 {
+        opacity: 0.1;
+      }
+
+      .cls-22, .cls-24, .cls-29 {
+        opacity: 0.08;
+      }
+
+      .cls-22 {
+        fill: url(#SVGID_6_);
+      }
+
+      .cls-23 {
+        opacity: 0.22;
+      }
+
+      .cls-24 {
+        fill: url(#SVGID_7_);
+      }
+
+      .cls-25 {
+        opacity: 0.25;
+      }
+
+      .cls-26 {
+        fill: #0b0b0f;
+      }
+
+      .cls-27 {
+        opacity: 0.2;
+      }
+
+      .cls-28 {
+        fill: url(#SVGID_8_);
+      }
+    </style>
+    <pattern
+       id="SVGID_5_"
+       data-name="SVGID 5 "
+       width="71"
+       height="71"
+       patternTransform="translate(-14969.26 1511.28) scale(0.1)"
+       patternUnits="userSpaceOnUse"
+       viewBox="0 0 71 71">
+      <rect
+         class="cls-1"
+         width="71"
+         height="71"
+         id="rect3672" />
+      <g
+         id="g3682">
+        <polygon
+           class="cls-1"
+           points="0 0 71 0 71 71 0 71 0 0"
+           id="polygon3674" />
+        <g
+           id="g3680">
+          <polygon
+             class="cls-1"
+             points="0 0 71 0 71 71 0 71 0 0"
+             id="polygon3676" />
+          <path
+             class="cls-2"
+             d="M41.8,35.5a6.3,6.3,0,1,1-6.3-6.3A6.27,6.27,0,0,1,41.8,35.5Z"
+             id="path3678" />
+        </g>
+      </g>
+    </pattern>
+    <pattern
+       id="SVGID_6_"
+       data-name="SVGID 6 "
+       width="40"
+       height="103"
+       patternTransform="translate(-11177.56 6671.22) rotate(16) scale(0.34)"
+       patternUnits="userSpaceOnUse"
+       viewBox="0 0 40 103">
+      <rect
+         class="cls-1"
+         width="40"
+         height="103"
+         id="rect3685" />
+      <g
+         id="g3723">
+        <polygon
+           class="cls-1"
+           points="0 0 40 0 40 103 0 103 0 0"
+           id="polygon3687" />
+        <g
+           id="g3721">
+          <polygon
+             class="cls-1"
+             points="0 0 40 0 40 103 0 103 0 0"
+             id="polygon3689" />
+          <polygon
+             points="34.5 231.8 37.5 231.8 37.5 77.3 34.5 77.3 34.5 231.8"
+             id="polygon3691" />
+          <polygon
+             points="26.5 231.8 29.5 231.8 29.5 77.3 26.5 77.3 26.5 231.8"
+             id="polygon3693" />
+          <polygon
+             points="18.5 231.8 21.5 231.8 21.5 77.3 18.5 77.3 18.5 231.8"
+             id="polygon3695" />
+          <polygon
+             points="10.5 231.8 13.5 231.8 13.5 77.3 10.5 77.3 10.5 231.8"
+             id="polygon3697" />
+          <polygon
+             points="2.5 231.8 5.5 231.8 5.5 77.3 2.5 77.3 2.5 231.8"
+             id="polygon3699" />
+          <polygon
+             points="34.5 128.8 37.5 128.8 37.5 -25.7 34.5 -25.7 34.5 128.8"
+             id="polygon3701" />
+          <polygon
+             points="26.5 128.8 29.5 128.8 29.5 -25.7 26.5 -25.7 26.5 128.8"
+             id="polygon3703" />
+          <polygon
+             points="18.5 128.8 21.5 128.8 21.5 -25.7 18.5 -25.7 18.5 128.8"
+             id="polygon3705" />
+          <polygon
+             points="10.5 128.8 13.5 128.8 13.5 -25.7 10.5 -25.7 10.5 128.8"
+             id="polygon3707" />
+          <polygon
+             points="2.5 128.8 5.5 128.8 5.5 -25.7 2.5 -25.7 2.5 128.8"
+             id="polygon3709" />
+          <polygon
+             points="34.5 25.8 37.5 25.8 37.5 -128.7 34.5 -128.7 34.5 25.8"
+             id="polygon3711" />
+          <polygon
+             points="26.5 25.8 29.5 25.8 29.5 -128.7 26.5 -128.7 26.5 25.8"
+             id="polygon3713" />
+          <polygon
+             points="18.5 25.8 21.5 25.8 21.5 -128.7 18.5 -128.7 18.5 25.8"
+             id="polygon3715" />
+          <polygon
+             points="10.5 25.8 13.5 25.8 13.5 -128.7 10.5 -128.7 10.5 25.8"
+             id="polygon3717" />
+          <polygon
+             points="2.5 25.8 5.5 25.8 5.5 -128.7 2.5 -128.7 2.5 25.8"
+             id="polygon3719" />
+        </g>
+      </g>
+    </pattern>
+    <pattern
+       id="SVGID_7_"
+       data-name="SVGID 7 "
+       width="40"
+       height="103"
+       patternTransform="matrix(-0.33, 0.09, 0.09, 0.33, -22107.61, 6714.99)"
+       patternUnits="userSpaceOnUse"
+       viewBox="0 0 40 103">
+      <rect
+         class="cls-1"
+         width="40"
+         height="103"
+         id="rect3726" />
+      <g
+         id="g3764">
+        <polygon
+           class="cls-1"
+           points="0 0 40 0 40 103 0 103 0 0"
+           id="polygon3728" />
+        <g
+           id="g3762">
+          <polygon
+             class="cls-1"
+             points="0 0 40 0 40 103 0 103 0 0"
+             id="polygon3730" />
+          <polygon
+             points="34.5 231.8 37.5 231.8 37.5 77.3 34.5 77.3 34.5 231.8"
+             id="polygon3732" />
+          <polygon
+             points="26.5 231.8 29.5 231.8 29.5 77.3 26.5 77.3 26.5 231.8"
+             id="polygon3734" />
+          <polygon
+             points="18.5 231.8 21.5 231.8 21.5 77.3 18.5 77.3 18.5 231.8"
+             id="polygon3736" />
+          <polygon
+             points="10.5 231.8 13.5 231.8 13.5 77.3 10.5 77.3 10.5 231.8"
+             id="polygon3738" />
+          <polygon
+             points="2.5 231.8 5.5 231.8 5.5 77.3 2.5 77.3 2.5 231.8"
+             id="polygon3740" />
+          <polygon
+             points="34.5 128.8 37.5 128.8 37.5 -25.7 34.5 -25.7 34.5 128.8"
+             id="polygon3742" />
+          <polygon
+             points="26.5 128.8 29.5 128.8 29.5 -25.7 26.5 -25.7 26.5 128.8"
+             id="polygon3744" />
+          <polygon
+             points="18.5 128.8 21.5 128.8 21.5 -25.7 18.5 -25.7 18.5 128.8"
+             id="polygon3746" />
+          <polygon
+             points="10.5 128.8 13.5 128.8 13.5 -25.7 10.5 -25.7 10.5 128.8"
+             id="polygon3748" />
+          <polygon
+             points="2.5 128.8 5.5 128.8 5.5 -25.7 2.5 -25.7 2.5 128.8"
+             id="polygon3750" />
+          <polygon
+             points="34.5 25.8 37.5 25.8 37.5 -128.7 34.5 -128.7 34.5 25.8"
+             id="polygon3752" />
+          <polygon
+             points="26.5 25.8 29.5 25.8 29.5 -128.7 26.5 -128.7 26.5 25.8"
+             id="polygon3754" />
+          <polygon
+             points="18.5 25.8 21.5 25.8 21.5 -128.7 18.5 -128.7 18.5 25.8"
+             id="polygon3756" />
+          <polygon
+             points="10.5 25.8 13.5 25.8 13.5 -128.7 10.5 -128.7 10.5 25.8"
+             id="polygon3758" />
+          <polygon
+             points="2.5 25.8 5.5 25.8 5.5 -128.7 2.5 -128.7 2.5 25.8"
+             id="polygon3760" />
+        </g>
+      </g>
+    </pattern>
+    <pattern
+       id="SVGID_8_"
+       data-name="SVGID 8 "
+       width="71"
+       height="71"
+       patternTransform="translate(-14969.26 1511.28) scale(0.1)"
+       patternUnits="userSpaceOnUse"
+       viewBox="0 0 71 71">
+      <rect
+         class="cls-1"
+         width="71"
+         height="71"
+         id="rect3767" />
+      <g
+         id="g3777">
+        <polygon
+           class="cls-1"
+           points="0 0 71 0 71 71 0 71 0 0"
+           id="polygon3769" />
+        <g
+           id="g3775">
+          <polygon
+             class="cls-1"
+             points="0 0 71 0 71 71 0 71 0 0"
+             id="polygon3771" />
+          <path
+             class="cls-3"
+             d="M41.8,35.5a6.3,6.3,0,1,1-6.3-6.3A6.27,6.27,0,0,1,41.8,35.5Z"
+             id="path3773" />
+        </g>
+      </g>
+    </pattern>
+    <style
+       id="style937">
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #b3b3b3;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-21, .cls-4 {
+        fill: #e6e6e6;
+      }
+
+      .cls-5 {
+        fill: #cfcfcf;
+      }
+
+      .cls-6 {
+        fill: #121212;
+      }
+
+      .cls-7 {
+        fill: #080808;
+      }
+
+      .cls-8 {
+        opacity: 0.12;
+      }
+
+      .cls-9 {
+        fill: url(#SVGID_5_);
+      }
+
+      .cls-10 {
+        fill: #1f1f1f;
+      }
+
+      .cls-11 {
+        fill: #9e1f20;
+      }
+
+      .cls-12 {
+        fill: #c1272d;
+      }
+
+      .cls-13 {
+        fill: #2c2c2c;
+      }
+
+      .cls-14 {
+        fill: #222;
+      }
+
+      .cls-15 {
+        fill: #f66;
+      }
+
+      .cls-16 {
+        fill: #7cb2e8;
+      }
+
+      .cls-17 {
+        fill: #ff69f8;
+      }
+
+      .cls-18 {
+        fill: #40e2a0;
+      }
+
+      .cls-19 {
+        fill: #050505;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-20 {
+        fill: #f2f2f2;
+      }
+
+      .cls-21, .cls-22, .cls-23, .cls-24, .cls-25 {
+        isolation: isolate;
+      }
+
+      .cls-21 {
+        opacity: 0.1;
+      }
+
+      .cls-22, .cls-24, .cls-29 {
+        opacity: 0.08;
+      }
+
+      .cls-22 {
+        fill: url(#SVGID_6_);
+      }
+
+      .cls-23 {
+        opacity: 0.22;
+      }
+
+      .cls-24 {
+        fill: url(#SVGID_7_);
+      }
+
+      .cls-25 {
+        opacity: 0.25;
+      }
+
+      .cls-26 {
+        fill: #0b0b0f;
+      }
+
+      .cls-27 {
+        opacity: 0.2;
+      }
+
+      .cls-28 {
+        fill: url(#SVGID_8_);
+      }
+    </style>
+    <pattern
+       id="SVGID_5_-3"
+       data-name="SVGID 5 "
+       width="71"
+       height="71"
+       patternTransform="translate(-14969.26 1511.28) scale(0.1)"
+       patternUnits="userSpaceOnUse"
+       viewBox="0 0 71 71">
+      <rect
+         class="cls-1"
+         width="71"
+         height="71"
+         id="rect939" />
+      <g
+         id="g949">
+        <polygon
+           class="cls-1"
+           points="0 0 71 0 71 71 0 71 0 0"
+           id="polygon941" />
+        <g
+           id="g947">
+          <polygon
+             class="cls-1"
+             points="0 0 71 0 71 71 0 71 0 0"
+             id="polygon943" />
+          <path
+             class="cls-2"
+             d="M41.8,35.5a6.3,6.3,0,1,1-6.3-6.3A6.27,6.27,0,0,1,41.8,35.5Z"
+             id="path945" />
+        </g>
+      </g>
+    </pattern>
+    <pattern
+       id="SVGID_6_-2"
+       data-name="SVGID 6 "
+       width="40"
+       height="103"
+       patternTransform="translate(-11177.56 6671.22) rotate(16) scale(0.34)"
+       patternUnits="userSpaceOnUse"
+       viewBox="0 0 40 103">
+      <rect
+         class="cls-1"
+         width="40"
+         height="103"
+         id="rect952" />
+      <g
+         id="g990">
+        <polygon
+           class="cls-1"
+           points="0 0 40 0 40 103 0 103 0 0"
+           id="polygon954" />
+        <g
+           id="g988">
+          <polygon
+             class="cls-1"
+             points="0 0 40 0 40 103 0 103 0 0"
+             id="polygon956" />
+          <polygon
+             points="34.5 231.8 37.5 231.8 37.5 77.3 34.5 77.3 34.5 231.8"
+             id="polygon958" />
+          <polygon
+             points="26.5 231.8 29.5 231.8 29.5 77.3 26.5 77.3 26.5 231.8"
+             id="polygon960" />
+          <polygon
+             points="18.5 231.8 21.5 231.8 21.5 77.3 18.5 77.3 18.5 231.8"
+             id="polygon962" />
+          <polygon
+             points="10.5 231.8 13.5 231.8 13.5 77.3 10.5 77.3 10.5 231.8"
+             id="polygon964" />
+          <polygon
+             points="2.5 231.8 5.5 231.8 5.5 77.3 2.5 77.3 2.5 231.8"
+             id="polygon966" />
+          <polygon
+             points="34.5 128.8 37.5 128.8 37.5 -25.7 34.5 -25.7 34.5 128.8"
+             id="polygon968" />
+          <polygon
+             points="26.5 128.8 29.5 128.8 29.5 -25.7 26.5 -25.7 26.5 128.8"
+             id="polygon970" />
+          <polygon
+             points="18.5 128.8 21.5 128.8 21.5 -25.7 18.5 -25.7 18.5 128.8"
+             id="polygon972" />
+          <polygon
+             points="10.5 128.8 13.5 128.8 13.5 -25.7 10.5 -25.7 10.5 128.8"
+             id="polygon974" />
+          <polygon
+             points="2.5 128.8 5.5 128.8 5.5 -25.7 2.5 -25.7 2.5 128.8"
+             id="polygon976" />
+          <polygon
+             points="34.5 25.8 37.5 25.8 37.5 -128.7 34.5 -128.7 34.5 25.8"
+             id="polygon978" />
+          <polygon
+             points="26.5 25.8 29.5 25.8 29.5 -128.7 26.5 -128.7 26.5 25.8"
+             id="polygon980" />
+          <polygon
+             points="18.5 25.8 21.5 25.8 21.5 -128.7 18.5 -128.7 18.5 25.8"
+             id="polygon982" />
+          <polygon
+             points="10.5 25.8 13.5 25.8 13.5 -128.7 10.5 -128.7 10.5 25.8"
+             id="polygon984" />
+          <polygon
+             points="2.5 25.8 5.5 25.8 5.5 -128.7 2.5 -128.7 2.5 25.8"
+             id="polygon986" />
+        </g>
+      </g>
+    </pattern>
+    <pattern
+       id="SVGID_7_-1"
+       data-name="SVGID 7 "
+       width="40"
+       height="103"
+       patternTransform="matrix(-0.33, 0.09, 0.09, 0.33, -22107.61, 6714.99)"
+       patternUnits="userSpaceOnUse"
+       viewBox="0 0 40 103">
+      <rect
+         class="cls-1"
+         width="40"
+         height="103"
+         id="rect993" />
+      <g
+         id="g1031">
+        <polygon
+           class="cls-1"
+           points="0 0 40 0 40 103 0 103 0 0"
+           id="polygon995" />
+        <g
+           id="g1029">
+          <polygon
+             class="cls-1"
+             points="0 0 40 0 40 103 0 103 0 0"
+             id="polygon997" />
+          <polygon
+             points="34.5 231.8 37.5 231.8 37.5 77.3 34.5 77.3 34.5 231.8"
+             id="polygon999" />
+          <polygon
+             points="26.5 231.8 29.5 231.8 29.5 77.3 26.5 77.3 26.5 231.8"
+             id="polygon1001" />
+          <polygon
+             points="18.5 231.8 21.5 231.8 21.5 77.3 18.5 77.3 18.5 231.8"
+             id="polygon1003" />
+          <polygon
+             points="10.5 231.8 13.5 231.8 13.5 77.3 10.5 77.3 10.5 231.8"
+             id="polygon1005" />
+          <polygon
+             points="2.5 231.8 5.5 231.8 5.5 77.3 2.5 77.3 2.5 231.8"
+             id="polygon1007" />
+          <polygon
+             points="34.5 128.8 37.5 128.8 37.5 -25.7 34.5 -25.7 34.5 128.8"
+             id="polygon1009" />
+          <polygon
+             points="26.5 128.8 29.5 128.8 29.5 -25.7 26.5 -25.7 26.5 128.8"
+             id="polygon1011" />
+          <polygon
+             points="18.5 128.8 21.5 128.8 21.5 -25.7 18.5 -25.7 18.5 128.8"
+             id="polygon1013" />
+          <polygon
+             points="10.5 128.8 13.5 128.8 13.5 -25.7 10.5 -25.7 10.5 128.8"
+             id="polygon1015" />
+          <polygon
+             points="2.5 128.8 5.5 128.8 5.5 -25.7 2.5 -25.7 2.5 128.8"
+             id="polygon1017" />
+          <polygon
+             points="34.5 25.8 37.5 25.8 37.5 -128.7 34.5 -128.7 34.5 25.8"
+             id="polygon1019" />
+          <polygon
+             points="26.5 25.8 29.5 25.8 29.5 -128.7 26.5 -128.7 26.5 25.8"
+             id="polygon1021" />
+          <polygon
+             points="18.5 25.8 21.5 25.8 21.5 -128.7 18.5 -128.7 18.5 25.8"
+             id="polygon1023" />
+          <polygon
+             points="10.5 25.8 13.5 25.8 13.5 -128.7 10.5 -128.7 10.5 25.8"
+             id="polygon1025" />
+          <polygon
+             points="2.5 25.8 5.5 25.8 5.5 -128.7 2.5 -128.7 2.5 25.8"
+             id="polygon1027" />
+        </g>
+      </g>
+    </pattern>
+    <pattern
+       id="SVGID_8_-9"
+       data-name="SVGID 8 "
+       width="71"
+       height="71"
+       patternTransform="translate(-14969.26 1511.28) scale(0.1)"
+       patternUnits="userSpaceOnUse"
+       viewBox="0 0 71 71">
+      <rect
+         class="cls-1"
+         width="71"
+         height="71"
+         id="rect1034" />
+      <g
+         id="g1044">
+        <polygon
+           class="cls-1"
+           points="0 0 71 0 71 71 0 71 0 0"
+           id="polygon1036" />
+        <g
+           id="g1042">
+          <polygon
+             class="cls-1"
+             points="0 0 71 0 71 71 0 71 0 0"
+             id="polygon1038" />
+          <path
+             class="cls-3"
+             d="M41.8,35.5a6.3,6.3,0,1,1-6.3-6.3A6.27,6.27,0,0,1,41.8,35.5Z"
+             id="path1040" />
+        </g>
+      </g>
+    </pattern>
+    <style
+       id="style26544-3">
+      .cls-1 {
+        fill: #2c2c2c;
+      }
+
+      .cls-2 {
+        fill: #222;
+      }
+
+      .cls-3 {
+        fill: #7cb2e8;
+      }
+
+      .cls-4 {
+        fill: #f66;
+      }
+
+      .cls-5 {
+        fill: #ff69f8;
+      }
+
+      .cls-6 {
+        fill: #40e2a0;
+      }
+
+      .cls-7 {
+        fill: #d3d3d3;
+      }
+
+      .cls-8 {
+        fill: #ddd;
+      }
+
+      .cls-9 {
+        fill: #834d17;
+      }
+
+      .cls-10 {
+        fill: #099;
+      }
+
+      .cls-11 {
+        fill: #009607;
+      }
+
+      .cls-12 {
+        fill: #bf1d5f;
+      }
+    </style>
+    <style
+       id="style2345-5">
+      .cls-1 {
+        fill: #c1272d;
+      }
+
+      .cls-2, .cls-4 {
+        isolation: isolate;
+        opacity: 0.25;
+      }
+
+      .cls-3 {
+        fill: #3ed8d2;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+    </style>
+    <style
+       id="style3670-0">
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #b3b3b3;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-21, .cls-4 {
+        fill: #e6e6e6;
+      }
+
+      .cls-5 {
+        fill: #cfcfcf;
+      }
+
+      .cls-6 {
+        fill: #121212;
+      }
+
+      .cls-7 {
+        fill: #080808;
+      }
+
+      .cls-8 {
+        opacity: 0.12;
+      }
+
+      .cls-9 {
+        fill: url(#SVGID_5_);
+      }
+
+      .cls-10 {
+        fill: #1f1f1f;
+      }
+
+      .cls-11 {
+        fill: #9e1f20;
+      }
+
+      .cls-12 {
+        fill: #c1272d;
+      }
+
+      .cls-13 {
+        fill: #2c2c2c;
+      }
+
+      .cls-14 {
+        fill: #222;
+      }
+
+      .cls-15 {
+        fill: #f66;
+      }
+
+      .cls-16 {
+        fill: #7cb2e8;
+      }
+
+      .cls-17 {
+        fill: #ff69f8;
+      }
+
+      .cls-18 {
+        fill: #40e2a0;
+      }
+
+      .cls-19 {
+        fill: #050505;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-20 {
+        fill: #f2f2f2;
+      }
+
+      .cls-21, .cls-22, .cls-23, .cls-24, .cls-25 {
+        isolation: isolate;
+      }
+
+      .cls-21 {
+        opacity: 0.1;
+      }
+
+      .cls-22, .cls-24, .cls-29 {
+        opacity: 0.08;
+      }
+
+      .cls-22 {
+        fill: url(#SVGID_6_);
+      }
+
+      .cls-23 {
+        opacity: 0.22;
+      }
+
+      .cls-24 {
+        fill: url(#SVGID_7_);
+      }
+
+      .cls-25 {
+        opacity: 0.25;
+      }
+
+      .cls-26 {
+        fill: #0b0b0f;
+      }
+
+      .cls-27 {
+        opacity: 0.2;
+      }
+
+      .cls-28 {
+        fill: url(#SVGID_8_);
+      }
+    </style>
+    <pattern
+       id="SVGID_5_-4"
+       data-name="SVGID 5 "
+       width="71"
+       height="71"
+       patternTransform="translate(-14969.26 1511.28) scale(0.1)"
+       patternUnits="userSpaceOnUse"
+       viewBox="0 0 71 71">
+      <rect
+         class="cls-1"
+         width="71"
+         height="71"
+         id="rect3672-5" />
+      <g
+         id="g3682-3">
+        <polygon
+           class="cls-1"
+           points="0 0 71 0 71 71 0 71 0 0"
+           id="polygon3674-2" />
+        <g
+           id="g3680-3">
+          <polygon
+             class="cls-1"
+             points="0 0 71 0 71 71 0 71 0 0"
+             id="polygon3676-3" />
+          <path
+             class="cls-2"
+             d="M41.8,35.5a6.3,6.3,0,1,1-6.3-6.3A6.27,6.27,0,0,1,41.8,35.5Z"
+             id="path3678-5" />
+        </g>
+      </g>
+    </pattern>
+    <pattern
+       id="SVGID_6_-1"
+       data-name="SVGID 6 "
+       width="40"
+       height="103"
+       patternTransform="translate(-11177.56 6671.22) rotate(16) scale(0.34)"
+       patternUnits="userSpaceOnUse"
+       viewBox="0 0 40 103">
+      <rect
+         class="cls-1"
+         width="40"
+         height="103"
+         id="rect3685-3" />
+      <g
+         id="g3723-9">
+        <polygon
+           class="cls-1"
+           points="0 0 40 0 40 103 0 103 0 0"
+           id="polygon3687-6" />
+        <g
+           id="g3721-0">
+          <polygon
+             class="cls-1"
+             points="0 0 40 0 40 103 0 103 0 0"
+             id="polygon3689-1" />
+          <polygon
+             points="34.5 231.8 37.5 231.8 37.5 77.3 34.5 77.3 34.5 231.8"
+             id="polygon3691-6" />
+          <polygon
+             points="26.5 231.8 29.5 231.8 29.5 77.3 26.5 77.3 26.5 231.8"
+             id="polygon3693-5" />
+          <polygon
+             points="18.5 231.8 21.5 231.8 21.5 77.3 18.5 77.3 18.5 231.8"
+             id="polygon3695-8" />
+          <polygon
+             points="10.5 231.8 13.5 231.8 13.5 77.3 10.5 77.3 10.5 231.8"
+             id="polygon3697-5" />
+          <polygon
+             points="2.5 231.8 5.5 231.8 5.5 77.3 2.5 77.3 2.5 231.8"
+             id="polygon3699-7" />
+          <polygon
+             points="34.5 128.8 37.5 128.8 37.5 -25.7 34.5 -25.7 34.5 128.8"
+             id="polygon3701-2" />
+          <polygon
+             points="26.5 128.8 29.5 128.8 29.5 -25.7 26.5 -25.7 26.5 128.8"
+             id="polygon3703-5" />
+          <polygon
+             points="18.5 128.8 21.5 128.8 21.5 -25.7 18.5 -25.7 18.5 128.8"
+             id="polygon3705-1" />
+          <polygon
+             points="10.5 128.8 13.5 128.8 13.5 -25.7 10.5 -25.7 10.5 128.8"
+             id="polygon3707-9" />
+          <polygon
+             points="2.5 128.8 5.5 128.8 5.5 -25.7 2.5 -25.7 2.5 128.8"
+             id="polygon3709-6" />
+          <polygon
+             points="34.5 25.8 37.5 25.8 37.5 -128.7 34.5 -128.7 34.5 25.8"
+             id="polygon3711-9" />
+          <polygon
+             points="26.5 25.8 29.5 25.8 29.5 -128.7 26.5 -128.7 26.5 25.8"
+             id="polygon3713-9" />
+          <polygon
+             points="18.5 25.8 21.5 25.8 21.5 -128.7 18.5 -128.7 18.5 25.8"
+             id="polygon3715-2" />
+          <polygon
+             points="10.5 25.8 13.5 25.8 13.5 -128.7 10.5 -128.7 10.5 25.8"
+             id="polygon3717-1" />
+          <polygon
+             points="2.5 25.8 5.5 25.8 5.5 -128.7 2.5 -128.7 2.5 25.8"
+             id="polygon3719-3" />
+        </g>
+      </g>
+    </pattern>
+    <pattern
+       id="SVGID_7_-2"
+       data-name="SVGID 7 "
+       width="40"
+       height="103"
+       patternTransform="matrix(-0.33, 0.09, 0.09, 0.33, -22107.61, 6714.99)"
+       patternUnits="userSpaceOnUse"
+       viewBox="0 0 40 103">
+      <rect
+         class="cls-1"
+         width="40"
+         height="103"
+         id="rect3726-1" />
+      <g
+         id="g3764-2">
+        <polygon
+           class="cls-1"
+           points="0 0 40 0 40 103 0 103 0 0"
+           id="polygon3728-4" />
+        <g
+           id="g3762-9">
+          <polygon
+             class="cls-1"
+             points="0 0 40 0 40 103 0 103 0 0"
+             id="polygon3730-4" />
+          <polygon
+             points="34.5 231.8 37.5 231.8 37.5 77.3 34.5 77.3 34.5 231.8"
+             id="polygon3732-1" />
+          <polygon
+             points="26.5 231.8 29.5 231.8 29.5 77.3 26.5 77.3 26.5 231.8"
+             id="polygon3734-0" />
+          <polygon
+             points="18.5 231.8 21.5 231.8 21.5 77.3 18.5 77.3 18.5 231.8"
+             id="polygon3736-4" />
+          <polygon
+             points="10.5 231.8 13.5 231.8 13.5 77.3 10.5 77.3 10.5 231.8"
+             id="polygon3738-7" />
+          <polygon
+             points="2.5 231.8 5.5 231.8 5.5 77.3 2.5 77.3 2.5 231.8"
+             id="polygon3740-6" />
+          <polygon
+             points="34.5 128.8 37.5 128.8 37.5 -25.7 34.5 -25.7 34.5 128.8"
+             id="polygon3742-5" />
+          <polygon
+             points="26.5 128.8 29.5 128.8 29.5 -25.7 26.5 -25.7 26.5 128.8"
+             id="polygon3744-9" />
+          <polygon
+             points="18.5 128.8 21.5 128.8 21.5 -25.7 18.5 -25.7 18.5 128.8"
+             id="polygon3746-9" />
+          <polygon
+             points="10.5 128.8 13.5 128.8 13.5 -25.7 10.5 -25.7 10.5 128.8"
+             id="polygon3748-0" />
+          <polygon
+             points="2.5 128.8 5.5 128.8 5.5 -25.7 2.5 -25.7 2.5 128.8"
+             id="polygon3750-4" />
+          <polygon
+             points="34.5 25.8 37.5 25.8 37.5 -128.7 34.5 -128.7 34.5 25.8"
+             id="polygon3752-9" />
+          <polygon
+             points="26.5 25.8 29.5 25.8 29.5 -128.7 26.5 -128.7 26.5 25.8"
+             id="polygon3754-3" />
+          <polygon
+             points="18.5 25.8 21.5 25.8 21.5 -128.7 18.5 -128.7 18.5 25.8"
+             id="polygon3756-7" />
+          <polygon
+             points="10.5 25.8 13.5 25.8 13.5 -128.7 10.5 -128.7 10.5 25.8"
+             id="polygon3758-7" />
+          <polygon
+             points="2.5 25.8 5.5 25.8 5.5 -128.7 2.5 -128.7 2.5 25.8"
+             id="polygon3760-2" />
+        </g>
+      </g>
+    </pattern>
+    <pattern
+       id="SVGID_8_-8"
+       data-name="SVGID 8 "
+       width="71"
+       height="71"
+       patternTransform="translate(-14969.26 1511.28) scale(0.1)"
+       patternUnits="userSpaceOnUse"
+       viewBox="0 0 71 71">
+      <rect
+         class="cls-1"
+         width="71"
+         height="71"
+         id="rect3767-3" />
+      <g
+         id="g3777-6">
+        <polygon
+           class="cls-1"
+           points="0 0 71 0 71 71 0 71 0 0"
+           id="polygon3769-9" />
+        <g
+           id="g3775-5">
+          <polygon
+             class="cls-1"
+             points="0 0 71 0 71 71 0 71 0 0"
+             id="polygon3771-4" />
+          <path
+             class="cls-3"
+             d="M41.8,35.5a6.3,6.3,0,1,1-6.3-6.3A6.27,6.27,0,0,1,41.8,35.5Z"
+             id="path3773-2" />
+        </g>
+      </g>
+    </pattern>
+  </defs>
+  <g
+     id="layer2"
+     inkscape:label="Dualsense"
+     style="display:inline;opacity:1"
+     inkscape:groupmode="layer"
+     transform="translate(-8.1829489,-9.869085)">
+    <g
+       id="g3866-3"
+       style="display:inline;opacity:1"
+       transform="translate(-276.29944,-181.90389)"
+       inkscape:label="Shoulder Buttons"
+       inkscape:groupmode="layer">
+      <g
+         id="g9051"
+         inkscape:label="Left Button 1"
+         transform="matrix(0.28448945,-0.0383124,0.0383124,0.28448945,317.78983,208.30551)"
+         style="fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-opacity:1">
+        <path
+           id="path9047"
+           style="fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.999998;stroke-opacity:1"
+           class="cls-11"
+           d="m -35.522613,-61.962908 c -6.002076,-0.856293 -13.169074,-1.434233 -21.575333,-1.434233 -28.100006,2e-6 -46.999244,10.701477 -51.499244,13.601481 -0.65533,0.364317 -1.0543,1.135801 -1.08265,1.888636 -3.3e-4,2.07e-4 -0.0178,0.01035 -0.0178,0.01035 l 0.0129,0.05261 c 5e-4,0.01699 -0.007,0.03489 -0.007,0.0517 0,0 0.0154,-0.0088 0.0157,-0.0088 l 1.09148,4.884323 c 27.397878,-3.32822 81.497203,-3.630264 97.788687,-1.749326 l 9.1e-4,-8.477312 c 1.79e-4,5.3e-5 0.01069,0.0014 0.01069,0.0014 7.26e-4,-0.03301 -0.01086,-0.06787 -0.01181,-0.101495 l 5.42e-4,-0.152507 c 0,0 -0.01921,-0.0044 -0.01939,-0.0045 -0.0724,-0.784417 -0.505629,-1.651067 -1.180803,-1.995464 -2.749994,-1.443745 -10.322486,-4.683089 -23.527055,-6.566999 z" />
+        <path
+           id="path9047-2"
+           style="display:inline;fill:#f0495a;fill-opacity:1;stroke:none;stroke-width:0.999998;stroke-opacity:1"
+           class="cls-11"
+           d="m 63.131457,-48.67699 c -6.002076,-0.856293 -13.169074,-1.434233 -21.575333,-1.434233 -28.100006,2e-6 -46.9992466,10.701477 -51.4992542,13.601481 -0.6553338,0.364317 -1.0543038,1.135801 -1.0826538,1.888636 -3.3e-4,2.07e-4 -0.0178,0.01035 -0.0178,0.01035 l 0.0129,0.05261 c 5e-4,0.01699 -0.007,0.03489 -0.007,0.0517 0,0 0.0154,-0.0088 0.0157,-0.0088 l 1.0914838,4.884323 c 27.3978882,-3.32822 81.4972132,-3.630264 97.7886972,-1.749326 l 9.1e-4,-8.477312 c 1.79e-4,5.3e-5 0.01069,0.0014 0.01069,0.0014 7.26e-4,-0.03301 -0.01086,-0.06787 -0.01181,-0.101495 l 5.42e-4,-0.152507 c 0,0 -0.01921,-0.0044 -0.01939,-0.0045 -0.0724,-0.784417 -0.505629,-1.651067 -1.180803,-1.995464 -2.749994,-1.443745 -10.322486,-4.683089 -23.527055,-6.566999 z" />
+      </g>
+    </g>
+    <g
+       id="g3982-7-8"
+       style="display:inline"
+       transform="matrix(-0.16552326,0.02978768,0.02978768,0.16552326,90.007921,-11.52032)"
+       inkscape:label="Menu Buttons"
+       inkscape:groupmode="layer" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer5"
+       inkscape:label="Buttons" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer6"
+       inkscape:label="DPad" />
+  </g>
+  <g
+     id="g1529"
+     transform="matrix(0.26458333,0,0,0.26458333,43.913511,16.725952)"
+     style="display:none;opacity:0.481707"
+     inkscape:label="Dualshock"
+     sodipodi:insensitive="true">
+    <g
+       id="g1297">
+      <g
+         id="g1089">
+        <path
+           class="cls-4"
+           d="m 801.3,418.7 c -2.9,-15.5 -17.7,-102.5 -32,-144.6 -9.4,-27.7 -13.1,-53 -17,-64.9 -12,-35.7 -33,-65.7 -33,-65.7 0,0 -9.5,-13.1 -10.1,-16.3 -0.6,-3.2 -4.7,-8.6 -4.7,-8.6 0,0 -17.4,-5.7 -62.3,-5.7 -44.9,0 -53.7,5 -53.7,5 a 22.51,22.51 0 0 1 -5.9,4.8 c -3.5,1.8 -11.7,1.7 -11.7,1.7 h -33.4 a 1,1 0 0 0 -0.9,0.3 5.3,5.3 0 0 0 -0.6,2 H 269.9 a 7.13,7.13 0 0 0 -0.6,-2 1.06,1.06 0 0 0 -0.9,-0.3 H 235 c 0,0 -8.2,0.2 -11.7,-1.7 a 20.51,20.51 0 0 1 -5.9,-4.8 c 0,0 -8.8,-5 -53.7,-5 -44.9,0 -62.3,5.7 -62.3,5.7 0,0 -4.1,5.3 -4.7,8.6 -0.6,3.3 -10.1,16.3 -10.1,16.3 0,0 -21,30 -33,65.7 -4,11.9 -7.7,37.2 -17,64.9 -14.3,42.1 -29.1,129.1 -32,144.6 -4.3,23.2 -4.7,90.1 -4.7,90.1 0,0 4.5,53.4 36.2,74.9 31.7,21.5 56.7,14 56.7,14 0,0 33.1,-8.2 57.8,-41.9 24.7,-33.7 56.6,-129.2 56.6,-129.2 a 24.5,24.5 0 0 1 5.7,-5.3 15.79,15.79 0 0 1 6.3,-2.6 l 183.7,0.1 183.7,-0.1 a 15.79,15.79 0 0 1 6.3,2.6 24.5,24.5 0 0 1 5.7,5.3 c 0,0 31.9,95.4 56.6,129.2 24.7,33.8 57.8,41.9 57.8,41.9 0,0 25,7.5 56.7,-14 31.7,-21.5 36.2,-74.9 36.2,-74.9 0,0 -0.2,-67 -4.6,-90.1 z"
+           transform="translate(0.1)"
+           id="path1049" />
+        <path
+           class="cls-5"
+           d="m 36.6,276 c 9.4,-27.7 13.1,-53 17,-64.9 12,-35.7 33,-65.7 33,-65.7 0,0 9.5,-13.1 10.1,-16.3 0.6,-3.2 4.7,-8.6 4.7,-8.6 0,0 17.4,-5.7 62.3,-5.7 44.9,0 53.7,5 53.7,5 a 22.51,22.51 0 0 0 5.9,4.8 c 3.5,1.8 11.7,1.7 11.7,1.7 h 33.4 a 1,1 0 0 1 0.9,0.3 5.3,5.3 0 0 1 0.6,2 h 266.2 a 7.13,7.13 0 0 1 0.6,-2 1.06,1.06 0 0 1 0.9,-0.3 H 571 c 0,0 8.2,0.2 11.7,-1.7 a 20.51,20.51 0 0 0 5.9,-4.8 c 0,0 8.8,-5 53.7,-5 44.9,0 62.3,5.7 62.3,5.7 0,0 4.1,5.3 4.7,8.6 0.6,3.3 10.1,16.3 10.1,16.3 0,0 21,30 33,65.7 4,11.9 7.7,37.2 17,64.9 14.3,42.1 29.1,129.1 32,144.6 3.9,20.9 4.6,77.3 4.7,88.3 v -0.1 c 0,0 -0.3,-66.9 -4.7,-90.1 -2.9,-15.5 -17.7,-102.5 -32,-144.6 -9.4,-27.7 -13.1,-53 -17,-64.9 -12,-35.7 -33,-65.7 -33,-65.7 0,0 -9.5,-13.1 -10.1,-16.3 -0.6,-3.2 -4.7,-8.6 -4.7,-8.6 0,0 -17.4,-5.7 -62.3,-5.7 -44.9,0 -53.7,5 -53.7,5 a 22.51,22.51 0 0 1 -5.9,4.8 c -3.5,1.8 -11.7,1.7 -11.7,1.7 h -33.4 a 1,1 0 0 0 -0.9,0.3 5.3,5.3 0 0 0 -0.6,2 H 269.9 a 7.13,7.13 0 0 0 -0.6,-2 1.06,1.06 0 0 0 -0.9,-0.3 H 235 c 0,0 -8.2,0.2 -11.7,-1.7 a 20.51,20.51 0 0 1 -5.9,-4.8 c 0,0 -8.8,-5 -53.7,-5 -44.9,0 -62.3,5.7 -62.3,5.7 0,0 -4.1,5.3 -4.7,8.6 -0.6,3.3 -10.1,16.3 -10.1,16.3 0,0 -21,30 -33,65.7 -4,11.9 -7.7,37.2 -17,64.9 -14.3,42.1 -29.1,129.1 -32,144.6 -4.3,23.2 -4.7,90.1 -4.7,90.1 v 0.1 C 0,498 0.6,441.5 4.6,420.6 7.6,405.2 22.3,318.1 36.6,276 Z"
+           transform="translate(0.1)"
+           id="path1051" />
+        <path
+           class="cls-5"
+           d="m 351.2,360 a 76.5,76.5 0 0 0 -153,0 13.4,13.4 0 0 0 0.1,2 c 0,0.7 -0.1,1.3 -0.1,2 a 76.5,76.5 0 0 0 153,0 13.4,13.4 0 0 0 -0.1,-2 c 0,-0.7 0.1,-1.4 0.1,-2 z"
+           transform="translate(0.1)"
+           id="path1053" />
+        <circle
+           class="cls-4"
+           cx="274.79999"
+           cy="356"
+           r="73"
+           id="circle1055" />
+        <circle
+           cx="274.79999"
+           cy="356"
+           r="51.5"
+           id="circle1057" />
+        <path
+           class="cls-5"
+           d="m 607.8,360 a 76.5,76.5 0 0 0 -153,0 13.4,13.4 0 0 0 0.1,2 c 0,0.7 -0.1,1.3 -0.1,2 a 76.5,76.5 0 0 0 153,0 13.4,13.4 0 0 0 -0.1,-2 14.08,14.08 0 0 0 0.1,-2 z"
+           transform="translate(0.1)"
+           id="path1059" />
+        <circle
+           class="cls-4"
+           cx="531.40002"
+           cy="356"
+           r="73"
+           id="circle1061" />
+        <circle
+           cx="531.40002"
+           cy="356"
+           r="51.5"
+           id="circle1063" />
+        <path
+           class="cls-6"
+           d="m 534.8,128 a 6.57,6.57 0 0 0 -6.5,-5.6 H 277.7 a 6.48,6.48 0 0 0 -6.5,5.6 14.77,14.77 0 0 0 -0.1,2.1 v 127.4 a 16.09,16.09 0 0 0 16.1,16.1 h 231.6 a 16.09,16.09 0 0 0 16.1,-16.1 V 130.1 a 7.41,7.41 0 0 0 -0.1,-2.1 z"
+           transform="translate(0.1)"
+           id="path1065" />
+        <g
+           id="g1073">
+          <path
+             class="cls-7"
+             d="m 530.4,124.3 a 1.9,1.9 0 0 0 -1.9,-1.9 H 277.4 a 1.9,1.9 0 0 0 -1.9,1.9 v 129.2 a 15.62,15.62 0 0 0 15.6,15.6 h 223.8 a 15.62,15.62 0 0 0 15.6,-15.6 V 130.4 Z"
+             transform="translate(0.1)"
+             id="path1067" />
+          <g
+             class="cls-8"
+             id="g1071">
+            <path
+               class="cls-9"
+               d="m 275.5,253.5 a 15.62,15.62 0 0 0 15.6,15.6 h 223.8 a 15.62,15.62 0 0 0 15.6,-15.6 V 147 H 275.6 v 106.5 z"
+               transform="translate(0.1)"
+               id="path1069"
+               style="fill:url(#SVGID_5_-3)" />
+          </g>
+        </g>
+        <circle
+           class="cls-7"
+           cx="652.40002"
+           cy="244.8"
+           r="94.300003"
+           id="circle1075" />
+        <g
+           id="g1087">
+          <circle
+             class="cls-7"
+             cx="153.8"
+             cy="244.8"
+             r="94.300003"
+             id="circle1077" />
+          <path
+             class="cls-10"
+             d="m 230.4,254.1 9.5,-8.9 a 1.15,1.15 0 0 0 0,-1.7 l -9.5,-8.9 a 1.12,1.12 0 0 0 -1.9,0.8 v 17.8 a 1.15,1.15 0 0 0 1.9,0.9 z"
+             transform="translate(0.1)"
+             id="path1079" />
+          <path
+             class="cls-10"
+             d="m 145,169.8 h 17.8 a 1.12,1.12 0 0 0 0.8,-1.9 l -8.9,-9.5 a 1.15,1.15 0 0 0 -1.7,0 l -8.9,9.5 a 1.17,1.17 0 0 0 0.9,1.9 z"
+             transform="translate(0.1)"
+             id="path1081" />
+          <path
+             class="cls-10"
+             d="m 77.5,234.6 -9.5,8.9 a 1.15,1.15 0 0 0 0,1.7 l 9.5,8.9 a 1.12,1.12 0 0 0 1.9,-0.8 v -17.8 a 1.15,1.15 0 0 0 -1.9,-0.9 z"
+             transform="translate(0.1)"
+             id="path1083" />
+          <path
+             class="cls-10"
+             d="M 162.8,318.8 H 145 a 1.12,1.12 0 0 0 -0.8,1.9 l 8.9,9.5 a 1.15,1.15 0 0 0 1.7,0 l 8.9,-9.5 a 1.17,1.17 0 0 0 -0.9,-1.9 z"
+             transform="translate(0.1)"
+             id="path1085" />
+        </g>
+      </g>
+      <g
+         id="g1119">
+        <g
+           id="g1105">
+          <path
+             class="cls-7"
+             d="m 547.6,134.6 a 4.11,4.11 0 0 1 -8.2,0 3.82,3.82 0 0 1 4.1,-3.8 3.76,3.76 0 0 1 4.1,3.8 z m -6.7,0 a 2.49,2.49 0 0 0 2.6,2.7 2.54,2.54 0 0 0 2.6,-2.7 2.6,2.6 0 1 0 -5.2,0 z"
+             transform="translate(0.1)"
+             id="path1091" />
+          <path
+             class="cls-7"
+             d="m 548.9,131 h 3.8 c 2.4,0 2.9,1.3 2.9,2.2 0,0.9 -0.5,2.2 -2.9,2.2 h -2.3 v 2.8 h -1.5 z m 1.5,3.4 h 2.2 c 0.7,0 1.5,-0.3 1.5,-1.2 0,-0.9 -0.7,-1.2 -1.5,-1.2 h -2.2 z"
+             transform="translate(0.1)"
+             id="path1093" />
+          <path
+             class="cls-7"
+             d="m 556.1,131 h 6.9 v 1.1 h -2.7 v 6.1 h -1.5 v -6.1 h -2.7 z"
+             transform="translate(0.1)"
+             id="path1095" />
+          <path
+             class="cls-7"
+             d="m 564.1,131 h 1.5 v 7.2 h -1.5 z"
+             transform="translate(0.1)"
+             id="path1097" />
+          <path
+             class="cls-7"
+             d="m 575.1,134.6 a 4.11,4.11 0 0 1 -8.2,0 3.82,3.82 0 0 1 4.1,-3.8 3.76,3.76 0 0 1 4.1,3.8 z m -6.7,0 a 2.49,2.49 0 0 0 2.6,2.7 2.54,2.54 0 0 0 2.6,-2.7 2.6,2.6 0 1 0 -5.2,0 z"
+             transform="translate(0.1)"
+             id="path1099" />
+          <path
+             class="cls-7"
+             d="m 576.5,131 h 1.5 l 3.9,5.3 v 0 -5.3 h 1.4 v 7.2 h -1.6 l -3.9,-5.3 v 0 5.3 h -1.4 V 131 Z"
+             transform="translate(0.1)"
+             id="path1101" />
+          <path
+             class="cls-7"
+             d="m 586.2,135.8 c 0,1.1 1,1.5 2.2,1.5 1.2,0 1.8,-0.6 1.8,-1.1 a 0.89,0.89 0 0 0 -0.7,-0.9 c -0.6,-0.2 -1.4,-0.3 -2.6,-0.6 -1.5,-0.3 -1.9,-1.1 -1.9,-1.8 0,-1.5 1.6,-2.1 3.1,-2.1 1.8,0 3.3,0.8 3.3,2.3 h -1.5 c -0.1,-0.9 -0.8,-1.3 -1.8,-1.3 -0.7,0 -1.6,0.2 -1.6,0.9 0,0.5 0.4,0.8 1,0.9 a 21.46,21.46 0 0 1 2.5,0.6 2.07,2.07 0 0 1 1.7,1.8 c 0,1.6 -1.7,2.3 -3.4,2.3 -2,0 -3.5,-0.8 -3.6,-2.6 h 1.5 z"
+             transform="translate(0.1)"
+             id="path1103" />
+        </g>
+        <g
+           id="g1117">
+          <path
+             class="cls-7"
+             d="m 222.2,135.8 c 0,1.1 1,1.5 2.2,1.5 1.2,0 1.8,-0.6 1.8,-1.1 a 0.89,0.89 0 0 0 -0.7,-0.9 c -0.6,-0.2 -1.4,-0.3 -2.6,-0.6 -1.5,-0.3 -1.9,-1.1 -1.9,-1.8 0,-1.5 1.6,-2.1 3.1,-2.1 1.8,0 3.3,0.8 3.3,2.3 h -1.5 c -0.1,-0.9 -0.8,-1.3 -1.8,-1.3 -0.7,0 -1.6,0.2 -1.6,0.9 0,0.5 0.4,0.8 1,0.9 a 21.46,21.46 0 0 1 2.5,0.6 2.07,2.07 0 0 1 1.7,1.8 c 0,1.6 -1.7,2.3 -3.4,2.3 -2,0 -3.5,-0.8 -3.6,-2.6 h 1.5 z"
+             transform="translate(0.1)"
+             id="path1107" />
+          <path
+             class="cls-7"
+             d="m 228.9,131 h 1.5 v 2.9 h 3.9 V 131 h 1.5 v 7.2 h -1.5 v -3.3 h -3.9 v 3.2 h -1.5 z"
+             transform="translate(0.1)"
+             id="path1109" />
+          <path
+             class="cls-7"
+             d="m 239.9,131 h 1.6 l 3.3,7.2 h -1.6 l -0.8,-1.9 H 239 l -0.8,1.9 h -1.5 z m -0.5,4.3 h 2.6 l -1.3,-3.1 v 0 z"
+             transform="translate(0.1)"
+             id="path1111" />
+          <path
+             class="cls-7"
+             d="m 245.6,131 h 4.1 c 1.9,0 2.8,0.7 2.8,1.9 a 1.77,1.77 0 0 1 -1.4,1.8 v 0 a 1.44,1.44 0 0 1 1.3,1.5 c 0,0.8 0.1,1.6 0.5,1.9 h -1.6 a 2,2 0 0 1 -0.2,-1.1 c 0,-1.3 -0.3,-1.9 -1.7,-1.9 h -2.2 v 3 h -1.5 z m 1.5,3.2 h 2.5 c 1,0 1.5,-0.4 1.5,-1.1 0,-0.9 -0.7,-1.1 -1.5,-1.1 h -2.4 v 2.2 z"
+             transform="translate(0.1)"
+             id="path1113" />
+          <path
+             class="cls-7"
+             d="m 254.1,131 h 6.2 v 1.1 h -4.7 v 1.9 h 4.3 v 1 h -4.3 v 2.1 h 4.7 v 1.1 h -6.2 z"
+             transform="translate(0.1)"
+             id="path1115" />
+        </g>
+      </g>
+      <g
+         id="g1133">
+        <g
+           id="g1125">
+          <path
+             class="cls-11"
+             d="m 697.2,109.9 a 2.14,2.14 0 0 0 -1.1,-1.9 c -4.5,-2.9 -23.4,-13.6 -51.5,-13.6 -26.9,0 -41.1,5.9 -45.1,8 a 2.2,2.2 0 0 0 -1.2,2 c 0,0 9.8,-2.9 47.5,-2.9 37.7,0 51.4,8.4 51.4,8.4 z"
+             transform="translate(0.1)"
+             id="path1121" />
+          <path
+             class="cls-12"
+             d="m 697.1,116.8 v 0 -6.9 c 0,0 -13.7,-8.4 -51.4,-8.4 -37.7,0 -47.5,2.9 -47.5,2.9 v 11 0 c 7.7,-1.3 21.2,-2.6 44.1,-2.6 28.5,0.1 45.9,2.4 54.8,4 z"
+             transform="translate(0.1)"
+             id="path1123" />
+        </g>
+        <g
+           id="g1131">
+          <path
+             class="cls-11"
+             d="m 108.8,109.9 a 2.14,2.14 0 0 1 1.1,-1.9 c 4.5,-2.9 23.4,-13.6 51.5,-13.6 26.9,0 41.1,5.9 45.1,8 a 2.2,2.2 0 0 1 1.2,2 c 0,0 -9.8,-2.9 -47.5,-2.9 -37.7,0 -51.4,8.4 -51.4,8.4 z"
+             transform="translate(0.1)"
+             id="path1127" />
+          <path
+             class="cls-12"
+             d="m 108.9,116.8 v 0 -6.9 c 0,0 13.7,-8.4 51.4,-8.4 37.7,0 47.5,2.9 47.5,2.9 v 11 0 c -7.7,-1.3 -21.2,-2.6 -44.1,-2.6 -28.5,0.1 -45.9,2.4 -54.8,4 z"
+             transform="translate(0.1)"
+             id="path1129" />
+        </g>
+      </g>
+      <g
+         id="g1175">
+        <g
+           id="g1143">
+          <g
+             id="g1139">
+            <path
+               class="cls-13"
+               d="M 709.9,271 A 26.3,26.3 0 1 1 736.2,244.7 26.33,26.33 0 0 1 709.9,271 Z"
+               transform="translate(0.1)"
+               id="path1135" />
+            <path
+               class="cls-14"
+               d="m 709.9,219.5 a 25.3,25.3 0 1 1 -25.3,25.3 25.33,25.33 0 0 1 25.3,-25.3 m 0,-2 a 27.3,27.3 0 1 0 27.3,27.3 27.34,27.34 0 0 0 -27.3,-27.3 z"
+               transform="translate(0.1)"
+               id="path1137" />
+          </g>
+          <path
+             class="cls-15"
+             d="m 709.9,225.9 a 18.9,18.9 0 1 0 18.9,18.9 18.95,18.95 0 0 0 -18.9,-18.9 z m 0,34.9 a 16,16 0 1 1 16,-16 16,16 0 0 1 -16,16 z"
+             transform="translate(0.1)"
+             id="path1141" />
+        </g>
+        <g
+           id="g1153">
+          <g
+             id="g1149">
+            <path
+               class="cls-13"
+               d="m 652.3,328.6 a 26.3,26.3 0 1 1 26.3,-26.3 26.33,26.33 0 0 1 -26.3,26.3 z"
+               transform="translate(0.1)"
+               id="path1145" />
+            <path
+               class="cls-14"
+               d="m 652.3,277.1 a 25.3,25.3 0 1 1 -25.3,25.3 25.33,25.33 0 0 1 25.3,-25.3 m 0,-2 a 27.3,27.3 0 1 0 27.3,27.3 27.34,27.34 0 0 0 -27.3,-27.3 z"
+               transform="translate(0.1)"
+               id="path1147" />
+          </g>
+          <polygon
+             class="cls-16"
+             points="640.1,288 638.1,290 650.4,302.4 638.1,314.7 640.1,316.8 652.4,304.4 664.8,316.8 666.8,314.7 654.4,302.4 666.8,290 664.8,288 652.4,300.4 "
+             id="polygon1151" />
+        </g>
+        <g
+           id="g1163">
+          <g
+             id="g1159">
+            <path
+               class="cls-13"
+               d="M 594.8,271 A 26.3,26.3 0 1 1 621,244.8 26.33,26.33 0 0 1 594.8,271 Z"
+               transform="translate(0.1)"
+               id="path1155" />
+            <path
+               class="cls-14"
+               d="m 594.7,219.5 a 25.3,25.3 0 1 1 -25.3,25.3 25.33,25.33 0 0 1 25.3,-25.3 m 0,-2 a 27.3,27.3 0 1 0 27.3,27.3 27.34,27.34 0 0 0 -27.3,-27.3 z"
+               transform="translate(0.1)"
+               id="path1157" />
+          </g>
+          <path
+             class="cls-17"
+             d="M 606.3,230.4 H 580.5 V 259 h 28.6 v -28.6 z m 0,25.9 h -23 v -23 h 23 z"
+             transform="translate(0.1)"
+             id="path1161" />
+        </g>
+        <g
+           id="g1173">
+          <g
+             id="g1169">
+            <path
+               class="cls-13"
+               d="m 652.3,213.5 a 26.3,26.3 0 1 1 26.3,-26.3 26.33,26.33 0 0 1 -26.3,26.3 z"
+               transform="translate(0.1)"
+               id="path1165" />
+            <path
+               class="cls-14"
+               d="M 652.3,162 A 25.3,25.3 0 1 1 627,187.3 25.33,25.33 0 0 1 652.3,162 m 0,-2 a 27.3,27.3 0 1 0 27.3,27.3 27.34,27.34 0 0 0 -27.3,-27.3 z"
+               transform="translate(0.1)"
+               id="path1167" />
+          </g>
+          <path
+             class="cls-18"
+             d="m 668.3,195.2 -16,-27.6 -16,27.6 -1.6,2.8 h 35.2 z m -16,0 h -12.7 l 12.7,-21.9 12.7,21.9 z"
+             transform="translate(0.1)"
+             id="path1171" />
+        </g>
+      </g>
+      <g
+         id="g1205">
+        <g
+           id="g1191">
+          <circle
+             cx="403.10001"
+             cy="316.39999"
+             r="4.0999999"
+             id="circle1177" />
+          <circle
+             cx="403.10001"
+             cy="295.5"
+             r="4.0999999"
+             id="circle1179" />
+          <circle
+             cx="396.20001"
+             cy="305.70001"
+             r="4.0999999"
+             id="circle1181" />
+          <circle
+             cx="381.5"
+             cy="305.70001"
+             r="4.0999999"
+             id="circle1183" />
+          <circle
+             cx="388.79999"
+             cy="316.39999"
+             r="4.0999999"
+             id="circle1185" />
+          <circle
+             cx="388.79999"
+             cy="295.5"
+             r="4.0999999"
+             id="circle1187" />
+          <circle
+             cx="374.5"
+             cy="295.5"
+             r="4.0999999"
+             id="circle1189" />
+        </g>
+        <g
+           id="g1203">
+          <circle
+             cx="410"
+             cy="305.70001"
+             r="4.0999999"
+             id="circle1193" />
+          <circle
+             cx="424.60001"
+             cy="305.70001"
+             r="4.0999999"
+             transform="rotate(-2.2,424.52636,303.03661)"
+             id="circle1195" />
+          <circle
+             cx="417.29999"
+             cy="316.39999"
+             r="4.0999999"
+             id="circle1197" />
+          <circle
+             cx="417.29999"
+             cy="295.5"
+             r="4.0999999"
+             id="circle1199" />
+          <circle
+             cx="431.70001"
+             cy="295.5"
+             r="4.0999999"
+             id="circle1201" />
+        </g>
+      </g>
+      <g
+         id="g1217">
+        <circle
+           class="cls-19"
+           cx="403.10001"
+           cy="362"
+           r="20.200001"
+           id="circle1207" />
+        <g
+           id="g1215">
+          <path
+             class="cls-20"
+             d="m 404.1,368.6 v -12.8 a 1.33,1.33 0 0 1 0.3,-1 0.57,0.57 0 0 1 0.7,-0.2 c 0.6,0.2 0.9,0.7 0.9,1.7 v 6.9 a 4.55,4.55 0 0 0 2.1,0.5 2.77,2.77 0 0 0 1.6,-0.5 c 1,-0.7 1.5,-1.9 1.5,-3.7 a 6.49,6.49 0 0 0 -1.2,-4.3 8.79,8.79 0 0 0 -4.1,-2.6 c -1.3,-0.4 -2.5,-0.8 -3.6,-1.1 -1.1,-0.3 -2,-0.5 -2.9,-0.7 v 12.2 0 2.7 0 1.7 0 2.5 0 1.5 l 4.7,1.5 v -3.6 0 z"
+             transform="translate(0.1)"
+             id="path1209" />
+          <path
+             class="cls-20"
+             d="m 399,367.6 -1.7,0.6 -0.9,0.4 -1.6,0.3 -1.5,-0.2 c -0.3,-0.2 -0.4,-0.4 -0.2,-0.6 0.2,-0.2 0.2,-0.1 0.3,-0.2 0.1,-0.1 0.3,-0.1 0.4,-0.2 l 1.1,-0.4 4.1,-1.5 v -2.7 l -1.7,0.5 -5.5,2 -1,0.4 c -1.5,0.6 -2.2,1.2 -2.2,1.8 0.1,0.8 1,1.5 2.7,1.9 a 15.21,15.21 0 0 0 4.3,0.5 20.2,20.2 0 0 0 3.3,-0.3 z"
+             transform="translate(0.1)"
+             id="path1211" />
+          <path
+             class="cls-20"
+             d="m 414.8,365.3 a 12.88,12.88 0 0 0 -2.5,-0.6 10.48,10.48 0 0 0 -2.5,-0.1 26.6,26.6 0 0 0 -2.8,0.3 15.25,15.25 0 0 0 -2.6,0.8 v 2.8 l 3.9,-1.4 1.6,-0.5 1.1,-0.3 h 1.4 c 0.3,0.1 0.6,0.2 0.7,0.4 0.1,0.2 -0.2,0.4 -0.8,0.6 l -1.4,0.5 -6.5,2.4 v 2.7 l 3.5,-1.3 6.4,-2.3 0.7,-0.4 c 1.5,-0.5 2.2,-1.2 2.2,-1.9 0,-0.7 -0.8,-1.2 -2.4,-1.7 z"
+             transform="translate(0.1)"
+             id="path1213" />
+        </g>
+      </g>
+      <path
+         class="cls-12"
+         d="M 105.2,544.5 C 64.7,541.7 29.4,524.2 17.9,514 6.4,503.8 0.4,482.5 0.4,482.5 0,497.5 0,508.8 0,508.8 c 0,0 4.5,53.4 36.2,74.9 31.7,21.5 56.7,14 56.7,14 0,0 33.1,-8.2 57.8,-41.9 A 192.08,192.08 0 0 0 164.8,532 c -0.1,-0.1 -19.2,15.2 -59.6,12.5 z"
+         transform="translate(0.1)"
+         id="path1219" />
+      <path
+         class="cls-12"
+         d="m 700.8,544.5 c 40.5,-2.8 75.8,-20.3 87.3,-30.5 11.5,-10.2 17.5,-31.5 17.5,-31.5 0.4,15 0.4,26.3 0.4,26.3 0,0 -4.5,53.4 -36.2,74.9 -31.7,21.5 -56.7,14 -56.7,14 0,0 -33.1,-8.2 -57.8,-41.9 A 192.08,192.08 0 0 1 641.2,532 c 0.1,-0.1 19.2,15.2 59.6,12.5 z"
+         transform="translate(0.1)"
+         id="path1221" />
+      <g
+         id="g1277">
+        <g
+           id="g1229">
+          <path
+             class="cls-21"
+             d="M 105.2,544.5 C 64.7,541.7 29.4,524.2 17.9,514 6.4,503.8 0.4,482.5 0.4,482.5 0,497.5 0,508.8 0,508.8 c 0,0 4.5,53.4 36.2,74.9 31.7,21.5 56.7,14 56.7,14 0,0 33.1,-8.2 57.8,-41.9 A 192.08,192.08 0 0 0 164.8,532 c -0.1,-0.1 -19.2,15.2 -59.6,12.5 z"
+             transform="translate(0.1)"
+             id="path1223" />
+          <path
+             class="cls-22"
+             d="M 105.2,544.5 C 64.7,541.7 29.4,524.2 17.9,514 6.4,503.8 0.4,482.5 0.4,482.5 0,497.5 0,508.8 0,508.8 c 0,0 4.5,53.4 36.2,74.9 31.7,21.5 56.7,14 56.7,14 0,0 33.1,-8.2 57.8,-41.9 A 192.08,192.08 0 0 0 164.8,532 c -0.1,-0.1 -19.2,15.2 -59.6,12.5 z"
+             transform="translate(0.1)"
+             id="path1225"
+             style="fill:url(#SVGID_6_-2)" />
+          <path
+             class="cls-23"
+             d="m 90,592.5 c -12.5,1.8 -31.3,-2 -45.1,-7.7 -13.6,-5.7 -24,-16.4 -24,-16.4 a 63.12,63.12 0 0 0 15.3,15.2 c 31.7,21.5 56.7,14 56.7,14 0,0 11.7,-2.9 26.3,-12.3 A 168.54,168.54 0 0 1 90,592.5 Z"
+             transform="translate(0.1)"
+             id="path1227" />
+        </g>
+        <g
+           id="g1237">
+          <path
+             class="cls-21"
+             d="m 700.8,544.5 c 40.5,-2.8 75.8,-20.3 87.3,-30.5 11.5,-10.2 17.5,-31.5 17.5,-31.5 0.4,15 0.4,26.3 0.4,26.3 0,0 -4.5,53.4 -36.2,74.9 -31.7,21.5 -56.7,14 -56.7,14 0,0 -33.1,-8.2 -57.8,-41.9 A 192.08,192.08 0 0 1 641.2,532 c 0.1,-0.1 19.2,15.2 59.6,12.5 z"
+             transform="translate(0.1)"
+             id="path1231" />
+          <path
+             class="cls-24"
+             d="m 700.8,544.5 c 40.5,-2.8 75.8,-20.3 87.3,-30.5 11.5,-10.2 17.5,-31.5 17.5,-31.5 0.4,15 0.4,26.3 0.4,26.3 0,0 -4.5,53.4 -36.2,74.9 -31.7,21.5 -56.7,14 -56.7,14 0,0 -33.1,-8.2 -57.8,-41.9 A 192.08,192.08 0 0 1 641.2,532 c 0.1,-0.1 19.2,15.2 59.6,12.5 z"
+             transform="translate(0.1)"
+             id="path1233"
+             style="fill:url(#SVGID_7_-1)" />
+          <path
+             class="cls-23"
+             d="m 716,592.5 c 12.5,1.8 31.3,-2 45.1,-7.7 13.6,-5.7 24,-16.4 24,-16.4 a 63.12,63.12 0 0 1 -15.3,15.2 c -31.7,21.5 -56.7,14 -56.7,14 0,0 -11.7,-2.9 -26.3,-12.3 a 168.54,168.54 0 0 0 29.2,7.2 z"
+             transform="translate(0.1)"
+             id="path1235" />
+        </g>
+        <g
+           id="g1243">
+          <path
+             d="M 240.5,143.5 A 12.5,12.5 0 0 1 253,156 v 18.3 a 12.5,12.5 0 0 1 -25,0 V 156 a 12.5,12.5 0 0 1 12.5,-12.5 m 0,-1.7 A 14.25,14.25 0 0 0 226.3,156 v 18.3 a 14.2,14.2 0 0 0 28.4,0 V 156 a 14.19,14.19 0 0 0 -14.2,-14.2 z"
+             transform="translate(0.1)"
+             id="path1239" />
+          <path
+             class="cls-12"
+             d="M 240.5,143.5 A 12.5,12.5 0 0 0 228,156 v 18.3 a 12.5,12.5 0 0 0 25,0 V 156 a 12.5,12.5 0 0 0 -12.5,-12.5 z"
+             transform="translate(0.1)"
+             id="path1241" />
+        </g>
+        <g
+           id="g1249">
+          <path
+             d="M 565.5,143.5 A 12.5,12.5 0 0 1 578,156 v 18.3 a 12.5,12.5 0 0 1 -12.5,12.5 v 0 A 12.5,12.5 0 0 1 553,174.3 V 156 a 12.5,12.5 0 0 1 12.5,-12.5 v 0 m 0,-1.7 A 14.25,14.25 0 0 0 551.3,156 v 18.3 a 14.2,14.2 0 0 0 28.4,0 V 156 a 14.19,14.19 0 0 0 -14.2,-14.2 z"
+             transform="translate(0.1)"
+             id="path1245" />
+          <path
+             class="cls-12"
+             d="M 565.5,143.5 A 12.5,12.5 0 0 0 553,156 v 18.3 a 12.5,12.5 0 0 0 25,0 V 156 a 12.5,12.5 0 0 0 -12.5,-12.5 z"
+             transform="translate(0.1)"
+             id="path1247" />
+        </g>
+        <g
+           id="g1275">
+          <g
+             id="g1255">
+            <path
+               class="cls-12"
+               d="m 141.2,247.2 c 1.4,-2 1.2,-2.9 1.2,-2.9 0,0 0.2,-0.9 -1.2,-2.9 -1.4,-2 -15,-13.6 -15.7,-14 -0.7,-0.4 -28.5,-2.2 -31.4,1.3 -2.9,3.5 -2.6,15.6 -2.6,15.6 0,0 -0.3,12.1 2.6,15.6 2.9,3.5 30.7,1.7 31.4,1.3 0.7,-0.4 14.3,-12 15.7,-14 z"
+               transform="translate(0.1)"
+               id="path1251" />
+            <path
+               class="cls-25"
+               d="m 141.2,247.2 c 1.4,-2 1.2,-2.9 1.2,-2.9 0,0 0.2,-0.9 -1.2,-2.9 -0.9,-1.3 -6.9,-6.6 -11.2,-10.3 a 27.84,27.84 0 0 0 -3.4,13.2 26.73,26.73 0 0 0 3.4,13.2 c 4.3,-3.7 10.3,-9 11.2,-10.3 z"
+               transform="translate(0.1)"
+               id="path1253" />
+          </g>
+          <g
+             id="g1261">
+            <path
+               class="cls-12"
+               d="m 151,231.6 c 2,1.4 2.9,1.2 2.9,1.2 0,0 0.9,0.2 2.9,-1.2 2,-1.4 13.6,-15 14,-15.7 0.4,-0.7 2.2,-28.5 -1.3,-31.4 -3.5,-2.9 -15.6,-2.6 -15.6,-2.6 0,0 -12.1,-0.3 -15.6,2.6 -3.5,2.9 -1.7,30.7 -1.3,31.4 0.4,0.7 12,14.3 14,15.7 z"
+               transform="translate(0.1)"
+               id="path1257" />
+            <path
+               class="cls-25"
+               d="m 151,231.6 c 2,1.4 2.9,1.2 2.9,1.2 0,0 0.9,0.2 2.9,-1.2 1.3,-0.9 6.6,-6.9 10.3,-11.2 a 27.84,27.84 0 0 0 -13.2,-3.4 26.73,26.73 0 0 0 -13.2,3.4 c 3.8,4.3 9,10.3 10.3,11.2 z"
+               transform="translate(0.1)"
+               id="path1259" />
+          </g>
+          <g
+             id="g1267">
+            <path
+               class="cls-12"
+               d="m 213.7,228.8 c -2.9,-3.5 -30.7,-1.7 -31.4,-1.3 -0.7,0.4 -14.3,12 -15.7,14 -1.4,2 -1.2,2.9 -1.2,2.9 0,0 -0.2,0.9 1.2,2.9 1.4,2 15,13.6 15.7,14 0.7,0.4 28.5,2.2 31.4,-1.3 2.9,-3.5 2.6,-15.6 2.6,-15.6 0,0 0.3,-12.1 -2.6,-15.6 z"
+               transform="translate(0.1)"
+               id="path1263" />
+            <path
+               class="cls-25"
+               d="m 177.9,231.2 c -4.3,3.7 -10.3,9 -11.2,10.3 -1.4,2 -1.2,2.9 -1.2,2.9 0,0 -0.2,0.9 1.2,2.9 0.9,1.3 6.9,6.6 11.2,10.3 a 27.32,27.32 0 0 0 0,-26.4 z"
+               transform="translate(0.1)"
+               id="path1265" />
+          </g>
+          <g
+             id="g1273">
+            <path
+               class="cls-12"
+               d="m 156.8,257.1 c -2,-1.4 -2.9,-1.2 -2.9,-1.2 0,0 -0.9,-0.2 -2.9,1.2 -2,1.4 -13.6,15 -14,15.7 -0.4,0.7 -2.2,28.5 1.3,31.4 3.5,2.9 15.6,2.6 15.6,2.6 0,0 12.1,0.3 15.6,-2.6 3.5,-2.9 1.7,-30.7 1.3,-31.4 -0.4,-0.7 -12,-14.3 -14,-15.7 z"
+               transform="translate(0.1)"
+               id="path1269" />
+            <path
+               class="cls-25"
+               d="m 156.8,257.1 c -2,-1.4 -2.9,-1.2 -2.9,-1.2 0,0 -0.9,-0.2 -2.9,1.2 -1.3,0.9 -6.6,6.9 -10.3,11.2 a 27.84,27.84 0 0 0 13.2,3.4 26.73,26.73 0 0 0 13.2,-3.4 c -3.7,-4.3 -9,-10.3 -10.3,-11.2 z"
+               transform="translate(0.1)"
+               id="path1271" />
+          </g>
+        </g>
+      </g>
+      <path
+         class="cls-26"
+         d="m 436.6,421 h -67.9 c -2.8,0 -4.6,0.6 -4.6,-2.2 v 0 a 5,5 0 0 1 5,-5 H 437 a 5,5 0 0 1 5,5 v 0 c 0.1,2.7 -2.6,2.2 -5.4,2.2 z"
+         transform="translate(0.1)"
+         id="path1279" />
+      <path
+         d="m 408.3,418.8 h -36.5 a 0.9,0.9 0 0 1 -0.9,-0.9 v 0 a 2,2 0 0 1 2,-2 h 34.2 a 2,2 0 0 1 2,2 v 0 a 0.77,0.77 0 0 1 -0.8,0.9 z"
+         transform="translate(0.1)"
+         id="path1281" />
+      <path
+         d="m 430.5,419.6 h -4.2 a 1.75,1.75 0 0 1 -1.7,-1.7 v 0 a 2.8,2.8 0 0 1 2.8,-2.8 h 1.9 a 2.8,2.8 0 0 1 2.8,2.8 v 0 a 1.5,1.5 0 0 1 -1.6,1.7 z"
+         transform="translate(0.1)"
+         id="path1283" />
+      <g
+         id="g1295">
+        <path
+           class="cls-11"
+           d="m 534.8,128 a 6.57,6.57 0 0 0 -6.5,-5.6 H 277.7 a 6.48,6.48 0 0 0 -6.5,5.6 14.77,14.77 0 0 0 -0.1,2.1 v 127.4 a 16.09,16.09 0 0 0 16.1,16.1 h 231.6 a 16.09,16.09 0 0 0 16.1,-16.1 V 130.1 a 7.41,7.41 0 0 0 -0.1,-2.1 z"
+           transform="translate(0.1)"
+           id="path1285" />
+        <g
+           id="g1293">
+          <path
+             class="cls-12"
+             d="m 530.4,124.3 a 1.9,1.9 0 0 0 -1.9,-1.9 H 277.4 a 1.9,1.9 0 0 0 -1.9,1.9 v 129.2 a 15.62,15.62 0 0 0 15.6,15.6 h 223.8 a 15.62,15.62 0 0 0 15.6,-15.6 V 130.4 Z"
+             transform="translate(0.1)"
+             id="path1287" />
+          <g
+             class="cls-27"
+             id="g1291">
+            <path
+               class="cls-28"
+               d="m 275.5,253.5 a 15.62,15.62 0 0 0 15.6,15.6 h 223.8 a 15.62,15.62 0 0 0 15.6,-15.6 V 147 H 275.6 v 106.5 z"
+               transform="translate(0.1)"
+               id="path1289"
+               style="fill:url(#SVGID_8_-9)" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g1327">
+      <g
+         id="g1311">
+        <g
+           id="g1303">
+          <path
+             class="cls-12"
+             d="m 697.1,90.8 c 0,0 -32.7,-3.2 -50.6,-3.2 -17.9,0 -48.3,2.4 -48.3,2.4 0,0 3.1,-44.7 4.8,-52 1.7,-7.3 7.7,-21.3 16.9,-27.9 9.2,-6.6 12,-10.1 22.8,-10.1 10.8,0 25.4,6.4 34.6,21.4 9.2,15 19.8,69.4 19.8,69.4 z"
+             transform="translate(0.1)"
+             id="path1299" />
+          <path
+             class="cls-11"
+             d="m 598.7,83.2 c 0,0 26.1,-4.4 49,-4.4 22.9,0 47.9,4.4 47.9,4.4 1,4.7 1.6,7.6 1.6,7.6 0,0 -32.7,-3.2 -50.6,-3.2 -17.9,0 -48.3,2.4 -48.3,2.4 0,0 0,-2.7 0.4,-6.8 z"
+             transform="translate(0.1)"
+             id="path1301" />
+        </g>
+        <g
+           class="cls-29"
+           id="g1309">
+          <path
+             class="cls-3"
+             d="m 648.7,65.7 -3.2,2.6 a 6.71,6.71 0 0 0 -2,4.5 h 9.8 V 70.2 H 647 a 6.71,6.71 0 0 1 2.1,-1.9 12.47,12.47 0 0 0 2.7,-2.1 4.77,4.77 0 0 0 1.3,-3.3 4.22,4.22 0 0 0 -1.4,-3.3 5.13,5.13 0 0 0 -3.5,-1.2 c -3.1,0 -4.7,1.7 -4.7,5 h 2.7 q 0,-2.7 2.1,-2.7 a 1.83,1.83 0 0 1 2,2.1 3.5,3.5 0 0 1 -1.6,2.9 z"
+             transform="translate(0.1)"
+             id="path1305" />
+          <path
+             class="cls-3"
+             d="m 631.1,67.2 h 3 c 1.5,0 2.3,0.6 2.4,1.9 0.1,1.3 0.2,2.5 0.3,3.8 h 3.3 v -0.4 c -0.5,-0.2 -0.7,-0.7 -0.7,-1.5 a 2.81,2.81 0 0 1 0.1,-0.8 v -0.7 a 3.56,3.56 0 0 0 -1.8,-3.5 3.25,3.25 0 0 0 2.2,-3.4 3.54,3.54 0 0 0 -1.3,-3 4.72,4.72 0 0 0 -3.2,-1 h -7.3 v 14.3 h 3 z m 0,-6.3 h 3.7 c 1.4,0 2.1,0.6 2.1,1.9 0,1.3 -0.8,1.9 -2.3,1.9 h -3.5 z"
+             transform="translate(0.1)"
+             id="path1307" />
+        </g>
+      </g>
+      <g
+         id="g1325">
+        <g
+           id="g1317">
+          <path
+             class="cls-12"
+             d="m 108.8,90.8 c 0,0 32.7,-3.2 50.6,-3.2 17.9,0 48.3,2.4 48.3,2.4 0,0 -3.1,-44.7 -4.8,-52 C 201.2,30.7 195.2,16.7 186,10.1 176.8,3.5 174,0 163.2,0 c -10.8,0 -25.4,6.4 -34.6,21.4 -9.2,15 -19.8,69.4 -19.8,69.4 z"
+             transform="translate(0.1)"
+             id="path1313" />
+          <path
+             class="cls-11"
+             d="m 207.2,83.2 c 0,0 -26.1,-4.4 -49,-4.4 -22.9,0 -47.9,4.4 -47.9,4.4 -1,4.7 -1.6,7.6 -1.6,7.6 0,0 32.7,-3.2 50.6,-3.2 17.9,0 48.3,2.4 48.3,2.4 0,0 0,-2.7 -0.4,-6.8 z"
+             transform="translate(0.1)"
+             id="path1315" />
+        </g>
+        <g
+           class="cls-29"
+           id="g1323">
+          <path
+             class="cls-3"
+             d="m 173.3,65.7 -3.2,2.6 a 6.71,6.71 0 0 0 -2,4.5 h 9.8 v -2.6 h -6.2 a 6.71,6.71 0 0 1 2.1,-1.9 12.47,12.47 0 0 0 2.7,-2.1 4.77,4.77 0 0 0 1.3,-3.3 4.22,4.22 0 0 0 -1.4,-3.3 5.13,5.13 0 0 0 -3.5,-1.2 c -3.1,0 -4.7,1.7 -4.7,5 h 2.7 q 0,-2.7 2.1,-2.7 a 1.83,1.83 0 0 1 2,2.1 3.63,3.63 0 0 1 -1.7,2.9 z"
+             transform="translate(0.1)"
+             id="path1319" />
+          <polygon
+             class="cls-3"
+             points="154.8,58.5 154.8,72.8 164.9,72.8 164.9,70.1 157.8,70.1 157.8,58.5 "
+             id="polygon1321" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
