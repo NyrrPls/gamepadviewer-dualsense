@@ -33,7 +33,7 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="g3866-3"
      units="px"
      height="800px"
      fit-margin-top="0"
@@ -801,33 +801,7 @@
        style="display:inline;opacity:1"
        transform="translate(-276.29944,-181.90389)"
        inkscape:label="Shoulder Buttons"
-       inkscape:groupmode="layer">
-      <g
-         id="g9051"
-         inkscape:label="Left Button 1"
-         transform="matrix(0.28448945,-0.0383124,0.0383124,0.28448945,317.78983,208.30551)"
-         style="fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-opacity:1">
-        <path
-           id="path9047"
-           style="fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.804755;stroke-opacity:1"
-           class="cls-11"
-           d="m 427.65234,172.0957 c -4.87896,-0.0383 -10.65687,0.27094 -17.36132,1.17383 -22.41131,3.01815 -36.33577,13.58266 -39.61329,16.37891 -0.48353,0.36095 -0.7184,1.01957 -0.66015,1.62304 -2.4e-4,2e-4 -0.0137,0.01 -0.0137,0.01 l 0.0156,0.041 c 0.002,0.0135 -0.002,0.0276 0,0.041 0,0 0.0115,-0.008 0.0117,-0.008 l 3.41797,9.25195 c 2.58823,-3.00064 23.27203,0.4108 42.95703,-2.31054 18.26402,-2.45963 34.07835,2.57231 33.67773,-3.69922 l -0.60937,-9.55078 -1.1543,-8.57227 c 1.5e-4,2e-5 0.01,0 0.01,0 -0.003,-0.0264 -0.0172,-0.0534 -0.0215,-0.0801 l -0.0156,-0.12109 c 0,0 -0.0155,-0.002 -0.0156,-0.002 -0.142,-0.61784 -0.58077,-1.26269 -1.15625,-1.46484 -2.34834,-0.8561 -8.73503,-2.62668 -19.46875,-2.71094 z m -54.20312,28.51172 c -0.399,0.46257 -0.38144,1.07314 0.15039,1.88672 l 1.25586,1.92188 z"
-           transform="matrix(1.2314968,0.16584657,-0.16584657,1.2314968,-314.93615,-187.02722)" />
-      </g>
-      <g
-         id="g19559"
-         inkscape:label="Right Button 1"
-         transform="matrix(-0.28448945,-0.0383124,-0.0383124,0.28448945,552.93815,208.30551)"
-         style="fill:#333333;fill-opacity:1;stroke:none;stroke-opacity:1">
-        <path
-           id="path19555"
-           style="fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.804755;stroke-opacity:1"
-           class="cls-11"
-           d="m 774.11133,172.0957 c -10.73372,0.0843 -17.12041,1.85484 -19.46875,2.71094 -0.57548,0.20215 -1.01425,0.847 -1.15625,1.46484 -1.7e-4,3e-5 -0.0156,0.002 -0.0156,0.002 l -0.0156,0.12109 c -0.004,0.0266 -0.0184,0.0537 -0.0215,0.0801 0,0 0.01,2e-5 0.01,0 l -1.1543,8.57227 -0.60937,9.55078 c -0.40061,6.27153 15.41371,1.23959 33.67773,3.69922 19.685,2.72134 40.36881,-0.6901 42.95703,2.31054 l 3.41797,-9.25195 c 1.8e-4,1.3e-4 0.0117,0.008 0.0117,0.008 0.002,-0.0134 -0.002,-0.0275 0,-0.041 l 0.0156,-0.041 c 0,0 -0.0134,-0.01 -0.0137,-0.01 0.0583,-0.60347 -0.17662,-1.26209 -0.66015,-1.62304 -3.27752,-2.79625 -17.20198,-13.36076 -39.61328,-16.37891 -6.70445,-0.90289 -12.48237,-1.21212 -17.36133,-1.17383 z m 54.20312,28.51172 -1.40625,3.8086 1.25586,-1.92188 c 0.53184,-0.81358 0.54939,-1.42415 0.15039,-1.88672 z"
-           transform="matrix(-1.2314968,-0.16584657,-0.16584657,1.2314968,1165.0319,12.28116)"
-           inkscape:label="Right Button 1" />
-      </g>
-    </g>
+       inkscape:groupmode="layer" />
     <path
        id="path10632"
        style="display:inline;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:0.356701px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -965,80 +939,7 @@
     <g
        inkscape:groupmode="layer"
        id="layer5"
-       inkscape:label="Buttons">
-      <g
-         id="g26596"
-         transform="matrix(0.26813374,0,0,0.26813374,219.24592,80.543514)"
-         inkscape:label="X"
-         style="stroke:none">
-        <path
-           class="cls-7"
-           d="M 27.3,111.4 A 26.3,26.3 0 1 1 53.6,85.1 26.33,26.33 0 0 1 27.3,111.4 Z"
-           id="path26588"
-           style="display:inline;fill:#4d4d4d;fill-opacity:1;stroke:none"
-           inkscape:label="Button" />
-        <polygon
-           class="cls-9"
-           points="27.3,83.1 14.9,70.7 12.9,72.7 25.3,85.1 12.9,97.5 14.9,99.5 27.3,87.1 39.7,99.5 41.7,97.5 29.3,85.1 41.7,72.7 39.7,70.7 "
-           id="polygon26594"
-           style="fill:#ffffff;fill-opacity:1;stroke:none"
-           inkscape:label="Icon" />
-      </g>
-      <g
-         id="g26626"
-         inkscape:label="Triangle"
-         transform="matrix(0.26813374,0,0,0.26813374,173.79725,49.180548)"
-         style="stroke:none">
-        <path
-           class="cls-7"
-           d="M 196.8,111.3 A 26.3,26.3 0 1 1 223.1,85 26.33,26.33 0 0 1 196.8,111.3 Z"
-           id="path26618"
-           style="display:inline;fill:#4d4d4d;fill-opacity:1;stroke:none"
-           inkscape:label="Button" />
-        <path
-           class="cls-12"
-           d="m 212.8,93 -16,-27.6 -16,27.6 -1.6,2.8 h 35.2 z m -16,0 H 184.1 L 196.8,71.1 209.5,93 Z"
-           id="path26624"
-           inkscape:label="Icon"
-           style="fill:#ffffff;fill-opacity:1;stroke:none" />
-      </g>
-      <g
-         id="g26616"
-         inkscape:label="Square"
-         transform="matrix(0.26813374,0,0,0.26813374,173.96525,64.902252)"
-         style="stroke:none">
-        <path
-           class="cls-7"
-           d="m 140.3,111.2 a 26.3,26.3 0 1 1 26.3,-26.3 26.33,26.33 0 0 1 -26.3,26.3 z"
-           id="path26608"
-           inkscape:label="Button"
-           style="fill:#4d4d4d;fill-opacity:1;stroke:none" />
-        <path
-           class="cls-11"
-           d="M 151.8,70.6 H 126 v 28.6 h 28.6 V 70.6 Z m 0,25.9 h -23 v -23 h 23 z"
-           id="path26614"
-           inkscape:label="Icon"
-           style="fill:#ffffff;fill-opacity:1;stroke:none" />
-      </g>
-      <g
-         id="g26606"
-         inkscape:label="Circle"
-         transform="matrix(0.26813374,0,0,0.26813374,219.79135,64.902252)"
-         style="stroke:none">
-        <path
-           class="cls-7"
-           d="M 83.8,111.2 A 26.3,26.3 0 1 1 110.1,84.9 26.33,26.33 0 0 1 83.8,111.2 Z"
-           id="path26598"
-           inkscape:label="Button"
-           style="fill:#4d4d4d;fill-opacity:1;stroke:none" />
-        <path
-           class="cls-10"
-           d="M 83.8,66.1 A 18.9,18.9 0 1 0 102.7,85 18.95,18.95 0 0 0 83.8,66.1 Z m 0,34.9 a 16,16 0 1 1 16,-16 16,16 0 0 1 -16,16 z"
-           id="path26604"
-           inkscape:label="Icon"
-           style="fill:#ffffff;fill-opacity:1;stroke:none" />
-      </g>
-    </g>
+       inkscape:label="Buttons" />
     <g
        inkscape:groupmode="layer"
        id="layer6"
