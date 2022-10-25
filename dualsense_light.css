@@ -5,14 +5,14 @@
 
 /* The Base of the Controller ------------------------------------------------------- */
 .controller.custom{
-  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/SVG/base_light.svg); 
+  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/light/base_light.svg); 
   height: 624px;
   width: 824px;
 }
 
 /* Disconnected Controller ------------------------------------------------------- */
 .custom.disconnected { /* This class shows an image when the controller is disconnected */
-  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/SVG/base_light.svg);
+  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/light/disconnected.svg);
 }
 /* This hides the controller's button when disconnected so only the background image remains */ 
 .custom.disconnected div {
@@ -28,13 +28,13 @@
   left: 208px;
 }
 .custom .back{
-  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/SVG/menu_both.svg);
+  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/light/menu_light.svg);
   float: left;
   height: 38px;
   width: 26px;
 }
 .custom .start{
-  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/SVG/menu_both.svg);
+  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/light/menu_light.svg);
   -webkit-transform: rotateY(180deg);
   transform: rotateY(180deg);
   float: right;
@@ -51,7 +51,7 @@
 /* Touchpad ------------------------------------------------------- */
 .custom .touchpad{
   position: absolute;
-  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/SVG/touchpad_light.svg);
+  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/light/touchpad_light.svg);
   top: 91px;
   left: 247px;
   height:179px;
@@ -74,7 +74,7 @@
   position: absolute;
   width:54px;
   height:54px;
-  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/SVG/face.svg);
+  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/light/face_light.svg);
 }
 
 .custom .a{
@@ -135,7 +135,7 @@
 .custom .trigger-button{
   width:92px;
   height:93px;
-  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/SVG/trigger_both.svg);
+  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/light/trigger_light.svg);
 }
 .custom .trigger-button.pressed{
   background-position-x: -94px;
@@ -160,7 +160,7 @@
 .custom .bumper{
   width: 109px;
   height: 33px;
-  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/SVG/bumper_both.svg);
+  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/light/bumper_light.svg);
 }
 .custom .bumper.pressed{ /* The '.pressed' class is used for most buttons to signify they've been pressed */
   background-position-x: -108px;
@@ -184,7 +184,7 @@
 }
 .custom .stick{
   position: absolute;
-  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/SVG/stick_light.svg);
+  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/light/stick_light.svg);
   height:80px;
   width: 80px;
 }
@@ -211,7 +211,7 @@
   left: 79px;
 }
 .custom .face{
-  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/SVG/dpad.svg);
+  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/light/dpad_light.svg);
   position: absolute;
 }
 
