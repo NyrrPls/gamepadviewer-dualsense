@@ -184,15 +184,9 @@
 }
 .custom .stick{
   position: absolute;
-<<<<<<< Updated upstream
   background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/dark/stick_dark.svg);
   height:100px;
   width: 100px;
-=======
-  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/dark/stick_dark.svg);
-  height:80px;
-  width: 80px;
->>>>>>> Stashed changes
 }
 .custom .stick.pressed.left{
   background-position-x: -102px;
