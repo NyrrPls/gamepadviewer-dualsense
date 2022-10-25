@@ -2,12 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="162.38783"
-   height="80.387566"
-   viewBox="0 0 42.965116 21.269209"
+   width="202.48427"
+   height="100.48445"
+   viewBox="0 0 53.573965 26.58651"
    version="1.1"
    id="svg5"
-   sodipodi:docname="sticks_dark.svg"
+   sodipodi:docname="stick_dark.svg"
    inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -25,9 +25,9 @@
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
-     inkscape:zoom="4.0000001"
-     inkscape:cx="8.3749998"
-     inkscape:cy="50.249999"
+     inkscape:zoom="2.8284272"
+     inkscape:cx="154.32605"
+     inkscape:cy="112.78353"
      inkscape:window-width="2560"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
@@ -41,7 +41,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0">
     <sodipodi:guide
-       position="108.43826,4.0709091"
+       position="70.972428,12.848574"
        orientation="-1,0"
        id="guide9844"
        inkscape:label=""
@@ -794,34 +794,55 @@
      id="layer2"
      inkscape:label="Dualsense"
      style="display:inline;opacity:1"
-     transform="translate(-50.311736,-23.941441)"
+     transform="translate(-87.777568,-27.401805)"
      inkscape:groupmode="layer">
     <g
-       id="layer7"
-       inkscape:label="Sticks"
-       style="display:inline;fill:#333333;fill-opacity:1"
-       transform="matrix(1.3481643,0,0,1.3481643,-55.271089,-14.739694)">
-      <ellipse
-         style="display:inline;opacity:1;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.420613;stroke-opacity:0.5"
-         id="circle1003"
-         cx="86.204247"
-         cy="36.579918"
-         inkscape:label="Stick"
-         rx="7.8882542"
-         ry="7.8882113" />
-    </g>
+       id="g3866-3"
+       style="display:inline;opacity:1"
+       transform="translate(-276.29944,-181.90389)"
+       inkscape:label="Shoulder Buttons"
+       inkscape:groupmode="layer" />
     <g
-       id="g3084"
-       inkscape:label="Sticks"
+       id="g3982-7-8"
        style="display:inline"
-       transform="matrix(1.3481643,0,0,1.3481643,-33.575242,-14.739694)">
-      <circle
-         style="display:inline;opacity:1;fill:#f0495a;fill-opacity:1;stroke:none;stroke-width:0.420613;stroke-opacity:0.5"
-         id="circle3082"
-         cx="86.204247"
-         cy="36.579918"
-         r="7.8882113"
-         inkscape:label="Stick" />
-    </g>
+       transform="matrix(-0.16552326,0.02978768,0.02978768,0.16552326,90.007921,-11.52032)"
+       inkscape:label="Menu Buttons"
+       inkscape:groupmode="layer" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer5"
+       inkscape:label="Buttons" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer6"
+       inkscape:label="DPad" />
+    <circle
+       style="display:inline;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.708819;stroke-opacity:0.5"
+       id="circle26432"
+       cx="101.07082"
+       cy="40.695061"
+       r="13.293256"
+       inkscape:label="Right Stick (Hole)" />
+    <circle
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.708819;stroke-opacity:0.5"
+       id="path25425-7"
+       cx="128.05827"
+       cy="40.695061"
+       r="13.293256"
+       inkscape:label="Left Stick (Hole)" />
+    <circle
+       style="display:none;fill:#f0495a;fill-opacity:1;stroke:none;stroke-width:0.567055;stroke-opacity:0.5"
+       id="circle1003"
+       cx="136.18903"
+       cy="40.695061"
+       r="10.634604"
+       inkscape:label="Right Stick" />
+    <circle
+       style="display:none;fill:#f0495a;fill-opacity:1;stroke:none;stroke-width:0.567055;stroke-opacity:0.5"
+       id="circle1481"
+       cx="65.952621"
+       cy="40.695061"
+       r="10.634604"
+       inkscape:label="Left Stick" />
   </g>
 </svg>

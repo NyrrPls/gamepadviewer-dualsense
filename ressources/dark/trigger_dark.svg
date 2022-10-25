@@ -2,12 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="92.923126"
-   height="94.711967"
-   viewBox="0 0 24.585911 25.059207"
+   width="185.89621"
+   height="93.615501"
+   viewBox="0 0 49.185041 24.7691"
    version="1.1"
    id="svg5"
-   sodipodi:docname="trigger.svg"
+   sodipodi:docname="trigger_dark.svg"
    inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
    inkscape:export-filename="D:\Projects\Code\Gamepadviewer - Dualsense\ressources\PNG\trigger.png"
    inkscape:export-xdpi="96"
@@ -29,8 +29,8 @@
      showguides="false"
      inkscape:guide-bbox="true"
      inkscape:zoom="2.8284272"
-     inkscape:cx="69.119686"
-     inkscape:cy="102.88403"
+     inkscape:cx="74.069433"
+     inkscape:cy="30.052037"
      inkscape:window-width="2560"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
@@ -44,7 +44,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0">
     <sodipodi:guide
-       position="80.779504,77.223199"
+       position="80.651527,77.057724"
        orientation="-1,0"
        id="guide9844"
        inkscape:label=""
@@ -798,7 +798,7 @@
      inkscape:label="Dualsense"
      style="display:inline;opacity:1"
      inkscape:groupmode="layer"
-     transform="translate(-77.970495,-93.303734)">
+     transform="translate(-78.098476,-93.428364)">
     <g
        id="g3866-3"
        style="display:inline;opacity:1"
@@ -809,14 +809,27 @@
          id="g4058"
          inkscape:label="Left Button 2"
          transform="matrix(0.24619594,-0.04341099,0.04341099,0.24619594,323.64546,282.47422)"
-         style="fill:#f0495a;fill-opacity:1;stroke:none;stroke-opacity:1">
+         style="fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-opacity:1">
         <path
            class="cls-12"
            d="m 108.8,90.8 c 0,0 32.7,-3.2 50.6,-3.2 17.9,0 48.3,2.4 48.3,2.4 0,0 0.55925,-27.62808 -4.8,-52 -3.48295,-23.047476 -18.75562,-36.1863085 -39.7,-38 -10.8,0 -25.4,6.4 -34.6,21.4 -9.2,15 -19.8,69.4 -19.8,69.4 z"
            transform="translate(0.1)"
            id="path4046"
            sodipodi:nodetypes="cscccsc"
-           style="fill:#f0495a;fill-opacity:1;stroke:none;stroke-opacity:1" />
+           style="fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-opacity:1" />
+      </g>
+      <g
+         id="g4058-0"
+         inkscape:label="Left Button 2"
+         transform="matrix(0.24619594,-0.04341099,0.04341099,0.24619594,348.51645,282.47422)"
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1">
+        <path
+           class="cls-12"
+           d="m 108.8,90.8 c 0,0 32.7,-3.2 50.6,-3.2 17.9,0 48.3,2.4 48.3,2.4 0,0 0.55925,-27.62808 -4.8,-52 -3.48295,-23.047476 -18.75562,-36.1863085 -39.7,-38 -10.8,0 -25.4,6.4 -34.6,21.4 -9.2,15 -19.8,69.4 -19.8,69.4 z"
+           transform="translate(0.1)"
+           id="path4046-5"
+           sodipodi:nodetypes="cscccsc"
+           style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-opacity:1" />
       </g>
     </g>
   </g>
