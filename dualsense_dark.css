@@ -184,15 +184,15 @@
 }
 .custom .stick{
   position: absolute;
-  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/SVG/sticks_dark.svg);
-  height:80px;
-  width: 80px;
+  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/SVG/stick_dark.svg);
+  height:100px;
+  width: 100px;
 }
 .custom .stick.pressed.left{
-  background-position-x: -82px;
+  background-position-x: -102px;
 }
 .custom .stick.pressed.right{
-  background-position-x: -82px;
+  background-position-x: -102px;
 }
 .custom .stick.left{
   top: 0;
