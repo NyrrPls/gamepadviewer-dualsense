@@ -3,12 +3,6 @@
 /*BEGIN PS5 Controller Styling*/
 /*This class defines the base attributes of the skin*/
 
-/* The Base of the Controller ------------------------------------------------------- */
-.controller.custom{
-  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/dark/base_dark.svg); 
-  height: 624px;
-  width: 824px;
-}
 
 /* Disconnected Controller ------------------------------------------------------- */
 .custom.disconnected { /* This class shows an image when the controller is disconnected */
@@ -46,20 +40,6 @@
 }
 .custom .start.pressed{
   background-position-x: -26px;
-}
-
-/* Touchpad ------------------------------------------------------- */
-.custom .touchpad{
-  position: absolute;
-  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/dark/touchpad_dark.svg);
-  top: 91px;
-  left: 247px;
-  height:179px;
-  width: 331px;
-}
-
-.custom .touchpad.pressed{
-  background-position-x: -332px;
 }
 
 /* Face Buttons ------------------------------------------------------- */
@@ -174,34 +154,6 @@
   float: right;
 }
 
-/* Analog Sticks ------------------------------------------------------- */
-.custom .sticks{
-  position: absolute;
-  width: 346px;
-  height: 80px;
-  top: 318px;
-  left: 239px;
-}
-.custom .stick{
-  position: absolute;
-  background: url(https://raw.githubusercontent.com/Sothis71/gamepadviewer-dualsense/main/ressources/dark/stick_dark.svg);
-  height:100px;
-  width: 100px;
-}
-.custom .stick.pressed.left{
-  background-position-x: -102px;
-}
-.custom .stick.pressed.right{
-  background-position-x: -102px;
-}
-.custom .stick.left{
-  top: 0;
-  left: 0;
-}
-.custom .stick.right{
-  top: 0;
-  left: calc(100% - 80px);
-}
 /* DPad ------------------------------------------------------- */
 .custom .dpad{
   position: absolute;
