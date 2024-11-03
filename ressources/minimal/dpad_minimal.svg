@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="213.92078"
+   height="125.06316"
+   viewBox="0 0 56.599874 33.089628"
+   version="1.1"
+   id="svg5"
+   sodipodi:docname="dpad_dark.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="-76.721084"
+     inkscape:cy="57.982755"
+     inkscape:window-width="2560"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5"
+     units="px"
+     height="800px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <sodipodi:guide
+       position="137.98642,89.705133"
+       orientation="-1,0"
+       id="guide9844"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <style
+       id="style26544">
+      .cls-1 {
+        fill: #2c2c2c;
+      }
+
+      .cls-2 {
+        fill: #222;
+      }
+
+      .cls-3 {
+        fill: #7cb2e8;
+      }
+
+      .cls-4 {
+        fill: #f66;
+      }
+
+      .cls-5 {
+        fill: #ff69f8;
+      }
+
+      .cls-6 {
+        fill: #40e2a0;
+      }
+
+      .cls-7 {
+        fill: #d3d3d3;
+      }
+
+      .cls-8 {
+        fill: #ddd;
+      }
+
+      .cls-9 {
+        fill: #834d17;
+      }
+
+      .cls-10 {
+        fill: #099;
+      }
+
+      .cls-11 {
+        fill: #009607;
+      }
+
+      .cls-12 {
+        fill: #bf1d5f;
+      }
+    </style>
+    <style
+       id="style2345">
+      .cls-1 {
+        fill: #c1272d;
+      }
+
+      .cls-2, .cls-4 {
+        isolation: isolate;
+        opacity: 0.25;
+      }
+
+      .cls-3 {
+        fill: #3ed8d2;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+    </style>
+    <style
+       id="style3670">
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #b3b3b3;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-21, .cls-4 {
+        fill: #e6e6e6;
+      }
+
+      .cls-5 {
+        fill: #cfcfcf;
+      }
+
+      .cls-6 {
+        fill: #121212;
+      }
+
+      .cls-7 {
+        fill: #080808;
+      }
+
+      .cls-8 {
+        opacity: 0.12;
+      }
+
+      .cls-9 {
+        fill: url(#SVGID_5_);
+      }
+
+      .cls-10 {
+        fill: #1f1f1f;
+      }
+
+      .cls-11 {
+        fill: #9e1f20;
+      }
+
+      .cls-12 {
+        fill: #c1272d;
+      }
+
+      .cls-13 {
+        fill: #2c2c2c;
+      }
+
+      .cls-14 {
+        fill: #222;
+      }
+
+      .cls-15 {
+        fill: #f66;
+      }
+
+      .cls-16 {
+        fill: #7cb2e8;
+      }
+
+      .cls-17 {
+        fill: #ff69f8;
+      }
+
+      .cls-18 {
+        fill: #40e2a0;
+      }
+
+      .cls-19 {
+        fill: #050505;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-20 {
+        fill: #f2f2f2;
+      }
+
+      .cls-21, .cls-22, .cls-23, .cls-24, .cls-25 {
+        isolation: isolate;
+      }
+
+      .cls-21 {
+        opacity: 0.1;
+      }
+
+      .cls-22, .cls-24, .cls-29 {
+        opacity: 0.08;
+      }
+
+      .cls-22 {
+        fill: url(#SVGID_6_);
+      }
+
+      .cls-23 {
+        opacity: 0.22;
+      }
+
+      .cls-24 {
+        fill: url(#SVGID_7_);
+      }
+
+      .cls-25 {
+        opacity: 0.25;
+      }
+
+      .cls-26 {
+        fill: #0b0b0f;
+      }
+
+      .cls-27 {
+        opacity: 0.2;
+      }
+
+      .cls-28 {
+        fill: url(#SVGID_8_);
+      }
+    </style>
+    <pattern
+       id="SVGID_5_"
+       data-name="SVGID 5 "
+       width="71"
+       height="71"
+       patternTransform="translate(-14969.26 1511.28) scale(0.1)"
+       patternUnits="userSpaceOnUse"
+       viewBox="0 0 71 71">
+      <rect
+         class="cls-1"
+         width="71"
+         height="71"
+         id="rect3672" />
+      <g
+         id="g3682">
+        <polygon
+           class="cls-1"
+           points="0 0 71 0 71 71 0 71 0 0"
+           id="polygon3674" />
+        <g
+           id="g3680">
+          <polygon
+             class="cls-1"
+             points="0 0 71 0 71 71 0 71 0 0"
+             id="polygon3676" />
+          <path
+             class="cls-2"
+             d="M41.8,35.5a6.3,6.3,0,1,1-6.3-6.3A6.27,6.27,0,0,1,41.8,35.5Z"
+             id="path3678" />
+        </g>
+      </g>
+    </pattern>
+    <pattern
+       id="SVGID_6_"
+       data-name="SVGID 6 "
+       width="40"
+       height="103"
+       patternTransform="translate(-11177.56 6671.22) rotate(16) scale(0.34)"
+       patternUnits="userSpaceOnUse"
+       viewBox="0 0 40 103">
+      <rect
+         class="cls-1"
+         width="40"
+         height="103"
+         id="rect3685" />
+      <g
+         id="g3723">
+        <polygon
+           class="cls-1"
+           points="0 0 40 0 40 103 0 103 0 0"
+           id="polygon3687" />
+        <g
+           id="g3721">
+          <polygon
+             class="cls-1"
+             points="0 0 40 0 40 103 0 103 0 0"
+             id="polygon3689" />
+          <polygon
+             points="34.5 231.8 37.5 231.8 37.5 77.3 34.5 77.3 34.5 231.8"
+             id="polygon3691" />
+          <polygon
+             points="26.5 231.8 29.5 231.8 29.5 77.3 26.5 77.3 26.5 231.8"
+             id="polygon3693" />
+          <polygon
+             points="18.5 231.8 21.5 231.8 21.5 77.3 18.5 77.3 18.5 231.8"
+             id="polygon3695" />
+          <polygon
+             points="10.5 231.8 13.5 231.8 13.5 77.3 10.5 77.3 10.5 231.8"
+             id="polygon3697" />
+          <polygon
+             points="2.5 231.8 5.5 231.8 5.5 77.3 2.5 77.3 2.5 231.8"
+             id="polygon3699" />
+          <polygon
+             points="34.5 128.8 37.5 128.8 37.5 -25.7 34.5 -25.7 34.5 128.8"
+             id="polygon3701" />
+          <polygon
+             points="26.5 128.8 29.5 128.8 29.5 -25.7 26.5 -25.7 26.5 128.8"
+             id="polygon3703" />
+          <polygon
+             points="18.5 128.8 21.5 128.8 21.5 -25.7 18.5 -25.7 18.5 128.8"
+             id="polygon3705" />
+          <polygon
+             points="10.5 128.8 13.5 128.8 13.5 -25.7 10.5 -25.7 10.5 128.8"
+             id="polygon3707" />
+          <polygon
+             points="2.5 128.8 5.5 128.8 5.5 -25.7 2.5 -25.7 2.5 128.8"
+             id="polygon3709" />
+          <polygon
+             points="34.5 25.8 37.5 25.8 37.5 -128.7 34.5 -128.7 34.5 25.8"
+             id="polygon3711" />
+          <polygon
+             points="26.5 25.8 29.5 25.8 29.5 -128.7 26.5 -128.7 26.5 25.8"
+             id="polygon3713" />
+          <polygon
+             points="18.5 25.8 21.5 25.8 21.5 -128.7 18.5 -128.7 18.5 25.8"
+             id="polygon3715" />
+          <polygon
+             points="10.5 25.8 13.5 25.8 13.5 -128.7 10.5 -128.7 10.5 25.8"
+             id="polygon3717" />
+          <polygon
+             points="2.5 25.8 5.5 25.8 5.5 -128.7 2.5 -128.7 2.5 25.8"
+             id="polygon3719" />
+        </g>
+      </g>
+    </pattern>
+    <pattern
+       id="SVGID_7_"
+       data-name="SVGID 7 "
+       width="40"
+       height="103"
+       patternTransform="matrix(-0.33, 0.09, 0.09, 0.33, -22107.61, 6714.99)"
+       patternUnits="userSpaceOnUse"
+       viewBox="0 0 40 103">
+      <rect
+         class="cls-1"
+         width="40"
+         height="103"
+         id="rect3726" />
+      <g
+         id="g3764">
+        <polygon
+           class="cls-1"
+           points="0 0 40 0 40 103 0 103 0 0"
+           id="polygon3728" />
+        <g
+           id="g3762">
+          <polygon
+             class="cls-1"
+             points="0 0 40 0 40 103 0 103 0 0"
+             id="polygon3730" />
+          <polygon
+             points="34.5 231.8 37.5 231.8 37.5 77.3 34.5 77.3 34.5 231.8"
+             id="polygon3732" />
+          <polygon
+             points="26.5 231.8 29.5 231.8 29.5 77.3 26.5 77.3 26.5 231.8"
+             id="polygon3734" />
+          <polygon
+             points="18.5 231.8 21.5 231.8 21.5 77.3 18.5 77.3 18.5 231.8"
+             id="polygon3736" />
+          <polygon
+             points="10.5 231.8 13.5 231.8 13.5 77.3 10.5 77.3 10.5 231.8"
+             id="polygon3738" />
+          <polygon
+             points="2.5 231.8 5.5 231.8 5.5 77.3 2.5 77.3 2.5 231.8"
+             id="polygon3740" />
+          <polygon
+             points="34.5 128.8 37.5 128.8 37.5 -25.7 34.5 -25.7 34.5 128.8"
+             id="polygon3742" />
+          <polygon
+             points="26.5 128.8 29.5 128.8 29.5 -25.7 26.5 -25.7 26.5 128.8"
+             id="polygon3744" />
+          <polygon
+             points="18.5 128.8 21.5 128.8 21.5 -25.7 18.5 -25.7 18.5 128.8"
+             id="polygon3746" />
+          <polygon
+             points="10.5 128.8 13.5 128.8 13.5 -25.7 10.5 -25.7 10.5 128.8"
+             id="polygon3748" />
+          <polygon
+             points="2.5 128.8 5.5 128.8 5.5 -25.7 2.5 -25.7 2.5 128.8"
+             id="polygon3750" />
+          <polygon
+             points="34.5 25.8 37.5 25.8 37.5 -128.7 34.5 -128.7 34.5 25.8"
+             id="polygon3752" />
+          <polygon
+             points="26.5 25.8 29.5 25.8 29.5 -128.7 26.5 -128.7 26.5 25.8"
+             id="polygon3754" />
+          <polygon
+             points="18.5 25.8 21.5 25.8 21.5 -128.7 18.5 -128.7 18.5 25.8"
+             id="polygon3756" />
+          <polygon
+             points="10.5 25.8 13.5 25.8 13.5 -128.7 10.5 -128.7 10.5 25.8"
+             id="polygon3758" />
+          <polygon
+             points="2.5 25.8 5.5 25.8 5.5 -128.7 2.5 -128.7 2.5 25.8"
+             id="polygon3760" />
+        </g>
+      </g>
+    </pattern>
+    <pattern
+       id="SVGID_8_"
+       data-name="SVGID 8 "
+       width="71"
+       height="71"
+       patternTransform="translate(-14969.26 1511.28) scale(0.1)"
+       patternUnits="userSpaceOnUse"
+       viewBox="0 0 71 71">
+      <rect
+         class="cls-1"
+         width="71"
+         height="71"
+         id="rect3767" />
+      <g
+         id="g3777">
+        <polygon
+           class="cls-1"
+           points="0 0 71 0 71 71 0 71 0 0"
+           id="polygon3769" />
+        <g
+           id="g3775">
+          <polygon
+             class="cls-1"
+             points="0 0 71 0 71 71 0 71 0 0"
+             id="polygon3771" />
+          <path
+             class="cls-3"
+             d="M41.8,35.5a6.3,6.3,0,1,1-6.3-6.3A6.27,6.27,0,0,1,41.8,35.5Z"
+             id="path3773" />
+        </g>
+      </g>
+    </pattern>
+    <style
+       id="style937">
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #b3b3b3;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-21, .cls-4 {
+        fill: #e6e6e6;
+      }
+
+      .cls-5 {
+        fill: #cfcfcf;
+      }
+
+      .cls-6 {
+        fill: #121212;
+      }
+
+      .cls-7 {
+        fill: #080808;
+      }
+
+      .cls-8 {
+        opacity: 0.12;
+      }
+
+      .cls-9 {
+        fill: url(#SVGID_5_);
+      }
+
+      .cls-10 {
+        fill: #1f1f1f;
+      }
+
+      .cls-11 {
+        fill: #9e1f20;
+      }
+
+      .cls-12 {
+        fill: #c1272d;
+      }
+
+      .cls-13 {
+        fill: #2c2c2c;
+      }
+
+      .cls-14 {
+        fill: #222;
+      }
+
+      .cls-15 {
+        fill: #f66;
+      }
+
+      .cls-16 {
+        fill: #7cb2e8;
+      }
+
+      .cls-17 {
+        fill: #ff69f8;
+      }
+
+      .cls-18 {
+        fill: #40e2a0;
+      }
+
+      .cls-19 {
+        fill: #050505;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-20 {
+        fill: #f2f2f2;
+      }
+
+      .cls-21, .cls-22, .cls-23, .cls-24, .cls-25 {
+        isolation: isolate;
+      }
+
+      .cls-21 {
+        opacity: 0.1;
+      }
+
+      .cls-22, .cls-24, .cls-29 {
+        opacity: 0.08;
+      }
+
+      .cls-22 {
+        fill: url(#SVGID_6_);
+      }
+
+      .cls-23 {
+        opacity: 0.22;
+      }
+
+      .cls-24 {
+        fill: url(#SVGID_7_);
+      }
+
+      .cls-25 {
+        opacity: 0.25;
+      }
+
+      .cls-26 {
+        fill: #0b0b0f;
+      }
+
+      .cls-27 {
+        opacity: 0.2;
+      }
+
+      .cls-28 {
+        fill: url(#SVGID_8_);
+      }
+    </style>
+    <pattern
+       id="SVGID_5_-3"
+       data-name="SVGID 5 "
+       width="71"
+       height="71"
+       patternTransform="translate(-14969.26 1511.28) scale(0.1)"
+       patternUnits="userSpaceOnUse"
+       viewBox="0 0 71 71">
+      <rect
+         class="cls-1"
+         width="71"
+         height="71"
+         id="rect939" />
+      <g
+         id="g949">
+        <polygon
+           class="cls-1"
+           points="0 0 71 0 71 71 0 71 0 0"
+           id="polygon941" />
+        <g
+           id="g947">
+          <polygon
+             class="cls-1"
+             points="0 0 71 0 71 71 0 71 0 0"
+             id="polygon943" />
+          <path
+             class="cls-2"
+             d="M41.8,35.5a6.3,6.3,0,1,1-6.3-6.3A6.27,6.27,0,0,1,41.8,35.5Z"
+             id="path945" />
+        </g>
+      </g>
+    </pattern>
+    <pattern
+       id="SVGID_6_-2"
+       data-name="SVGID 6 "
+       width="40"
+       height="103"
+       patternTransform="translate(-11177.56 6671.22) rotate(16) scale(0.34)"
+       patternUnits="userSpaceOnUse"
+       viewBox="0 0 40 103">
+      <rect
+         class="cls-1"
+         width="40"
+         height="103"
+         id="rect952" />
+      <g
+         id="g990">
+        <polygon
+           class="cls-1"
+           points="0 0 40 0 40 103 0 103 0 0"
+           id="polygon954" />
+        <g
+           id="g988">
+          <polygon
+             class="cls-1"
+             points="0 0 40 0 40 103 0 103 0 0"
+             id="polygon956" />
+          <polygon
+             points="34.5 231.8 37.5 231.8 37.5 77.3 34.5 77.3 34.5 231.8"
+             id="polygon958" />
+          <polygon
+             points="26.5 231.8 29.5 231.8 29.5 77.3 26.5 77.3 26.5 231.8"
+             id="polygon960" />
+          <polygon
+             points="18.5 231.8 21.5 231.8 21.5 77.3 18.5 77.3 18.5 231.8"
+             id="polygon962" />
+          <polygon
+             points="10.5 231.8 13.5 231.8 13.5 77.3 10.5 77.3 10.5 231.8"
+             id="polygon964" />
+          <polygon
+             points="2.5 231.8 5.5 231.8 5.5 77.3 2.5 77.3 2.5 231.8"
+             id="polygon966" />
+          <polygon
+             points="34.5 128.8 37.5 128.8 37.5 -25.7 34.5 -25.7 34.5 128.8"
+             id="polygon968" />
+          <polygon
+             points="26.5 128.8 29.5 128.8 29.5 -25.7 26.5 -25.7 26.5 128.8"
+             id="polygon970" />
+          <polygon
+             points="18.5 128.8 21.5 128.8 21.5 -25.7 18.5 -25.7 18.5 128.8"
+             id="polygon972" />
+          <polygon
+             points="10.5 128.8 13.5 128.8 13.5 -25.7 10.5 -25.7 10.5 128.8"
+             id="polygon974" />
+          <polygon
+             points="2.5 128.8 5.5 128.8 5.5 -25.7 2.5 -25.7 2.5 128.8"
+             id="polygon976" />
+          <polygon
+             points="34.5 25.8 37.5 25.8 37.5 -128.7 34.5 -128.7 34.5 25.8"
+             id="polygon978" />
+          <polygon
+             points="26.5 25.8 29.5 25.8 29.5 -128.7 26.5 -128.7 26.5 25.8"
+             id="polygon980" />
+          <polygon
+             points="18.5 25.8 21.5 25.8 21.5 -128.7 18.5 -128.7 18.5 25.8"
+             id="polygon982" />
+          <polygon
+             points="10.5 25.8 13.5 25.8 13.5 -128.7 10.5 -128.7 10.5 25.8"
+             id="polygon984" />
+          <polygon
+             points="2.5 25.8 5.5 25.8 5.5 -128.7 2.5 -128.7 2.5 25.8"
+             id="polygon986" />
+        </g>
+      </g>
+    </pattern>
+    <pattern
+       id="SVGID_7_-1"
+       data-name="SVGID 7 "
+       width="40"
+       height="103"
+       patternTransform="matrix(-0.33, 0.09, 0.09, 0.33, -22107.61, 6714.99)"
+       patternUnits="userSpaceOnUse"
+       viewBox="0 0 40 103">
+      <rect
+         class="cls-1"
+         width="40"
+         height="103"
+         id="rect993" />
+      <g
+         id="g1031">
+        <polygon
+           class="cls-1"
+           points="0 0 40 0 40 103 0 103 0 0"
+           id="polygon995" />
+        <g
+           id="g1029">
+          <polygon
+             class="cls-1"
+             points="0 0 40 0 40 103 0 103 0 0"
+             id="polygon997" />
+          <polygon
+             points="34.5 231.8 37.5 231.8 37.5 77.3 34.5 77.3 34.5 231.8"
+             id="polygon999" />
+          <polygon
+             points="26.5 231.8 29.5 231.8 29.5 77.3 26.5 77.3 26.5 231.8"
+             id="polygon1001" />
+          <polygon
+             points="18.5 231.8 21.5 231.8 21.5 77.3 18.5 77.3 18.5 231.8"
+             id="polygon1003" />
+          <polygon
+             points="10.5 231.8 13.5 231.8 13.5 77.3 10.5 77.3 10.5 231.8"
+             id="polygon1005" />
+          <polygon
+             points="2.5 231.8 5.5 231.8 5.5 77.3 2.5 77.3 2.5 231.8"
+             id="polygon1007" />
+          <polygon
+             points="34.5 128.8 37.5 128.8 37.5 -25.7 34.5 -25.7 34.5 128.8"
+             id="polygon1009" />
+          <polygon
+             points="26.5 128.8 29.5 128.8 29.5 -25.7 26.5 -25.7 26.5 128.8"
+             id="polygon1011" />
+          <polygon
+             points="18.5 128.8 21.5 128.8 21.5 -25.7 18.5 -25.7 18.5 128.8"
+             id="polygon1013" />
+          <polygon
+             points="10.5 128.8 13.5 128.8 13.5 -25.7 10.5 -25.7 10.5 128.8"
+             id="polygon1015" />
+          <polygon
+             points="2.5 128.8 5.5 128.8 5.5 -25.7 2.5 -25.7 2.5 128.8"
+             id="polygon1017" />
+          <polygon
+             points="34.5 25.8 37.5 25.8 37.5 -128.7 34.5 -128.7 34.5 25.8"
+             id="polygon1019" />
+          <polygon
+             points="26.5 25.8 29.5 25.8 29.5 -128.7 26.5 -128.7 26.5 25.8"
+             id="polygon1021" />
+          <polygon
+             points="18.5 25.8 21.5 25.8 21.5 -128.7 18.5 -128.7 18.5 25.8"
+             id="polygon1023" />
+          <polygon
+             points="10.5 25.8 13.5 25.8 13.5 -128.7 10.5 -128.7 10.5 25.8"
+             id="polygon1025" />
+          <polygon
+             points="2.5 25.8 5.5 25.8 5.5 -128.7 2.5 -128.7 2.5 25.8"
+             id="polygon1027" />
+        </g>
+      </g>
+    </pattern>
+    <pattern
+       id="SVGID_8_-9"
+       data-name="SVGID 8 "
+       width="71"
+       height="71"
+       patternTransform="translate(-14969.26 1511.28) scale(0.1)"
+       patternUnits="userSpaceOnUse"
+       viewBox="0 0 71 71">
+      <rect
+         class="cls-1"
+         width="71"
+         height="71"
+         id="rect1034" />
+      <g
+         id="g1044">
+        <polygon
+           class="cls-1"
+           points="0 0 71 0 71 71 0 71 0 0"
+           id="polygon1036" />
+        <g
+           id="g1042">
+          <polygon
+             class="cls-1"
+             points="0 0 71 0 71 71 0 71 0 0"
+             id="polygon1038" />
+          <path
+             class="cls-3"
+             d="M41.8,35.5a6.3,6.3,0,1,1-6.3-6.3A6.27,6.27,0,0,1,41.8,35.5Z"
+             id="path1040" />
+        </g>
+      </g>
+    </pattern>
+    <style
+       id="style1613">
+      .cls-1 {
+        fill: #c1272d;
+      }
+
+      .cls-2, .cls-4 {
+        isolation: isolate;
+        opacity: 0.25;
+      }
+
+      .cls-3 {
+        fill: #3ed8d2;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path
+     class="cls-1"
+     d="m 55.772112,20.061749 c -0.920134,-1.11053 -9.740888,-0.5394 -9.962984,-0.41248 -0.22211,0.12691 -4.537301,3.80752 -4.981508,4.44211 -0.44422,0.63459 -0.380748,0.92015 -0.380748,0.92015 0,0 -0.06336,0.28557 0.380748,0.92016 0.444207,0.63458 4.759398,4.31519 4.981508,4.44211 0.222096,0.12692 9.04285,0.69804 9.962984,-0.41248 0.920154,-1.11053 0.824964,-4.94979 0.824964,-4.94979 0,0 0.0634,-3.83925 -0.824964,-4.94978 z"
+     id="path2367-9"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:0.317295"
+     inkscape:label="Right (active)" />
+  <path
+     class="cls-1"
+     d="m 39.459871,25.931689 c 0.44422,-0.63459 0.380748,-0.92015 0.380748,-0.92015 0,0 0.06336,-0.28557 -0.380748,-0.92016 -0.444207,-0.63458 -4.759411,-4.31519 -4.981508,-4.44211 -0.22211,-0.12693 -9.042825,-0.69805 -9.962984,0.41248 -0.920145,1.11053 -0.824965,4.94979 -0.824965,4.94979 0,0 -0.09531,3.83925 0.824965,4.94978 0.920159,1.11053 9.740874,0.5394 9.962984,0.41248 0.222097,-0.12691 4.537301,-3.80752 4.981508,-4.44211 z"
+     id="path2349-7"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:0.317295"
+     inkscape:label="Left (active)" />
+  <path
+     class="cls-1"
+     d="m 16.545546,32.705739 c 0.634594,0.44421 0.920149,0.38075 0.920149,0.38075 0,0 0.285568,0.0635 0.920149,-0.38075 0.634595,-0.44421 4.315191,-4.75941 4.442107,-4.98151 0.126998,-0.22211 0.698053,-9.04288 -0.41247,-9.96304 -1.110537,-0.92015 -4.949786,-0.82497 -4.949786,-0.82497 0,0 -3.839262,-0.0952 -4.949785,0.82497 -1.110524,0.92016 -0.539401,9.74093 -0.412471,9.96304 0.126997,0.2221 3.807526,4.5373 4.442107,4.98151 z"
+     id="path2361-7"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:0.317295"
+     inkscape:label="Up (active)" />
+  <path
+     class="cls-1"
+     d="m 6.5420445,17.317319 c -0.634581,-0.44422 -0.920149,-0.38076 -0.920149,-0.38076 0,0 -0.285568,-0.0635 -0.920149,0.38076 -0.634594,0.44421 -4.31520395,4.75942 -4.44212095,4.98152 -0.126862,0.22211 -0.698052,9.04287 0.412485,9.96302 1.11052295,0.92017 4.94978495,0.82497 4.94978495,0.82497 0,0 3.839262,0.0952 4.9497865,-0.82497 1.110523,-0.92015 0.5394,-9.74091 0.41247,-9.96302 -0.126997,-0.2221 -3.8075265,-4.56904 -4.4421075,-4.98152 z"
+     id="path2355-6"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:0.317295"
+     inkscape:label="Down (active)" />
+  <path
+     class="cls-1"
+     d="m 55.772112,3.1283095 c -0.920134,-1.110527 -9.740888,-0.5394 -9.962984,-0.41248 -0.22211,0.12691 -4.537301,3.80752 -4.981508,4.44211 -0.44422,0.63459 -0.380748,0.92015 -0.380748,0.92015 0,0 -0.06336,0.28557 0.380748,0.92016 0.444207,0.63458 4.759398,4.3151895 4.981508,4.4421095 0.222096,0.12692 9.04285,0.69804 9.962984,-0.41248 0.920154,-1.11053 0.824964,-4.9497895 0.824964,-4.9497895 0,0 0.0634,-3.83925 -0.824964,-4.94978 z"
+     id="path2367"
+     style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.317295"
+     inkscape:label="Right" />
+  <path
+     class="cls-1"
+     d="m 39.459871,8.9982495 c 0.44422,-0.63459 0.380748,-0.92015 0.380748,-0.92015 0,0 0.06336,-0.28557 -0.380748,-0.92016 -0.444207,-0.63458 -4.759411,-4.31519 -4.981508,-4.44211 -0.22211,-0.12693 -9.042825,-0.698046 -9.962984,0.41248 -0.920145,1.11053 -0.824965,4.94979 -0.824965,4.94979 0,0 -0.09531,3.8392495 0.824965,4.9497795 0.920159,1.11053 9.740874,0.5394 9.962984,0.41248 0.222097,-0.12691 4.537301,-3.8075195 4.981508,-4.4421095 z"
+     id="path2349"
+     style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.317295"
+     inkscape:label="Left" />
+  <path
+     class="cls-1"
+     d="m 16.545546,15.772299 c 0.634594,0.44421 0.920149,0.38075 0.920149,0.38075 0,0 0.285568,0.0635 0.920149,-0.38075 0.634595,-0.44421 4.315191,-4.75941 4.442107,-4.98151 0.126998,-0.22211 0.698053,-9.0428755 -0.41247,-9.9630265 -1.110537,-0.920152 -4.949786,-0.824965 -4.949786,-0.824965 0,0 -3.839262,-0.09519 -4.949785,0.824965 -1.110524,0.920151 -0.539401,9.7409165 -0.412471,9.9630265 0.126997,0.2221 3.807526,4.5373 4.442107,4.98151 z"
+     id="path2361"
+     style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.317295"
+     inkscape:label="Up" />
+  <path
+     class="cls-1"
+     d="m 6.5420445,0.3838875 c -0.634581,-0.444211 -0.920149,-0.380753 -0.920149,-0.380753 0,0 -0.285568,-0.06346 -0.920149,0.380753 -0.634594,0.444212 -4.31520395,4.759412 -4.44212095,4.981512 -0.126862,0.22211 -0.698052,9.0428695 0.412485,9.9630195 1.11052295,0.92017 4.94978495,0.82497 4.94978495,0.82497 0,0 3.839262,0.0952 4.9497865,-0.82497 1.110523,-0.92015 0.5394,-9.7409095 0.41247,-9.9630195 -0.126997,-0.2221 -3.8075265,-4.569029 -4.4421075,-4.981512 z"
+     id="path2355"
+     style="fill:#4d4d4d;fill-opacity:1;stroke-width:0.317295"
+     inkscape:label="Down" />
+</svg>
