@@ -7,8 +7,8 @@
    viewBox="0 0 60.533646 29.449669"
    version="1.1"
    id="svg5"
-   sodipodi:docname="face_minimal.svg"
-   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="face_dark.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,12 +25,12 @@
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
-     inkscape:zoom="5.6568544"
-     inkscape:cx="109.33638"
-     inkscape:cy="54.623997"
+     inkscape:zoom="2.8284272"
+     inkscape:cx="296.10096"
+     inkscape:cy="75.30687"
      inkscape:window-width="2560"
      inkscape:window-height="1009"
-     inkscape:window-x="1912"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg5"
@@ -39,9 +39,7 @@
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0"
-     inkscape:showpageshadow="2"
-     inkscape:deskcolor="#d1d1d1">
+     fit-margin-bottom="0">
     <sodipodi:guide
        position="157.51719,189.23896"
        orientation="-1,0"
@@ -842,214 +840,144 @@
       }
     </style>
   </defs>
-  <rect
-     style="display:inline;fill:#cccccc;stroke-width:0.264583;stroke-opacity:0.5"
-     id="rect453"
-     width="93.993225"
-     height="48.947918"
-     x="-17.256039"
-     y="-8.7664375"
-     inkscape:label="Background" />
   <g
-     id="g26626"
-     inkscape:label="Y - Pressed"
+     id="g26626-5"
+     inkscape:label="Triangle  (active)"
      transform="matrix(0.26813374,0,0,0.26813374,0.71300706,-1.0630978)"
      style="display:inline">
     <path
        class="cls-7"
        d="M 196.8,111.3 A 26.3,26.3 0 1 1 223.1,85 26.33,26.33 0 0 1 196.8,111.3 Z"
-       id="path26618"
+       id="path26618-2"
        style="display:inline;fill:#ffffff;fill-opacity:1"
        inkscape:label="Button" />
-    <text
-       xml:space="preserve"
-       style="font-size:34.4539px;font-family:'Google Sans';-inkscape-font-specification:'Google Sans';display:inline;fill:#ffffff;stroke-width:1.61502;stroke-opacity:0.5"
-       x="186.11929"
-       y="97.334496"
-       id="text1120"
-       inkscape:label="Y"><tspan
-         sodipodi:role="line"
-         id="tspan1118"
-         style="fill:#4d4d4d;fill-opacity:1;stroke-width:1.61502"
-         x="186.11929"
-         y="97.334496">Y</tspan></text>
-  </g>
-  <g
-     id="g3252"
-     inkscape:label="Y"
-     transform="matrix(0.26813375,0,0,0.26813375,0.71300509,-15.73945)"
-     style="display:inline">
     <path
-       class="cls-7"
-       d="M 196.8,111.3 A 26.3,26.3 0 1 1 223.1,85 26.33,26.33 0 0 1 196.8,111.3 Z"
-       id="path3246"
-       style="display:inline;fill:#4d4d4d;fill-opacity:1"
-       inkscape:label="Button" />
-    <text
-       xml:space="preserve"
-       style="font-size:34.4539px;font-family:'Google Sans';-inkscape-font-specification:'Google Sans';display:inline;fill:#ffffff;stroke-width:1.61502;stroke-opacity:0.5"
-       x="186.11929"
-       y="97.334496"
-       id="text3250"
-       inkscape:label="Y"><tspan
-         sodipodi:role="line"
-         id="tspan3248"
-         style="fill:#ffffff;stroke-width:1.61502"
-         x="186.11929"
-         y="97.334496">Y</tspan></text>
-  </g>
-  <g
-     id="g3080"
-     inkscape:label="X - Pressed"
-     transform="matrix(0.26813375,0,0,0.26813375,0.38596107,-15.712637)"
-     style="display:inline">
-    <path
-       class="cls-7"
-       d="m 140.3,111.2 a 26.3,26.3 0 1 1 26.3,-26.3 26.33,26.33 0 0 1 -26.3,26.3 z"
-       id="path3074"
-       inkscape:label="Button"
+       class="cls-12"
+       d="m 212.8,93 -16,-27.6 -16,27.6 -1.6,2.8 h 35.2 z m -16,0 H 184.1 L 196.8,71.1 209.5,93 Z"
+       id="path26624-7"
+       inkscape:label="Icon"
        style="fill:#4d4d4d;fill-opacity:1" />
-    <text
-       xml:space="preserve"
-       style="font-size:34.4539px;font-family:'Google Sans';-inkscape-font-specification:'Google Sans';fill:#ffffff;stroke-width:1.61502;stroke-opacity:0.5"
-       x="128.86131"
-       y="97.234497"
-       id="text3078"
-       inkscape:label="X"><tspan
-         sodipodi:role="line"
-         id="tspan3076"
-         style="fill:#ffffff;stroke-width:1.61502"
-         x="128.86131"
-         y="97.234497">X</tspan></text>
   </g>
   <g
-     id="g26616"
-     inkscape:label="X"
+     id="g26616-7"
+     inkscape:label="Square  (active)"
      transform="matrix(0.26813374,0,0,0.26813374,0.38596106,-1.0362848)"
      style="display:inline">
     <path
        class="cls-7"
        d="m 140.3,111.2 a 26.3,26.3 0 1 1 26.3,-26.3 26.33,26.33 0 0 1 -26.3,26.3 z"
-       id="path26608"
+       id="path26608-2"
        inkscape:label="Button"
        style="fill:#ffffff;fill-opacity:1" />
-    <text
-       xml:space="preserve"
-       style="font-size:34.4539px;font-family:'Google Sans';-inkscape-font-specification:'Google Sans';fill:#4d4d4d;fill-opacity:1;stroke-width:1.61502;stroke-opacity:0.5"
-       x="128.86131"
-       y="97.234497"
-       id="text1116"
-       inkscape:label="X"><tspan
-         sodipodi:role="line"
-         id="tspan1114"
-         style="fill:#4d4d4d;fill-opacity:1;stroke-width:1.61502"
-         x="128.86131"
-         y="97.234497">X</tspan></text>
+    <path
+       class="cls-11"
+       d="M 151.8,70.6 H 126 v 28.6 h 28.6 V 70.6 Z m 0,25.9 h -23 v -23 h 23 z"
+       id="path26614-4"
+       inkscape:label="Icon"
+       style="fill:#4d4d4d;fill-opacity:1" />
   </g>
   <g
-     id="g2809"
-     inkscape:label="B - Pressed"
-     transform="matrix(0.26813375,0,0,0.26813375,0.05891282,-1.0362855)"
+     id="g26606-8"
+     inkscape:label="Circle  (active)"
+     transform="matrix(0.26813374,0,0,0.26813374,0.05891366,-1.0362847)"
      style="display:inline">
     <path
        class="cls-7"
        d="M 83.8,111.2 A 26.3,26.3 0 1 1 110.1,84.9 26.33,26.33 0 0 1 83.8,111.2 Z"
-       id="path2801"
+       id="path26598-9"
        inkscape:label="Button"
        style="fill:#ffffff;fill-opacity:1" />
-    <text
-       xml:space="preserve"
-       style="font-size:34.4539px;font-family:'Google Sans';-inkscape-font-specification:'Google Sans';display:inline;fill:#ffffff;stroke-width:1.61502;stroke-opacity:0.5"
-       x="72.257942"
-       y="97.234497"
-       id="text2807"
-       inkscape:label="B"><tspan
-         sodipodi:role="line"
-         id="tspan2803"
-         style="fill:#4d4d4d;fill-opacity:1;stroke-width:1.61502"
-         x="72.257942"
-         y="97.234497">B</tspan><tspan
-         sodipodi:role="line"
-         style="fill:#ffffff;stroke-width:1.61502"
-         x="72.257942"
-         y="140.30186"
-         id="tspan2805" /></text>
+    <path
+       class="cls-10"
+       d="M 83.8,66.1 A 18.9,18.9 0 1 0 102.7,85 18.95,18.95 0 0 0 83.8,66.1 Z m 0,34.9 a 16,16 0 1 1 16,-16 16,16 0 0 1 -16,16 z"
+       id="path26604-7"
+       inkscape:label="Icon"
+       style="fill:#4d4d4d;fill-opacity:1" />
+  </g>
+  <g
+     id="g26596-7"
+     transform="matrix(0.26813374,0,0,0.26813374,-0.26813374,-1.0899117)"
+     inkscape:label="X (active)"
+     style="display:inline">
+    <path
+       class="cls-7"
+       d="M 27.3,111.4 A 26.3,26.3 0 1 1 53.6,85.1 26.33,26.33 0 0 1 27.3,111.4 Z"
+       id="path26588-2"
+       style="display:inline;fill:#ffffff;fill-opacity:1"
+       inkscape:label="Button" />
+    <polygon
+       class="cls-9"
+       points="41.7,72.7 39.7,70.7 27.3,83.1 14.9,70.7 12.9,72.7 25.3,85.1 12.9,97.5 14.9,99.5 27.3,87.1 39.7,99.5 41.7,97.5 29.3,85.1 "
+       id="polygon26594-4"
+       style="fill:#4d4d4d;fill-opacity:1"
+       inkscape:label="Icon" />
+  </g>
+  <g
+     id="g26626"
+     inkscape:label="Triangle"
+     transform="matrix(0.26813374,0,0,0.26813374,0.71300706,-15.73945)">
+    <path
+       class="cls-7"
+       d="M 196.8,111.3 A 26.3,26.3 0 1 1 223.1,85 26.33,26.33 0 0 1 196.8,111.3 Z"
+       id="path26618"
+       style="display:inline;fill:#4d4d4d;fill-opacity:1"
+       inkscape:label="Button" />
+    <path
+       class="cls-12"
+       d="m 212.8,93 -16,-27.6 -16,27.6 -1.6,2.8 h 35.2 z m -16,0 H 184.1 L 196.8,71.1 209.5,93 Z"
+       id="path26624"
+       inkscape:label="Icon"
+       style="fill:#ffffff;fill-opacity:1" />
+  </g>
+  <g
+     id="g26616"
+     inkscape:label="Square"
+     transform="matrix(0.26813374,0,0,0.26813374,0.38596106,-15.712637)">
+    <path
+       class="cls-7"
+       d="m 140.3,111.2 a 26.3,26.3 0 1 1 26.3,-26.3 26.33,26.33 0 0 1 -26.3,26.3 z"
+       id="path26608"
+       inkscape:label="Button"
+       style="fill:#4d4d4d;fill-opacity:1" />
+    <path
+       class="cls-11"
+       d="M 151.8,70.6 H 126 v 28.6 h 28.6 V 70.6 Z m 0,25.9 h -23 v -23 h 23 z"
+       id="path26614"
+       inkscape:label="Icon"
+       style="fill:#ffffff;fill-opacity:1" />
   </g>
   <g
      id="g26606"
-     inkscape:label="B"
-     transform="matrix(0.26813374,0,0,0.26813374,0.05891366,-15.712637)"
-     style="display:inline">
+     inkscape:label="Circle"
+     transform="matrix(0.26813374,0,0,0.26813374,0.05891366,-15.712637)">
     <path
        class="cls-7"
        d="M 83.8,111.2 A 26.3,26.3 0 1 1 110.1,84.9 26.33,26.33 0 0 1 83.8,111.2 Z"
        id="path26598"
        inkscape:label="Button"
        style="fill:#4d4d4d;fill-opacity:1" />
-    <text
-       xml:space="preserve"
-       style="font-size:34.4539px;font-family:'Google Sans';-inkscape-font-specification:'Google Sans';display:inline;fill:#ffffff;stroke-width:1.61502;stroke-opacity:0.5"
-       x="72.257942"
-       y="97.234497"
-       id="text1112"
-       inkscape:label="B"><tspan
-         sodipodi:role="line"
-         id="tspan1110"
-         style="fill:#ffffff;stroke-width:1.61502"
-         x="72.257942"
-         y="97.234497">B</tspan><tspan
-         sodipodi:role="line"
-         style="fill:#ffffff;stroke-width:1.61502"
-         x="72.257942"
-         y="140.30186"
-         id="tspan1522" /></text>
+    <path
+       class="cls-10"
+       d="M 83.8,66.1 A 18.9,18.9 0 1 0 102.7,85 18.95,18.95 0 0 0 83.8,66.1 Z m 0,34.9 a 16,16 0 1 1 16,-16 16,16 0 0 1 -16,16 z"
+       id="path26604"
+       inkscape:label="Icon"
+       style="fill:#ffffff;fill-opacity:1" />
   </g>
   <g
      id="g26596"
-     transform="matrix(0.26813374,0,0,0.26813374,-0.26813374,-1.0899117)"
-     inkscape:label="A - Pressed"
-     style="display:inline">
+     transform="matrix(0.26813374,0,0,0.26813374,-0.26813371,-15.766264)"
+     inkscape:label="X">
     <path
        class="cls-7"
        d="M 27.3,111.4 A 26.3,26.3 0 1 1 53.6,85.1 26.33,26.33 0 0 1 27.3,111.4 Z"
        id="path26588"
-       style="display:inline;fill:#ffffff;fill-opacity:1"
-       inkscape:label="Button" />
-    <text
-       xml:space="preserve"
-       style="font-size:34.4539px;font-family:'Google Sans';-inkscape-font-specification:'Google Sans';fill:#4d4d4d;fill-opacity:1;stroke-width:1.61502;stroke-opacity:0.5"
-       x="15.310043"
-       y="97.434494"
-       id="text964"
-       inkscape:label="A"><tspan
-         sodipodi:role="line"
-         id="tspan962"
-         style="fill:#4d4d4d;fill-opacity:1;stroke-width:1.61502"
-         x="15.310043"
-         y="97.434494">A</tspan></text>
-  </g>
-  <g
-     id="g1971"
-     transform="matrix(0.26813374,0,0,0.26813374,-0.26813371,-15.766264)"
-     inkscape:label="A"
-     style="display:inline">
-    <path
-       class="cls-7"
-       d="M 27.3,111.4 A 26.3,26.3 0 1 1 53.6,85.1 26.33,26.33 0 0 1 27.3,111.4 Z"
-       id="path1965"
        style="display:inline;fill:#4d4d4d;fill-opacity:1"
        inkscape:label="Button" />
-    <text
-       xml:space="preserve"
-       style="font-size:34.4539px;font-family:'Google Sans';-inkscape-font-specification:'Google Sans';fill:#ffffff;stroke-width:1.61502;stroke-opacity:0.5"
-       x="15.310043"
-       y="97.434494"
-       id="text1969"
-       inkscape:label="A"><tspan
-         sodipodi:role="line"
-         id="tspan1967"
-         style="fill:#ffffff;stroke-width:1.61502"
-         x="15.310043"
-         y="97.434494">A</tspan></text>
+    <polygon
+       class="cls-9"
+       points="12.9,72.7 25.3,85.1 12.9,97.5 14.9,99.5 27.3,87.1 39.7,99.5 41.7,97.5 29.3,85.1 41.7,72.7 39.7,70.7 27.3,83.1 14.9,70.7 "
+       id="polygon26594"
+       style="fill:#ffffff;fill-opacity:1"
+       inkscape:label="Icon" />
   </g>
 </svg>

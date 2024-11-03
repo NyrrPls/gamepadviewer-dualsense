@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="228.78857"
-   height="111.30584"
-   viewBox="0 0 60.533646 29.449669"
+   width="52.19957"
+   height="38.847546"
+   viewBox="0 0 13.811137 10.278413"
    version="1.1"
    id="svg5"
-   sodipodi:docname="face_minimal.svg"
-   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="menu_dark.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,25 +25,24 @@
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
-     inkscape:zoom="5.6568544"
-     inkscape:cx="109.33638"
-     inkscape:cy="54.623997"
+     inkscape:zoom="8.0000002"
+     inkscape:cx="-36.437499"
+     inkscape:cy="34.374999"
      inkscape:window-width="2560"
      inkscape:window-height="1009"
-     inkscape:window-x="1912"
+     inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg5"
+     inkscape:current-layer="g3982-7-8"
      units="px"
      height="800px"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
-     inkscape:showpageshadow="2"
-     inkscape:deskcolor="#d1d1d1">
+     fit-margin-top="1"
+     fit-margin-left="1"
+     fit-margin-right="1"
+     fit-margin-bottom="1"
+     lock-margins="true">
     <sodipodi:guide
-       position="157.51719,189.23896"
+       position="-47.420154,28.162122"
        orientation="-1,0"
        id="guide9844"
        inkscape:label=""
@@ -791,265 +790,45 @@
         </g>
       </g>
     </pattern>
-    <style
-       id="style1139">
-      .cls-1 {
-        fill: #2c2c2c;
-      }
-
-      .cls-2 {
-        fill: #222;
-      }
-
-      .cls-3 {
-        fill: #7cb2e8;
-      }
-
-      .cls-4 {
-        fill: #f66;
-      }
-
-      .cls-5 {
-        fill: #ff69f8;
-      }
-
-      .cls-6 {
-        fill: #40e2a0;
-      }
-
-      .cls-7 {
-        fill: #d3d3d3;
-      }
-
-      .cls-8 {
-        fill: #ddd;
-      }
-
-      .cls-9 {
-        fill: #834d17;
-      }
-
-      .cls-10 {
-        fill: #099;
-      }
-
-      .cls-11 {
-        fill: #009607;
-      }
-
-      .cls-12 {
-        fill: #bf1d5f;
-      }
-    </style>
   </defs>
-  <rect
-     style="display:inline;fill:#cccccc;stroke-width:0.264583;stroke-opacity:0.5"
-     id="rect453"
-     width="93.993225"
-     height="48.947918"
-     x="-17.256039"
-     y="-8.7664375"
-     inkscape:label="Background" />
   <g
-     id="g26626"
-     inkscape:label="Y - Pressed"
-     transform="matrix(0.26813374,0,0,0.26813374,0.71300706,-1.0630978)"
-     style="display:inline">
-    <path
-       class="cls-7"
-       d="M 196.8,111.3 A 26.3,26.3 0 1 1 223.1,85 26.33,26.33 0 0 1 196.8,111.3 Z"
-       id="path26618"
-       style="display:inline;fill:#ffffff;fill-opacity:1"
-       inkscape:label="Button" />
-    <text
-       xml:space="preserve"
-       style="font-size:34.4539px;font-family:'Google Sans';-inkscape-font-specification:'Google Sans';display:inline;fill:#ffffff;stroke-width:1.61502;stroke-opacity:0.5"
-       x="186.11929"
-       y="97.334496"
-       id="text1120"
-       inkscape:label="Y"><tspan
-         sodipodi:role="line"
-         id="tspan1118"
-         style="fill:#4d4d4d;fill-opacity:1;stroke-width:1.61502"
-         x="186.11929"
-         y="97.334496">Y</tspan></text>
-  </g>
-  <g
-     id="g3252"
-     inkscape:label="Y"
-     transform="matrix(0.26813375,0,0,0.26813375,0.71300509,-15.73945)"
-     style="display:inline">
-    <path
-       class="cls-7"
-       d="M 196.8,111.3 A 26.3,26.3 0 1 1 223.1,85 26.33,26.33 0 0 1 196.8,111.3 Z"
-       id="path3246"
-       style="display:inline;fill:#4d4d4d;fill-opacity:1"
-       inkscape:label="Button" />
-    <text
-       xml:space="preserve"
-       style="font-size:34.4539px;font-family:'Google Sans';-inkscape-font-specification:'Google Sans';display:inline;fill:#ffffff;stroke-width:1.61502;stroke-opacity:0.5"
-       x="186.11929"
-       y="97.334496"
-       id="text3250"
-       inkscape:label="Y"><tspan
-         sodipodi:role="line"
-         id="tspan3248"
-         style="fill:#ffffff;stroke-width:1.61502"
-         x="186.11929"
-         y="97.334496">Y</tspan></text>
-  </g>
-  <g
-     id="g3080"
-     inkscape:label="X - Pressed"
-     transform="matrix(0.26813375,0,0,0.26813375,0.38596107,-15.712637)"
-     style="display:inline">
-    <path
-       class="cls-7"
-       d="m 140.3,111.2 a 26.3,26.3 0 1 1 26.3,-26.3 26.33,26.33 0 0 1 -26.3,26.3 z"
-       id="path3074"
-       inkscape:label="Button"
-       style="fill:#4d4d4d;fill-opacity:1" />
-    <text
-       xml:space="preserve"
-       style="font-size:34.4539px;font-family:'Google Sans';-inkscape-font-specification:'Google Sans';fill:#ffffff;stroke-width:1.61502;stroke-opacity:0.5"
-       x="128.86131"
-       y="97.234497"
-       id="text3078"
-       inkscape:label="X"><tspan
-         sodipodi:role="line"
-         id="tspan3076"
-         style="fill:#ffffff;stroke-width:1.61502"
-         x="128.86131"
-         y="97.234497">X</tspan></text>
-  </g>
-  <g
-     id="g26616"
-     inkscape:label="X"
-     transform="matrix(0.26813374,0,0,0.26813374,0.38596106,-1.0362848)"
-     style="display:inline">
-    <path
-       class="cls-7"
-       d="m 140.3,111.2 a 26.3,26.3 0 1 1 26.3,-26.3 26.33,26.33 0 0 1 -26.3,26.3 z"
-       id="path26608"
-       inkscape:label="Button"
-       style="fill:#ffffff;fill-opacity:1" />
-    <text
-       xml:space="preserve"
-       style="font-size:34.4539px;font-family:'Google Sans';-inkscape-font-specification:'Google Sans';fill:#4d4d4d;fill-opacity:1;stroke-width:1.61502;stroke-opacity:0.5"
-       x="128.86131"
-       y="97.234497"
-       id="text1116"
-       inkscape:label="X"><tspan
-         sodipodi:role="line"
-         id="tspan1114"
-         style="fill:#4d4d4d;fill-opacity:1;stroke-width:1.61502"
-         x="128.86131"
-         y="97.234497">X</tspan></text>
-  </g>
-  <g
-     id="g2809"
-     inkscape:label="B - Pressed"
-     transform="matrix(0.26813375,0,0,0.26813375,0.05891282,-1.0362855)"
-     style="display:inline">
-    <path
-       class="cls-7"
-       d="M 83.8,111.2 A 26.3,26.3 0 1 1 110.1,84.9 26.33,26.33 0 0 1 83.8,111.2 Z"
-       id="path2801"
-       inkscape:label="Button"
-       style="fill:#ffffff;fill-opacity:1" />
-    <text
-       xml:space="preserve"
-       style="font-size:34.4539px;font-family:'Google Sans';-inkscape-font-specification:'Google Sans';display:inline;fill:#ffffff;stroke-width:1.61502;stroke-opacity:0.5"
-       x="72.257942"
-       y="97.234497"
-       id="text2807"
-       inkscape:label="B"><tspan
-         sodipodi:role="line"
-         id="tspan2803"
-         style="fill:#4d4d4d;fill-opacity:1;stroke-width:1.61502"
-         x="72.257942"
-         y="97.234497">B</tspan><tspan
-         sodipodi:role="line"
-         style="fill:#ffffff;stroke-width:1.61502"
-         x="72.257942"
-         y="140.30186"
-         id="tspan2805" /></text>
-  </g>
-  <g
-     id="g26606"
-     inkscape:label="B"
-     transform="matrix(0.26813374,0,0,0.26813374,0.05891366,-15.712637)"
-     style="display:inline">
-    <path
-       class="cls-7"
-       d="M 83.8,111.2 A 26.3,26.3 0 1 1 110.1,84.9 26.33,26.33 0 0 1 83.8,111.2 Z"
-       id="path26598"
-       inkscape:label="Button"
-       style="fill:#4d4d4d;fill-opacity:1" />
-    <text
-       xml:space="preserve"
-       style="font-size:34.4539px;font-family:'Google Sans';-inkscape-font-specification:'Google Sans';display:inline;fill:#ffffff;stroke-width:1.61502;stroke-opacity:0.5"
-       x="72.257942"
-       y="97.234497"
-       id="text1112"
-       inkscape:label="B"><tspan
-         sodipodi:role="line"
-         id="tspan1110"
-         style="fill:#ffffff;stroke-width:1.61502"
-         x="72.257942"
-         y="97.234497">B</tspan><tspan
-         sodipodi:role="line"
-         style="fill:#ffffff;stroke-width:1.61502"
-         x="72.257942"
-         y="140.30186"
-         id="tspan1522" /></text>
-  </g>
-  <g
-     id="g26596"
-     transform="matrix(0.26813374,0,0,0.26813374,-0.26813374,-1.0899117)"
-     inkscape:label="A - Pressed"
-     style="display:inline">
-    <path
-       class="cls-7"
-       d="M 27.3,111.4 A 26.3,26.3 0 1 1 53.6,85.1 26.33,26.33 0 0 1 27.3,111.4 Z"
-       id="path26588"
-       style="display:inline;fill:#ffffff;fill-opacity:1"
-       inkscape:label="Button" />
-    <text
-       xml:space="preserve"
-       style="font-size:34.4539px;font-family:'Google Sans';-inkscape-font-specification:'Google Sans';fill:#4d4d4d;fill-opacity:1;stroke-width:1.61502;stroke-opacity:0.5"
-       x="15.310043"
-       y="97.434494"
-       id="text964"
-       inkscape:label="A"><tspan
-         sodipodi:role="line"
-         id="tspan962"
-         style="fill:#4d4d4d;fill-opacity:1;stroke-width:1.61502"
-         x="15.310043"
-         y="97.434494">A</tspan></text>
-  </g>
-  <g
-     id="g1971"
-     transform="matrix(0.26813374,0,0,0.26813374,-0.26813371,-15.766264)"
-     inkscape:label="A"
-     style="display:inline">
-    <path
-       class="cls-7"
-       d="M 27.3,111.4 A 26.3,26.3 0 1 1 53.6,85.1 26.33,26.33 0 0 1 27.3,111.4 Z"
-       id="path1965"
-       style="display:inline;fill:#4d4d4d;fill-opacity:1"
-       inkscape:label="Button" />
-    <text
-       xml:space="preserve"
-       style="font-size:34.4539px;font-family:'Google Sans';-inkscape-font-specification:'Google Sans';fill:#ffffff;stroke-width:1.61502;stroke-opacity:0.5"
-       x="15.310043"
-       y="97.434494"
-       id="text1969"
-       inkscape:label="A"><tspan
-         sodipodi:role="line"
-         id="tspan1967"
-         style="fill:#ffffff;stroke-width:1.61502"
-         x="15.310043"
-         y="97.434494">A</tspan></text>
+     id="layer2"
+     inkscape:label="Dualsense"
+     style="display:inline;opacity:1"
+     inkscape:groupmode="layer"
+     transform="translate(-206.17015,-59.02345)">
+    <g
+       id="g3866-3"
+       style="display:inline;opacity:1"
+       transform="translate(-276.29944,-181.90389)"
+       inkscape:label="Shoulder Buttons"
+       inkscape:groupmode="layer" />
+    <g
+       id="g3982-7-8"
+       style="display:inline"
+       transform="matrix(-0.16552326,0.02978768,0.02978768,0.16552326,90.007921,-11.52032)"
+       inkscape:label="Menu Buttons"
+       inkscape:groupmode="layer">
+      <path
+         class="cls-12"
+         d="m -620.35262,539.69475 a 16.852054,16.852054 0 0 0 -16.85204,16.85205 v 24.67141 a 16.852054,16.852054 0 0 0 33.70409,-10e-6 v -24.67141 a 16.852054,16.852054 0 0 0 -16.85205,-16.85204 z"
+         id="path3980-6-0"
+         inkscape:label="Select"
+         style="fill:#4d4d4d;fill-opacity:1;stroke-width:1.34816" />
+      <path
+         class="cls-12"
+         d="m -660.60894,546.93926 a 16.852054,16.852054 0 0 0 -16.85204,16.85205 v 24.67141 a 16.852054,16.852054 0 0 0 33.70409,-10e-6 V 563.7913 a 16.852054,16.852054 0 0 0 -16.85205,-16.85204 z"
+         id="path3980-6-0-4"
+         inkscape:label="Select"
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke-width:1.34816" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="layer5"
+       inkscape:label="Buttons" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer6"
+       inkscape:label="DPad" />
   </g>
 </svg>
