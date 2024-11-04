@@ -25,9 +25,9 @@
      showgrid="false"
      showguides="false"
      inkscape:guide-bbox="true"
-     inkscape:zoom="5.6568544"
-     inkscape:cx="93.956811"
-     inkscape:cy="54.623997"
+     inkscape:zoom="2.8284272"
+     inkscape:cx="141.24458"
+     inkscape:cy="65.760929"
      inkscape:window-width="2560"
      inkscape:window-height="1009"
      inkscape:window-x="1912"
@@ -843,7 +843,7 @@
     </style>
   </defs>
   <rect
-     style="display:inline;fill:#cccccc;stroke-width:0.264583;stroke-opacity:0.5"
+     style="display:none;fill:#cccccc;stroke-width:0.264583;stroke-opacity:0.5"
      id="rect453"
      width="93.993225"
      height="48.947918"
@@ -947,8 +947,7 @@
        inkscape:label="Button"
        style="fill:#ffffff;fill-opacity:1" />
     <g
-       aria-label="B
-"
+       aria-label="B "
        id="text2807"
        style="font-size:34.4539px;font-family:'Google Sans';-inkscape-font-specification:'Google Sans';display:inline;fill:#ffffff;stroke-width:1.61502;stroke-opacity:0.5"
        inkscape:label="B">
@@ -970,8 +969,7 @@
        inkscape:label="Button"
        style="fill:#4d4d4d;fill-opacity:1" />
     <g
-       aria-label="B
-"
+       aria-label="B "
        id="text1112"
        style="font-size:34.4539px;font-family:'Google Sans';-inkscape-font-specification:'Google Sans';display:inline;fill:#ffffff;stroke-width:1.61502;stroke-opacity:0.5"
        inkscape:label="B">
